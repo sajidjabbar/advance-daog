@@ -40,7 +40,7 @@
                 <div class="box-wrapper">
                     <div class="box-img-wrapper">
                         <figure>
-                            <img src="img/private.png" class="img-fluid advantage1" alt="">
+                            <img src="img/maintenance.jpg" class="img-fluid advantage1" alt="">
                         </figure>
                     </div>
                     <div class="box-content-wrapper">
@@ -52,7 +52,7 @@
                 <div class="box-wrapper">
                     <div class="box-img-wrapper">
                         <figure>
-                            <img src="img/advantage2.png" class="img-fluid" alt="">
+                            <img src="img/aero-maintenance.jpg" class="img-fluid aero" alt="">
                         </figure>
                     </div>
                     <div class="box-content-wrapper">
@@ -97,7 +97,7 @@
         <div class="row">
             <div class="col-lg-6 px-0">
                 <figure>
-                    <img src="img/mech.png" class="img-fluid" alt="">
+                    <img src="img/difference.jpg" class="img-fluid diff" alt="">
                 </figure>
             </div>
             <div class="col-lg-6 px-0 blue">
@@ -118,7 +118,7 @@
             </div>
             <div class="col-lg-6 px-0">
                 <figure>
-                    <img src="img/private2.png" class="img-fluid" alt="">
+                    <img src="img/aviation.jpg" class="img-fluid aviation" alt="">
                 </figure>
             </div>
         </div>

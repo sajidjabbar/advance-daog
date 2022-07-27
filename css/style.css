@@ -295,8 +295,14 @@ header .nav-toggle-wrapper button {
   height: 422px;
   object-fit: cover;
   border-radius: 10px;
+  width: 1000px;
 }
-
+.diff {
+  height: 445px;
+}
+.aviation {
+  height: 470px;
+}
 /* advantage ends here */
 /* solution starts here */
 .solution-wrapper {
@@ -466,6 +472,7 @@ section.testimonials .content-wrapper h2 {
   padding: 35px;
   padding-bottom: 19px;
   border-radius: 0px 7px 7px 0px;
+  height: 425px;
 }
 
 .client-name-wrapper {
