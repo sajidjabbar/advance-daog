@@ -38,19 +38,23 @@
                     <div class="text-on-right-side">
                         <div class="normal-para">
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-                                exercitation ullamco laboris nisi ut aliquip ex ea Duis aute irure dolor in
-                                reprehenderit.
+                            Owned and operated by  since our inception in  Advancedaog is one of the leaders of the aviation industry, known and respected by manufacturers, operators, and various other service providers globally for our expertise, work ethic, communication, timeliness, value, and quality.
+
                             </p>
+                            <p>In order to be able to serve our clients better and take care of their personalized requirements, Advancedaog provides their travel plans via local and city-specific operations instead of an online national operation with a 900 number and floating feet.
+</p>
                         </div>
+                        <h3>We provide the following services:</h3>
                         <div class="list-items">
                             <ul>
-                                <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
-                                <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
-                                <li>Aliquam tincidunt mauris eu risus.</li>
-                                <li>Vestibulum auctor dapibus neque.</li>
-                                <li>Nunc dignissim risus id metus.</li>
+                                <li>24/7 AOG Support is available at </li>
+                                <li>AOG Maintenance</li>
+                                <li>Avionics</li>
+                                <li>Design Engineering</li>
+                                <li>	Aircraft Management</li>
+                                <li>	Aircraft Brokerage</li>
+                                <li>	Factory Trained Technicians
+</li>
                             </ul>
                         </div>
                         <div class="link-to-services mt-5">
@@ -129,8 +133,16 @@
                 <div class="col-md-8 ">
                     <div class="text-box text-center">
                         <h1>Advancedaog Qualities</h1>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p>
+                        <p>Advancedaog has access to a wide range of heavy to light private jets, so you can choose one which is perfect for you. </p>
+</div>
+                        <div class="list-items">
+                            <ul>
+                                <li>We take a personalized approach to travel plans.</li>
+                                <li>You get unmatched customer service and value.
+</li>
+                                <li>We ensure there are no hiccups in your travel plans.</li>
+
+                            </ul>
                     </div>
                 </div>
             </div>
@@ -184,15 +196,12 @@
                         <div class="text-wraper">
                             <h1>Who we Actually are</h1>
                             <p class="mt-4">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                incididunt ut labore et dolore magna aliqua. Mauris a diam maecenas sed enim ut sem.
-                                Tincidunt dui ut ornare lectus sit amet est. Duis at tellus at urna. Vel turpis nunc
-                                eget lorem dolor sed viverra ipsum nunc. Praesent semper feugiat nibh sed.
+                            Advancedaog’s commitment and dedication to a local operation base clearly indicate their devotion to delivering top-notch customer support. Right from the minute you pick up your phone to schedule your journey, to the very second you land home,
+                             each and everything will be taken care of by thorough professionals at Advancedaog. 
                             </p>
                             <p class="mt-4">
-                                Nulla facilisi morbi tempus iaculis urna id volutpat lacus laoreet. Sem fringilla ut
-                                morbi tincidunt augue. Semper risus in hendrerit gravida rutrum quisque non tellus orci.
-                                Neque gravida in fermentum et.
+                            Making plans and flying with Advancedaog is as convenient and easy as turning on your car. Since we are equipped with premium jets, pilots and have a ground facility, you will enjoy the pleasure of flying in your own private jet in your own private terminal.  
+
                             </p>
                             <div class="link-to-services mt-5">
                             <a href="blogs-detail.php">Read More &nbsp;&nbsp; <img src="img/right-arrow.png" alt=""></a>

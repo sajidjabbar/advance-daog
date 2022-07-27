@@ -23,10 +23,9 @@
     <div class="container">
         <div class="top-text-strat text-center">
             <h6>Contact Us Now</h6>
-            <h2 class="mt-1">We are always here to Help You</h2>
+            <h2 class="mt-1">We Are Just A Call Away!</h2>
             <p class="mt-3">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+            In case of any questions or queries regarding our services, feel free to reach out to us by filling out the form below. Once submitted, our representative will get back to you shortly.
             </p>
         </div>
         <div class="form-start mt-4">

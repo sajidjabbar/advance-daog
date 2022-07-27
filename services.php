@@ -25,7 +25,7 @@
             <div class="for-top-text">
                 <h1>We Offer Wide range of
                     Aircraft services </h1>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p>
+                <p>From region to region, coast to coast, Advancedaog is constantly making headlines in the world of aviation for its exemplary services.</p>
             </div>
             <div class="more-blogs">
                 <div class="row">
@@ -35,10 +35,10 @@
                             <div class="blog-text">
                                 <!-- <span>Tyler Cauble | December 2021 | Betting</span> -->
                                 <h5>
-                                    Lorem ipsum dolor sit amet, consectetur...
+                                AOG MAINTENANCE
                                 </h5>
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+                                Our Aircraft on Ground or AOG Maintenance engineers will find a way to help you no matter where you are.  
                                 </p>
                                 <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.png" alt=""></a>
                             </div>
@@ -50,10 +50,10 @@
                             <div class="blog-text">
                                 <!-- <span>Tyler Cauble | December 2021 | Betting</span> -->
                                 <h5>
-                                    Lorem ipsum dolor sit amet, consectetur...
+                                BASE MAINTENANCE
                                 </h5>
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+                                Advancedaog strives to become your only company for your aircraft haul. Anytime. Anywhere.
                                 </p>
                                 <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.png" alt=""></a>
                             </div>
@@ -65,10 +65,10 @@
                             <div class="blog-text">
                                 <!-- <span>Tyler Cauble | December 2021 | Betting</span> -->
                                 <h5>
-                                    Lorem ipsum dolor sit amet, consectetur...
+                                AVIONICS
                                 </h5>
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+                                Advancedaog’s engineering and avionics expertise, mixed with their solid relationships with manufacturers, have established them as the leading provider of avionics systems for private jets.
                                 </p>
                                 <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.png" alt=""></a>
                             </div>
@@ -80,10 +80,10 @@
                             <div class="blog-text">
                                 <!-- <span>Tyler Cauble | December 2021 | Betting</span> -->
                                 <h5>
-                                    Lorem ipsum dolor sit amet, consectetur...
+                                DESIGN ENGINEERING
                                 </h5>
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+                                For over years, Advancedaog has managed to transform countless of promising concepts into productive solutions
                                 </p>
                                 <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.png" alt=""></a>
                             </div>
@@ -95,10 +95,10 @@
                             <div class="blog-text">
                                 <!-- <span>Tyler Cauble | December 2021 | Betting</span> -->
                                 <h5>
-                                    Lorem ipsum dolor sit amet, consectetur...
+                                AIRCRAFT MANAGEMENT
                                 </h5>
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+                                We realize that keeping an aircraft is a massive investment that requires utmost care. When you choose us for your aircraft management, you unlock a variety of services focused on savings, service, and safety. 
                                 </p>
                                 <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.png" alt=""></a>
                             </div>
@@ -110,10 +110,10 @@
                             <div class="blog-text">
                                 <!-- <span>Tyler Cauble | December 2021 | Betting</span> -->
                                 <h5>
-                                    Lorem ipsum dolor sit amet, consectetur...
+                                AIRCRAFT BROKERAGE
                                 </h5>
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+                                Our experienced brokerage team works in the interests of the clients to help them secure a good deal and resolve any financial, customs, and legal objectives that may come in the way.
                                 </p>
                                 <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.png" alt=""></a>
                             </div>

@@ -24,9 +24,9 @@
         <div class="all-blogs">
             <div class="col-md-8">
                 <div class="blogs-top-text">
-                    <h1>Read Our Amazing blogs</h1>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                        labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation</p>
+                    <h1>Check Out Our Blogs</h1>
+                    <p>Don’t forget to check out our recent blogs. Learn what it feels to experience the thrill of travelling with Advancedaog.
+</p>
                 </div>
             </div>
             <div class="bogs-section-start">

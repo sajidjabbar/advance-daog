@@ -6,7 +6,7 @@
                     <a href="index.php">
                         <img src="img/footer-logo.svg" width="206px" class="img-fluid" alt="">
                     </a>
-                    <p>Lorem ipsum dolor sit amet, <br> consectetur adipiscing elit, sed do <br> eiusmod tempor.</p>
+                    <p>We haven’t just set <br>  the standards for <br>  elite service. We’re <br> soaring beyond them.</p>
                     <ul class="social-links d-flex">
                         <li>
                             <a href="#">
