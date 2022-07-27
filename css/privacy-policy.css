@@ -1,0 +1,35 @@
+.banner {
+    background-image: url(../img/about-banner.png);
+    height: 288px;
+    padding-top: 0px !important;
+    background-size: cover;
+    padding-bottom: 0px !important;
+    background-repeat: no-repeat;
+    margin-top: -74px;
+    color: #fff;
+}
+
+.content-wrapper {
+    position: absolute;
+    top: 150px;
+}
+
+.privacy-policy-start{
+    padding: 50px 0px 100px 0px;
+}
+
+.for-page-main-heading h2 {
+    color: #002154;
+    font-family: "Aileron-SemiBold";
+    font-size: 48px;
+}
+
+.page-all-paragraphs{
+    margin-top: 45px;
+}
+
+.page-all-paragraphs p {
+    color: #000000;
+    font-family: "Aileron-Light";
+    font-size: 17px;
+}

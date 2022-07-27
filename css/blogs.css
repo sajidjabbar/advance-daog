@@ -1,0 +1,161 @@
+.banner {
+    background-image: url(../img/about-banner.png);
+    height: 288px;
+    padding-top: 0px !important;
+    background-size: cover;
+    padding-bottom: 0px !important;
+    background-repeat: no-repeat;
+    margin-top: -74px;
+    color: #fff;
+}
+
+.content-wrapper {
+    position: absolute;
+    top: 150px;
+}
+
+
+.page-item .page-link.arrows img {
+    width: 9px;
+}
+
+.page-link {
+    position: relative;
+    display: block;
+    padding: .25rem 0.5rem;
+    margin-left: -1px;
+    line-height: 1.25;
+    color: #0275d8;
+    background-color: #fff;
+    border: 1px solid #ddd;
+}
+
+.for-pagination {
+    display: flex;
+    justify-content: left;
+    margin-top: 114px;
+    margin-bottom: 35px;
+}
+
+.for-pagination .page-link {
+    color: #6E6E6E;
+    font-size: 16px;
+    font-family: "Aileron-Regular";
+}
+
+.for-pagination .page-link.not-active {
+    border: 2px solid #B6B6B6 !important;
+}
+
+.page-item {
+    margin: 0px 4px;
+}
+
+.page-link {
+    background-color: transparent;
+    border: 0px !important;
+}
+
+.page-link.active {
+    background-color: #FFFFFF;
+    color: #002154;
+    border-radius: 0px !important;
+    border: 2px solid #002154 !important;
+}
+
+.page-item .page-link.arrows {
+    margin-left: 0;
+    background: #002154;
+    border-radius: 0px !important;
+    padding: 6px 11px !important;
+}
+.for-the-page-number {
+    position: absolute;
+    right: 35px;
+    /* top: 0px; */
+    bottom: -15px;
+}
+
+.for-the-page-number span {
+    color: #000000;
+    font-size: 13.5px;
+    font-family: "Poppins-Regular" !important;
+}
+
+.single-blog {
+    padding: 40px 0px;
+    border-bottom: 1px solid #00000042;
+}
+
+.blogs-top-text {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.blogs-top-text h1 {
+    color: #002154;
+    font-family: "Aileron-SemiBold";
+    font-size: 48px;
+}
+
+.blogs-top-text p {
+    color: #000000;
+    font-family: "Aileron-Regular";
+    font-size: 18px;
+}
+
+.blog-text {
+    width: 88%;
+}
+
+.blog-text h5 {
+    color: #002154;
+    font-size: 24.5px;
+    font-family: "Aileron-Bold";
+
+}
+
+.blog-text span {
+    color: #000000;
+    font-size: 11px;
+    font-family: "Aileron-Light";
+    opacity: 0.4;
+}
+
+.blog-text p {
+    color: #000000;
+    font-size: 18px;
+    font-family: "Aileron-Regular";
+    margin-top: 12px;
+}
+
+.blog-text a {
+    color: #136EFA;
+    font-family: "Aileron-Regular";
+    font-size: 16px;
+}
+
+@media screen and (max-width: 991px) {
+    .blog-text {
+        width: 100%;
+    }
+
+    .blog-text h5 {
+        line-height: 22px;
+        font-size: 20px;
+    }
+
+    .blog-text p {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .blogs-top-text h1 {
+        font-size: 33px;
+    }
+
+    .blogs-top-text p {
+        font-size: 14px;
+    }
+}

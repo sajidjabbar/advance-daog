@@ -1,0 +1,162 @@
+figure {
+    margin-bottom: 0px;
+}
+
+
+.main-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    background-image: url(../img/for-login.png);
+    background-size: cover;
+    height: 100%;
+}
+
+
+
+.logo-in-login-page {
+    position: absolute;
+}
+
+.login-start {
+    margin-top: 120px;
+    width: 97%;
+}
+
+.main-heading h2 {
+    font-family: "Aileron-SemiBold" !important;
+    color: #002154;
+    font-size: 45px;
+}
+
+.text-box h4 {
+    font-family: "Aileron-Bold";
+    font-weight: unset !important;
+    color: #000000;
+}
+
+.text-box h4 span {
+    font-family: "Aileron-Regular";
+    font-size: 24px;
+}
+
+.text-box h5 {
+    font-family: "Aileron-Regular";
+    color: #000000;
+    font-weight: unset;
+}
+
+.text-box span {
+    font-size: 15px;
+}
+
+.text-box a:hover {
+    text-decoration: none;
+}
+
+.text-box a {
+    color: #002154;
+    font-family: "Aileron-Bold";
+    font-size: 15px;
+}
+
+.form-start {
+    margin-top: 45px;
+}
+
+.form-row{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.form-control{
+    width: 48% !important;
+}
+
+.all-inputs {
+    border-radius: 30px;
+    border: 1px solid #0000002e;
+    padding-left: 25px;
+    padding-top: 15px;
+    padding-bottom: 14px;
+    font-size: 13px;
+    font-family: "Aileron-Light";
+    color: #63606086;
+}
+
+.form-submit-btn {
+    border-radius: 30px;
+    background-color: #136EFA;
+    font-family: "Aileron-Regular";
+    color: #FFFFFF;
+    font-size: 15px;
+    padding-top: 15px;
+    padding-bottom: 14px;
+}
+
+.for-remeber-me-forget-forgot-paswrod {
+    display: flex;
+    justify-content: space-between;
+}
+
+.for-remeber-me-forget-forgot-paswrod {
+    margin-top: 100px;
+}
+
+.remember-me label {
+    color: #636060;
+    font-family: "Aileron-Regular";
+    font-size: 13px;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.forgot-password a {
+    color: #0E3A20;
+    font-family: "Aileron-Regular";
+    font-size: 13px;
+}
+
+.agree-terms-and-conditions {
+    margin-top: 130px;
+}
+
+.agree-terms-and-conditions p {
+    font-family: "Aileron-Light";
+    color: #636060;
+    font-size: 13px;
+}
+
+.agree-terms-and-conditions p a {
+    color: #002154;
+    font-family: "Aileron-Regular";
+    font-size: 13px;
+}
+
+@media screen and (max-width: 990px) {
+    .login-start{
+        margin-left: 15px;
+    }
+    .logo-in-login-page a img{
+        width: 300px;
+    }
+    h4{
+        font-size: 19px;
+    }
+    h4 span{
+        font-size: 19px;
+    }
+    h5{
+        font-size: 17px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .img-box{
+        display: none;
+    }
+}

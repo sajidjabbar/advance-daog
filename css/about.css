@@ -1,0 +1,177 @@
+.banner {
+    background-image: url(../img/about-banner.png);
+    height: 288px;
+    padding-top: 0px !important;
+    background-size: cover;
+    padding-bottom: 0px !important;
+    background-repeat: no-repeat;
+    margin-top: -74px;
+    color: #fff;
+}
+
+.content-wrapper1 {
+    position: absolute;
+    top: 150px;
+}
+
+
+/* We are Best Start Here */
+section.why-we-are-best {
+    padding: 130px 0px 80px 0px;
+}
+
+.text-on-right-side {
+    padding-top: 35px;
+    padding-left: 35px;
+
+}
+
+.heading-img h1 {
+    color: #002154;
+    font-size: 45px;
+    font-family: "Aileron-SemiBold";
+    margin-bottom: 50px;
+}
+
+.normal-para p {
+    color: #000000;
+    font-size: 18px;
+    font-family: "Aileron-Light";
+
+}
+
+.list-items li {
+    color: #000000;
+    font-size: 18px;
+    font-family: "Aileron-Light";
+}
+
+.list-items ul {
+    padding-left: 22px;
+}
+
+.list-items li {
+    color: #000000;
+    font-size: 16px;
+    font-family: "Aileron-Light";
+}
+
+.list-items li::before {
+    content: "";
+    padding-left: 13px;
+}
+
+.list-items li::marker {
+    font-size: 21px;
+    margin-left: 12px;
+    color: #136EFA;
+}
+
+.link-to-services a {
+    color: #136EFA;
+    font-family: "Aileron-Regular";
+    font-size: 16px;
+}
+
+/* Best Section End Here */
+
+
+/* Qualities section start here */
+.advanced-daog-qualities {
+    padding: 50px 0px;
+}
+
+.single-quality {
+    padding: 25px 25px;
+}
+
+.text-box h1 {
+    color: #002154;
+    font-size: 48px;
+    font-family: "Aileron-SemiBold";
+}
+
+.text-box p {
+    color: #000000;
+    font-size: 18px;
+    font-family: "Aileron-Light";
+}
+
+.single-quality h4 {
+    color: #002154;
+    font-size: 26px;
+    font-family: "Aileron-SemiBold";
+    line-height: 31px;
+}
+
+/* Qualities End Here */
+
+/* Who we are start Here */
+.who-we-are-section {
+    padding: 50px 0px;
+    background-color: #EFF8FF;
+}
+
+.text-wraper h1 {
+    color: #002154;
+    font-size: 48px;
+    font-family: "Aileron-SemiBold";
+}
+
+.text-wraper p {
+    color: #000000;
+    font-size: 16.8px;
+    font-family: "Aileron-Light";
+}
+
+/* Who we are End here */
+/* TEAM BHEIND START HERE */
+section.team-behind-start{
+    padding: 135px 0px 85px 0px;
+}
+.for-heading h1 {
+    color: #002154;
+    font-size: 48px;
+    font-family: "Aileron-SemiBold";
+    text-align: center;
+}
+
+
+
+.single-person {
+    border-radius: 11px;
+    overflow: hidden;
+    background-color: #002154;
+}
+.single-person figure {
+    margin: 0px;
+}
+
+.for-img img{
+    width: 100%;
+}
+
+.member-detail {
+    text-align: center;
+    background-color: #002154;
+    padding: 12px 0px 19px 0px;
+}
+
+.member-detail h4 {
+    color: #FFFFFF;
+    font-size: 26px;
+    font-family: "Aileron-SemiBold";
+    margin-bottom: 0px;
+}
+
+.member-detail p {
+    color: #FFFFFF;
+    font-size: 13.5px;
+    font-family: "Aileron-Regular";
+}
+.member-detail a{
+    color: #FFFFFF;
+    font-size: 16px;
+    font-family: "Aileron-Regular";
+    text-decoration: underline;
+}

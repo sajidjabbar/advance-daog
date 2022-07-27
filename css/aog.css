@@ -1,0 +1,108 @@
+.banner {
+    background-image: url(../img/about-banner.png);
+    height: 288px;
+    padding-top: 0px !important;
+    background-size: cover;
+    padding-bottom: 0px !important;
+    background-repeat: no-repeat;
+    margin-top: -74px;
+    color: #fff;
+}
+
+
+
+.content-wrapper {
+    position: absolute;
+    top: 150px;
+}
+
+.aog-top-text-section {
+    padding: 50px 0px;
+}
+
+.aog-top-text-section .text-start-here h1 {
+    color: #002154;
+    width: 541px;
+    font-size: 48px;
+}
+
+.aog-top-text-section .text-start-here p {
+    color: #000000;
+    font-family: "Aileron-Regular";
+    font-size: 17px;
+    width: 830px;
+}
+
+
+/* aog maintenenance start here */
+.single-maintenance {
+    margin-top: 80px;
+}
+
+.side-text-1 {
+    padding-left: 25px;
+}
+
+.side-text-2 {
+    padding-right: 25px;
+}
+
+.normal-text h1 {
+    color: #002154;
+    font-size: 47px;
+    font-family: "Aileron-SemiBold";
+}
+
+.normal-text p,
+.list-items li {
+    color: #000000;
+    font-size: 18px;
+    font-family: "Aileron-Light";
+}
+
+.list-items ul {
+    padding-left: 22px;
+}
+
+.list-items li {
+    color: #000000;
+    font-size: 16px;
+    font-family: "Aileron-Light";
+}
+
+.list-items li::marker {
+    font-size: 21px;
+    margin-left: 12px;
+    color: #136EFA;
+}
+
+
+/* section end here */
+
+/* Qualities section start here */
+.advanced-daog-qualities {
+    padding: 50px 0px;
+}
+
+.single-quality{
+    padding: 25px 25px;
+}
+
+.text-box h1 {
+    color: #002154;
+    font-size: 48px;
+    font-family: "Aileron-SemiBold";
+}
+
+.text-box p {
+    color: #000000;
+    font-size: 18px;
+    font-family: "Aileron-Light";
+}
+
+.single-quality h4 {
+    color: #002154;
+    font-size: 26px;
+    font-family: "Aileron-SemiBold";
+    line-height: 31px;
+}
