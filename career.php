@@ -24,9 +24,8 @@
     <div class="container">
         <div class="oppportunity-top-start">
             <div class="for-top-text-start">
-                <h2>Find the Career Opportunity <br>in Advancedaog</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                    et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation</p>
+                <h2>Reach New Heights <br> With Advancedaog</h2>
+                <p>Do you have a passion for Aviation? If yes, explore the wonderful opportunities listedbelow.</p>
             </div>
             <div class="search-or-select-category">
                 <div class="for-search">
