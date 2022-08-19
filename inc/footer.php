@@ -74,7 +74,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <p>© 2022 Advancedaog. All Right Reserved</p>
+                    <p>© 2022 Advanced AOG. All Right Reserved</p>
                 </div>
             </div>
         </div>
