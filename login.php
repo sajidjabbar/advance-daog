@@ -15,16 +15,17 @@
                             <h2>Login</h2>
                         </div>
                         <div class="text-box mt-5">
-                            <h4 class="mb-0"><span>Welcome Back to</span> Advancedaog</h4>
+                            <h4 class="mb-0"><span>Welcome Back to</span> Advanced AOG</h4>
                             <h5 class="mb-0">Committed to provide Benifits</h5>
                             <span>Not a Member ?</span>&nbsp;&nbsp; <a href="register.php">Register</a>
                         </div>
                         <div class="form-start">
-                            <form method="POST" >
+                            <form method="POST">
                                 <div class="form-row">
-                                    <input type="text" class="form-control mt-2 all-inputs" name="" placeholder="Email" id="">
+                                    <input type="text" class="form-control mt-2 all-inputs" name="" placeholder="Email"
+                                        id="">
                                 </div>
-                               
+
                                 <div class="form-row">
                                     <button type="submit" class="form-control mt-2 form-submit-btn">Login</button>
                                 </div>
@@ -33,8 +34,8 @@
                         <div class="for-remeber-me-forget-forgot-paswrod">
                             <div class="remember-me">
                                 <label for="rememberme">
-                                    <input type="checkbox" name="" id="rememberme"> 
-                                    &nbsp;&nbsp;&nbsp;    Remember Me
+                                    <input type="checkbox" name="" id="rememberme">
+                                    &nbsp;&nbsp;&nbsp; Remember Me
                                 </label>
                             </div>
                             <div class="forgot-password">
@@ -42,11 +43,12 @@
                             </div>
                         </div>
                         <div class="agree-terms-and-conditions">
-                            <p>By Creating Account  you are agree to our <a href="terms-condition.php"> Terms & conditions</a></p>
+                            <p>By Creating Account you are agree to our <a href="terms-condition.php"> Terms &
+                                    conditions</a></p>
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-1 "  id="for-remove-space"></div>
+                <div class="col-xl-1 " id="for-remove-space"></div>
                 <div class="col-xl-6 col-lg-6 col-md-6 px-0">
                     <div class="img-box">
                         <div class="main-image">

@@ -24,7 +24,7 @@
     <div class="container">
         <div class="oppportunity-top-start">
             <div class="for-top-text-start">
-                <h2>Reach New Heights <br> With Advancedaog</h2>
+                <h2>Reach New Heights <br> With Advanced AOG</h2>
                 <p>Do you have a passion for Aviation? If yes, explore the wonderful opportunities listedbelow.</p>
             </div>
             <div class="search-or-select-category">

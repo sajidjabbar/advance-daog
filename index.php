@@ -7,10 +7,12 @@
         <div class="row">
             <div class="col-lg-7">
                 <div class="content-wrapper">
-                    <h2>Experience What True Benefits Luxury Feels Like
-                         <!-- <span>Benefits Luxury Feels Like </span> -->
-                        </h2>
-                    <p>Whether you’re looking for an exclusive business-related round trip or a luxurious one-way family vacation, where time is of the essence, Advancedaog can help. We haven’t just set the standards for elite service. We’re soaring beyond them.</p>
+                    <h2>Maintenance, Avionics, & AOG Services
+                        <!-- <span>Benefits Luxury Feels Like </span> -->
+                    </h2>
+                    <p>Whether you’re looking for an exclusive business-related round trip or a luxurious one-way family
+                        vacation, where time is of the essence, Advanced AOG can help. We haven’t just set the standards
+                        for elite service. We’re soaring beyond them.</p>
                     <div class="button-group mt-4">
                         <button class="btn">Learn More</button>
                         <button class="btn transparent">Contact Now</button>
@@ -27,9 +29,11 @@
         <div class="row">
             <div class="col-lg-8">
                 <div class="content-wrapper">
-                    <h2>What Advancedaog Offers</h2>
-                    <p>Advancedaog is a luxurious, full-service private aircraft corporation established to ensure an extraordinary private flight experience for our customers all over the globe. Our services include – but are not limited to – AOG Maintenance, Base Maintenance, Avionics,
-                         Design Engineering, Aircraft Management, and Aircraft Brokerage.</p>
+                    <h2>What Advanced AOG Offers</h2>
+                    <p>Advanced AOG is a luxurious, full-service private aircraft corporation established to ensure an
+                        extraordinary private flight experience for our customers all over the globe. Our services
+                        include – but are not limited to – AOG Maintenance, Base Maintenance, Avionics,
+                        Design Engineering, Aircraft Management, and Aircraft Brokerage.</p>
                     <a href="#">Our Services <i class="fa fa-long-arrow-right"></i></a>
                 </div>
             </div>
@@ -40,7 +44,7 @@
                 <div class="box-wrapper">
                     <div class="box-img-wrapper">
                         <figure>
-                            <img src="img/maintenance.jpg" class="img-fluid advantage1" alt="">
+                            <img src="img/advantage1.png" class="img-fluid advantage1" alt="">
                         </figure>
                     </div>
                     <div class="box-content-wrapper">
@@ -52,7 +56,7 @@
                 <div class="box-wrapper">
                     <div class="box-img-wrapper">
                         <figure>
-                            <img src="img/aero-maintenance.jpg" class="img-fluid aero" alt="">
+                            <img src="img/advantage2.png" class="img-fluid aero" alt="">
                         </figure>
                     </div>
                     <div class="box-content-wrapper">
@@ -75,55 +79,61 @@
 </section>
 <!-- Advantage sec ends here -->
 <!-- makes us section starts here -->
-<section class="make-us">
+<!-- <section class="make-us">
     <div class="container-fluid">
         <div class="row">
             <div class="col-lg-5"></div>
             <div class="col-lg-7">
                 <div class="content-wrapper">
-                    <h2>Why Advancedaog? </h2>
-                    <p>No matter how overwhelmed we are, our utmost priority at Advancedaog has always been to guarantee a kind, gentle, and prompt response to all our customer queries. We aspire to continue serving our clients with
-                         the same enthusiasm and responsiveness for years to come. </p>
+                    <h2>Why Advanced AOG? </h2>
+                    <p>No matter how overwhelmed we are, our utmost priority at Advanced AOG has always been to
+                        guarantee
+                        a kind, gentle, and prompt response to all our customer queries. We aspire to continue serving
+                        our clients with
+                        the same enthusiasm and responsiveness for years to come. </p>
                     <a href="#">Find Now <i class="fa fa-long-arrow-right"></i></a>
                 </div>
             </div>
         </div>
     </div>
-</section>
+</section> -->
 <!-- makes us section ends here -->
 <!-- solution wrapper starts here -->
-<section class="solution-wrapper">
+<!-- <section class="solution-wrapper">
     <div class="container">
         <div class="row">
             <div class="col-lg-6 px-0">
                 <figure>
-                    <img src="img/difference.jpg" class="img-fluid diff" alt="">
+                    <img src="img/mech.png" class="img-fluid diff" alt="">
                 </figure>
             </div>
             <div class="col-lg-6 px-0 blue">
                 <div class="content-wrapper">
-                    <h2>Advancedaog – Making a Difference </h2>
-                    <p>At Advancedaog, we have adopted a pretty unique approach to private jet services. A more tailored, attentive approach. We believe innovation is the key; hence,
-                         we are constantly exploring ways to make your travel more accessible, safer, and hassle-free.  </p>
+                    <h2>Advanced AOG – Making a Difference </h2>
+                    <p>At Advanced AOG, we have adopted a pretty unique approach to private jet services. A more
+                        tailored, attentive approach. We believe innovation is the key; hence,
+                        we are constantly exploring ways to make your travel more accessible, safer, and hassle-free.
+                    </p>
                     <a href="#">Find Now <i class="fa fa-long-arrow-right"></i></a>
                 </div>
             </div>
             <div class="col-lg-6 px-0 blue">
                 <div class="content-wrapper">
                     <h2>Becoming Your Favorite Aviation Company</h2>
-                    <p>Ever since its inception, Advancedaog has successfully managed to offer an unparalleled and unmatched level of luxurious services to all 
+                    <p>Ever since its inception, Advanced AOG has successfully managed to offer an unparalleled and
+                        unmatched level of luxurious services to all
                         their customers, becoming their go-to aviation service provider. </p>
                     <a href="#">Find Now <i class="fa fa-long-arrow-right"></i></a>
                 </div>
             </div>
             <div class="col-lg-6 px-0">
                 <figure>
-                    <img src="img/aviation.jpg" class="img-fluid aviation" alt="">
+                    <img src="img/advantage.png" class="img-fluid aviation" alt="">
                 </figure>
             </div>
         </div>
     </div>
-</section>
+</section> -->
 <!-- solution wrapper starts here -->
 <!-- why choose us section starts here -->
 <section class="choose">
@@ -131,9 +141,10 @@
         <div class="row">
             <div class="col-lg-12">
                 <div class="content-wrapper blue-section text-center">
-                    <h2>Why Choose Advancedaog</h2>
-                    <p>Now reach your destination with optimal levels of privacy, luxury, and comfort. Fly with Advancedaog today. 
-                         </p>
+                    <h2>Why Choose Advanced AOG</h2>
+                    <p>Now reach your destination with optimal levels of privacy, luxury, and comfort. Fly with
+                        Advanced AOG today.
+                    </p>
                 </div>
             </div>
         </div>
@@ -193,7 +204,7 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-5 pr-0">
+            <div class="col-lg-5 pr-0 testi">
                 <div class="partner-wrapper">
                     <h4 class="text-center">Our Partners</h4>
                     <ul>
@@ -212,8 +223,10 @@
                             <img src="img/upper-quote.svg" alt="">
                         </div>
                         <div class="testimonails-quote">
-                            <p>“Ever since my first interaction, Advancedaog has proven to be extremely competent in ensuring high-quality services. Their customer staff is very co-operative and always finds a solution to my problems.”
- </p>
+                            <p>“Ever since my first interaction, Advanced AOG has proven to be extremely competent in
+                                ensuring high-quality services. Their customer staff is very co-operative and always
+                                finds a solution to my problems.”
+                            </p>
                         </div>
                         <div class="quotelower">
                             <img src="img/lower-quote.svg" alt="">
@@ -233,8 +246,11 @@
                             <img src="img/upper-quote.svg" alt="">
                         </div>
                         <div class="testimonails-quote">
-                            <p>greatly values their relationship with Advancedaog. Over the years, Advancedaog has helped us massively with Aircraft Management and provided extremely skilled individuals whenever needed. They’re undoubtedly one of the leading aviation services providers out there. We highly recommend Advancedaog.”
- </p>
+                            <p>greatly values their relationship with Advanced AOG. Over the years, Advanced AOG has
+                                helped us massively with Aircraft Management and provided extremely skilled individuals
+                                whenever needed. They’re undoubtedly one of the leading aviation services providers out
+                                there. We highly recommend Advanced AOG.”
+                            </p>
                         </div>
                         <div class="quotelower">
                             <img src="img/lower-quote.svg" alt="">
@@ -254,7 +270,10 @@
                             <img src="img/upper-quote.svg" alt="">
                         </div>
                         <div class="testimonails-quote">
-                            <p>“​Advancedaog works really hard to ensure a smooth, safe, luxurious experience with top-quality jets and service. What I like most about them is that they are always willing to go the extra mile to provide no matter what is required. I truly believe their unrivaled customer service is what sets them apart.” </p>
+                            <p>“​Advanced AOG works really hard to ensure a smooth, safe, luxurious experience with
+                                top-quality jets and service. What I like most about them is that they are always
+                                willing to go the extra mile to provide no matter what is required. I truly believe
+                                their unrivaled customer service is what sets them apart.” </p>
                         </div>
                         <div class="quotelower">
                             <img src="img/lower-quote.svg" alt="">
@@ -274,7 +293,9 @@
                             <img src="img/upper-quote.svg" alt="">
                         </div>
                         <div class="testimonails-quote">
-                            <p>“Ever since my first interaction, Advancedaog has proven to be extremely competent in ensuring high-quality services. Their customer staff is very co-operative and always finds a solution to my problems.” </p>
+                            <p>“Ever since my first interaction, Advanced AOG has proven to be extremely competent in
+                                ensuring high-quality services. Their customer staff is very co-operative and always
+                                finds a solution to my problems.” </p>
                         </div>
                         <div class="quotelower">
                             <img src="img/lower-quote.svg" alt="">
@@ -302,7 +323,8 @@
             <div class="col-lg-8">
                 <div class="newsletter-content-wrapper text-white">
                     <h2>Subscribe To Our Newsletter To Know Our Latest News</h2>
-                    <p>To stay updated with all our latest information, please subscribe to our newsletter and be the first to receive notifications regarding our discounts, services, and much more!</p>
+                    <p>To stay updated with all our latest information, please subscribe to our newsletter and be the
+                        first to receive notifications regarding our discounts, services, and much more!</p>
                     <div class="input-group">
                         <input type="email" class="form-control" placeholder="Write Your Email">
                         <span class="input-group-btn">

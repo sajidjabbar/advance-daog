@@ -434,3 +434,120 @@
     font-size: 13.5px;
     font-family: "Poppins-Regular" !important;
 }
+/* responsive start */
+@media (max-width:1024px) {
+    .all-paginations {
+        padding-bottom: 80px;
+    }
+  }
+@media (max-width:820px) {
+    .all-paginations {
+        padding-bottom: 80px;
+    }
+  }
+@media (max-width: 678px) {
+    .all-paginations {
+        padding-bottom: 80px;
+    }
+    .newsletter-content-wrapper.text-white h2 {
+        font-size: 36px;
+    }
+    .for-job-date {
+        right: 84px;
+    }
+    .view-detail-btn {
+        margin-right: 7px;
+        margin-top: 12px;
+    }
+  }
+@media (max-width: 575px) {
+    .all-paginations {
+        padding-bottom: 80px;
+    }
+    .newsletter-content-wrapper.text-white h2 {
+        font-size: 36px;
+    }
+    .for-job-date {
+        right: 94px;
+    }  
+    .view-detail-btn {
+        margin-right: 7px;
+        margin-top: 12px;
+    }
+  }
+@media (max-width: 414px) {
+    .all-paginations {
+        padding-bottom: 80px;
+    }
+    .newsletter-content-wrapper.text-white h2 {
+        font-size: 36px;
+    }
+    .for-job-date {
+        right: 43px;
+    }
+    .view-detail-btn {
+        margin-right: 7px;
+        margin-top: 12px;
+    }
+  }
+@media (max-width: 390px) {
+    .all-paginations {
+        padding-bottom: 80px;
+    }
+    .newsletter-content-wrapper.text-white h2 {
+        font-size: 36px;
+    }
+    .for-job-date {
+        right: 43px;
+    }
+    .view-detail-btn {
+        margin-right: 7px;
+        margin-top: 12px;
+    }
+  }
+@media (max-width: 375px) {
+    .all-paginations {
+        padding-bottom: 80px;
+    }
+    .newsletter-content-wrapper.text-white h2 {
+        font-size: 36px;
+    }
+    .for-job-date {
+        right: 43px;
+    }
+    .view-detail-btn {
+        margin-right: 7px;
+        margin-top: 12px;
+    }
+  }
+@media (max-width: 360px) {
+    .all-paginations {
+        padding-bottom: 80px;
+    }
+    .newsletter-content-wrapper.text-white h2 {
+        font-size: 36px;
+    }
+    .for-job-date {
+        right: 43px;
+    }
+    .view-detail-btn {
+        margin-right: 7px;
+        margin-top: 12px;
+    }
+  }
+@media (max-width: 320px) {
+    .all-paginations {
+        padding-bottom: 80px;
+    }
+    .newsletter-content-wrapper.text-white h2 {
+        font-size: 36px;
+    }
+    .for-job-date {
+        right: 43px;
+    }
+    .view-detail-btn {
+        margin-right: 7px;
+        margin-top: 12px;
+    }
+  }
+  /* responsive start */

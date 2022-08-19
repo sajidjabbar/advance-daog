@@ -14,8 +14,6 @@
     top: 150px;
 }
 
-
-
 /* services */
 .services {
     padding-top: 84px;
@@ -80,3 +78,117 @@
         font-size: 14px;
     }
 }
+@media (max-width: 575px) {
+    .services {
+        padding-top: 54px;
+        padding-bottom: 125px;
+    }
+    .all-more-blogs h1 {
+        font-size: 38px;
+        width: 100%;
+    }
+    .for-top-text p {
+        font-size: 16px;
+    }
+    .partner-text{
+        padding: 0px;
+    }
+    .testimonials-wrapper {
+        height: 525px;
+    }
+  }
+@media (max-width: 414px) {
+    .services {
+        padding-top: 54px;
+        padding-bottom: 125px;
+    }
+    .all-more-blogs h1 {
+        font-size: 38px;
+        width: 100%;
+    }
+    .for-top-text p {
+        font-size: 16px;
+    }
+    .partner-text{
+        padding: 0px;
+    }
+    .testimonials-wrapper {
+        height: 525px;
+    }
+  }
+  @media (max-width: 393px) {
+    .services {
+        padding-top: 54px;
+        padding-bottom: 125px;
+    }
+    .all-more-blogs h1 {
+        font-size: 38px;
+        width: 100%;
+    }
+    .for-top-text p {
+        font-size: 16px;
+    }
+    .partner-text{
+        padding: 0px;
+    }
+    .testimonials-wrapper {
+        height: 525px;
+    }
+  }
+@media (max-width: 390px) {
+    .services {
+        padding-top: 54px;
+        padding-bottom: 125px;
+    }
+    .all-more-blogs h1 {
+        font-size: 38px;
+        width: 100%;
+    }
+    .for-top-text p {
+        font-size: 16px;
+    }
+    .partner-text{
+        padding: 0px;
+    }
+    .testimonials-wrapper {
+        height: 525px;
+    }
+  }
+@media (max-width: 375px) {
+    .services {
+        padding-top: 54px;
+        padding-bottom: 125px;
+    }
+    .all-more-blogs h1 {
+        font-size: 38px;
+        width: 100%;
+    }
+    .for-top-text p {
+        font-size: 16px;
+    }
+    .partner-text{
+        padding: 0px;
+    }
+    .testimonials-wrapper {
+        height: 525px;
+    }
+  }
+  @media (max-width: 320px) {
+    .services {
+        padding-top: 54px;
+        padding-bottom: 125px;
+    }
+    .all-more-blogs h1 {
+        font-size: 38px;
+        width: 100%;
+    }
+    .for-top-text p {
+        font-size: 16px;
+    }
+    .partner-text{
+        padding: 0px;
+    }
+    .testimonials-wrapper {
+        height: 525px;
+    }
+  }

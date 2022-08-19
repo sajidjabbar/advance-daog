@@ -104,7 +104,7 @@
                 <div class="col-md-2"></div>
                 <div class="col-md-8 ">
                     <div class="text-box text-center">
-                        <h1>Advancedaog Qualities</h1>
+                        <h1>Advanced AOG Qualities</h1>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
                             labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p>
                     </div>

@@ -14,7 +14,6 @@
     top: 150px;
 }
 
-
 /* We are Best Start Here */
 section.why-we-are-best {
     padding: 130px 0px 80px 0px;
@@ -175,3 +174,162 @@ section.team-behind-start{
     font-family: "Aileron-Regular";
     text-decoration: underline;
 }
+/* responsive start */
+@media (max-width: 820px) {
+    .heading-img {
+        margin-top: 180px;
+    }
+    section.why-we-are-best {
+        padding: 50px 0px 70px 0px;
+    }
+    .banner {
+        background-size: 100% 100%; 
+    }
+  }
+@media (max-width: 768px) {
+    .heading-img {
+        margin-top: 180px;
+    }
+    section.why-we-are-best {
+        padding: 50px 0px 70px 0px;
+    }
+    .banner {
+        background-size: 100% 100%; 
+    }
+  }
+@media (max-width: 575px) {
+    .banner {
+        background-size: 100% 100%; 
+    }
+    .text-on-right-side {
+        padding-top: 35px;
+        padding-left: 5px;
+    }
+    .list-items ul {
+        padding-left: 22px;
+    }
+    section.why-we-are-best {
+        padding: 110px 0px 50px 0px;
+    }
+    .list-items ul {
+        padding-left: 32px;
+    }
+    .list-items li {
+        font-size: 12px; 
+    }
+    .text-box p {
+        font-size: 15px;
+    }
+    .text-box h1 {
+        font-size: 37px;
+    }
+  }
+@media (max-width: 414px) {
+    .banner {
+        background-size: 100% 100%; 
+    }
+    .text-on-right-side {
+        padding-top: 35px;
+        padding-left: 5px;
+    }
+    .list-items ul {
+        padding-left: 22px;
+    }
+    section.why-we-are-best {
+        padding: 110px 0px 50px 0px;
+    }
+    .list-items ul {
+        padding-left: 32px;
+    }
+    .list-items li {
+        font-size: 12px; 
+    }
+    .text-box p {
+        font-size: 15px;
+    }
+    .text-box h1 {
+        font-size: 37px;
+    }
+  }
+  @media (max-width: 375px) {
+    .banner {
+        background-size: 100% 100%; 
+    }
+    .text-on-right-side {
+        padding-top: 35px;
+        padding-left: 5px;
+    }
+    .list-items ul {
+        padding-left: 22px;
+    }
+    section.why-we-are-best {
+        padding: 110px 0px 50px 0px;
+    }
+    .list-items ul {
+        padding-left: 32px;
+    }
+    .list-items li {
+        font-size: 12px; 
+    }
+    .text-box p {
+        font-size: 15px;
+    }
+    .text-box h1 {
+        font-size: 37px;
+    }
+  }
+  @media (max-width: 360px) {
+    .banner {
+        background-size: 100% 100%; 
+    }
+    .text-on-right-side {
+        padding-top: 35px;
+        padding-left: 5px;
+    }
+    .list-items ul {
+        padding-left: 22px;
+    }
+    section.why-we-are-best {
+        padding: 110px 0px 50px 0px;
+    }
+    .list-items ul {
+        padding-left: 32px;
+    }
+    .list-items li {
+        font-size: 12px; 
+    }
+    .text-box p {
+        font-size: 15px;
+    }
+    .text-box h1 {
+        font-size: 37px;
+    }
+  }
+  @media (max-width: 320px) {
+    .banner {
+        background-size: 100% 100%; 
+    }
+    .text-on-right-side {
+        padding-top: 35px;
+        padding-left: 5px;
+    }
+    .list-items ul {
+        padding-left: 22px;
+    }
+    section.why-we-are-best {
+        padding: 110px 0px 50px 0px;
+    }
+    .list-items ul {
+        padding-left: 32px;
+    }
+    .list-items li {
+        font-size: 12px; 
+    }
+    .text-box p {
+        font-size: 15px;
+    }
+    .text-box h1 {
+        font-size: 37px;
+    }
+  }
+  /* responsive end */

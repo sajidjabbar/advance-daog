@@ -15,23 +15,29 @@
                             <h2>Register</h2>
                         </div>
                         <div class="text-box mt-5">
-                            <h4 class="mb-0"><span>Welcome Back to</span> Advancedaog</h4>
+                            <h4 class="mb-0"><span>Welcome Back to</span> Advanced AOG</h4>
                             <h5 class="mb-0">Committed to provide Benifits</h5>
                             <span>Already a Member ?</span>&nbsp;&nbsp; <a href="login.php">Login</a>
                         </div>
                         <div class="form-start">
-                            <form method="POST" >
+                            <form method="POST">
                                 <div class="form-row">
-                                    <input type="text" class="form-control mt-4 all-inputs" name="" placeholder="First Name" id="">
-                                    <input type="text" class="form-control mt-4 all-inputs" name="" placeholder="Last Name" id="">
+                                    <input type="text" class="form-control mt-4 all-inputs" name=""
+                                        placeholder="First Name" id="">
+                                    <input type="text" class="form-control mt-4 all-inputs" name=""
+                                        placeholder="Last Name" id="">
                                 </div>
                                 <div class="form-row">
-                                    <input type="text" class="form-control mt-4 all-inputs" name="" placeholder="Phone Number" id="">
-                                    <input type="text" class="form-control mt-4 all-inputs" name="" placeholder="Email" id="">
+                                    <input type="text" class="form-control mt-4 all-inputs" name=""
+                                        placeholder="Phone Number" id="">
+                                    <input type="text" class="form-control mt-4 all-inputs" name="" placeholder="Email"
+                                        id="">
                                 </div>
                                 <div class="form-row">
-                                    <input type="text" class="form-control mt-4 all-inputs" name="" placeholder="Password" id="">
-                                    <input type="text" class="form-control mt-4 all-inputs" name="" placeholder="Confirm password" id="">
+                                    <input type="text" class="form-control mt-4 all-inputs" name=""
+                                        placeholder="Password" id="">
+                                    <input type="text" class="form-control mt-4 all-inputs" name=""
+                                        placeholder="Confirm password" id="">
                                 </div>
                                 <div class="form-row">
                                     <button type="submit" class="form-control mt-4 form-submit-btn">Sign Up</button>
@@ -39,7 +45,8 @@
                             </form>
                         </div>
                         <div class="agree-terms-and-conditions">
-                            <p>By Creating Account  you are agree to our <a href="terms-condition.php"> Terms & conditions</a></p>
+                            <p>By Creating Account you are agree to our <a href="terms-condition.php"> Terms &
+                                    conditions</a></p>
                         </div>
                     </div>
                 </div>

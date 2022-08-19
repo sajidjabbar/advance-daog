@@ -19,14 +19,14 @@
 </section>
 <!-- banner ends here -->
 
-<!-- Why Advancedaog Is Best Start Here -->
+<!-- Why Advanced AOG Is Best Start Here -->
 <section class="why-we-are-best">
     <div class="container">
         <div class="best-start-here">
             <div class="row">
                 <div class="col-md-6">
                     <div class="heading-img">
-                        <h1>Why Advancedaog Is Best</h1>
+                        <h1>Why Advanced AOG Is Best</h1>
                         <div class="for-img">
                             <figure>
                                 <img src="img/about1.png" class="img-fluid" alt="">
@@ -38,11 +38,16 @@
                     <div class="text-on-right-side">
                         <div class="normal-para">
                             <p>
-                            Owned and operated by  since our inception in  Advancedaog is one of the leaders of the aviation industry, known and respected by manufacturers, operators, and various other service providers globally for our expertise, work ethic, communication, timeliness, value, and quality.
+                                Owned and operated by since our inception in Advanced AOG is one of the leaders of the
+                                aviation industry, known and respected by manufacturers, operators, and various other
+                                service providers globally for our expertise, work ethic, communication, timeliness,
+                                value, and quality.
 
                             </p>
-                            <p>In order to be able to serve our clients better and take care of their personalized requirements, Advancedaog provides their travel plans via local and city-specific operations instead of an online national operation with a 900 number and floating feet.
-</p>
+                            <p>In order to be able to serve our clients better and take care of their personalized
+                                requirements, Advanced AOG provides their travel plans via local and city-specific
+                                operations instead of an online national operation with a 900 number and floating feet.
+                            </p>
                         </div>
                         <h3>We provide the following services:</h3>
                         <div class="list-items">
@@ -51,14 +56,15 @@
                                 <li>AOG Maintenance</li>
                                 <li>Avionics</li>
                                 <li>Design Engineering</li>
-                                <li>	Aircraft Management</li>
-                                <li>	Aircraft Brokerage</li>
-                                <li>	Factory Trained Technicians
-</li>
+                                <li> Aircraft Management</li>
+                                <li> Aircraft Brokerage</li>
+                                <li> Factory Trained Technicians
+                                </li>
                             </ul>
                         </div>
                         <div class="link-to-services mt-5">
-                            <a href="blogs-detail.php">Our Services &nbsp;&nbsp; <img src="img/right-arrow.png" alt=""></a>
+                            <a href="blogs-detail.php">Our Services &nbsp;&nbsp; <img src="img/right-arrow.png"
+                                    alt=""></a>
                         </div>
                     </div>
                 </div>
@@ -66,7 +72,7 @@
         </div>
     </div>
 </section>
-<!-- Why Advancedaog Is Best END Here -->
+<!-- Why Advanced AOG Is Best END Here -->
 <!-- why choose us section starts here -->
 <section class="choose">
     <div class="container">
@@ -132,17 +138,18 @@
                 <div class="col-md-2"></div>
                 <div class="col-md-8 ">
                     <div class="text-box text-center">
-                        <h1>Advancedaog Qualities</h1>
-                        <p>Advancedaog has access to a wide range of heavy to light private jets, so you can choose one which is perfect for you. </p>
-</div>
-                        <div class="list-items">
-                            <ul>
-                                <li>We take a personalized approach to travel plans.</li>
-                                <li>You get unmatched customer service and value.
-</li>
-                                <li>We ensure there are no hiccups in your travel plans.</li>
+                        <h1>Advanced AOG Qualities</h1>
+                        <p>Advanced AOG has access to a wide range of heavy to light private jets, so you can choose one
+                            which is perfect for you. </p>
+                    </div>
+                    <div class="list-items">
+                        <ul>
+                            <li>We take a personalized approach to travel plans.</li>
+                            <li>You get unmatched customer service and value.
+                            </li>
+                            <li>We ensure there are no hiccups in your travel plans.</li>
 
-                            </ul>
+                        </ul>
                     </div>
                 </div>
             </div>
@@ -196,26 +203,31 @@
                         <div class="text-wraper">
                             <h1>Who we Actually are</h1>
                             <p class="mt-4">
-                            Advancedaog’s commitment and dedication to a local operation base clearly indicate their devotion to delivering top-notch customer support. Right from the minute you pick up your phone to schedule your journey, to the very second you land home,
-                             each and everything will be taken care of by thorough professionals at Advancedaog. 
+                                Advanced AOG’s commitment and dedication to a local operation base clearly indicate
+                                their devotion to delivering top-notch customer support. Right from the minute you pick
+                                up your phone to schedule your journey, to the very second you land home,
+                                each and everything will be taken care of by thorough professionals at Advanced AOG.
                             </p>
                             <p class="mt-4">
-                            Making plans and flying with Advancedaog is as convenient and easy as turning on your car. Since we are equipped with premium jets, pilots and have a ground facility, you will enjoy the pleasure of flying in your own private jet in your own private terminal.  
+                                Making plans and flying with Advanced AOG is as convenient and easy as turning on your
+                                car. Since we are equipped with premium jets, pilots and have a ground facility, you
+                                will enjoy the pleasure of flying in your own private jet in your own private terminal.
 
                             </p>
                             <div class="link-to-services mt-5">
-                            <a href="blogs-detail.php">Read More &nbsp;&nbsp; <img src="img/right-arrow.png" alt=""></a>
-                        </div>
+                                <a href="blogs-detail.php">Read More &nbsp;&nbsp; <img src="img/right-arrow.png"
+                                        alt=""></a>
+                            </div>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-5">
                     <div class="for-images">
                         <figure>
-                            <img src="img/about-3.png" class="img-fluid"" alt="">
+                            <img src="img/about-3.png" class="img-fluid" alt="">
                         </figure>
                         <figure>
-                            <img src="img/about-4.png" class="img-fluid" alt="">
+                            <img id="technician" src=" img/about-4.png" class="img-fluid" alt="">
                         </figure>
                     </div>
                 </div>
@@ -229,7 +241,7 @@
     <div class="container">
         <div class="team-start-here">
             <div class="for-heading mb-4">
-                <h1>Team Behind Advancedaog</h1>
+                <h1>Team Behind Advanced AOG</h1>
             </div>
             <div class="row">
                 <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12  mt-5">

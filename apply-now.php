@@ -24,7 +24,7 @@
     <div class="container">
         <div class="top-text-strat text-center">
             <h2 class="mt-1">Apply Now & find Career
-                in Advancedaog</h2>
+                in Advanced AOG</h2>
             <p class="mt-3">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
                 dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
@@ -52,7 +52,7 @@
                         <label for="lastname">Email *</label>
                         <input type="text" name="" class="form-control" placeholder="you@example.com" id="lastname">
                     </div>
-                    
+
                 </div>
                 <div class="form-row">
                     <div class="form-input mt-3">

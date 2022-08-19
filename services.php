@@ -22,10 +22,17 @@
 <section class="services">
     <div class="container">
         <div class="all-more-blogs">
-            <div class="for-top-text">
-                <h1>We Offer Wide range of
-                    Aircraft services </h1>
-                <p>From region to region, coast to coast, Advancedaog is constantly making headlines in the world of aviation for its exemplary services.</p>
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="for-top-text">
+                        <h1>We Offer Wide range of
+                            Aircraft services </h1>
+                        <p>From region to region, coast to coast, Advanced AOG is constantly making headlines in the
+                            world
+                            of
+                            aviation for its exemplary services.</p>
+                    </div>
+                </div>
             </div>
             <div class="more-blogs">
                 <div class="row">
@@ -35,10 +42,60 @@
                             <div class="blog-text">
                                 <!-- <span>Tyler Cauble | December 2021 | Betting</span> -->
                                 <h5>
-                                AOG MAINTENANCE
+                                    AOG MAINTENANCE
                                 </h5>
                                 <p>
-                                Our Aircraft on Ground or AOG Maintenance engineers will find a way to help you no matter where you are.  
+                                    Our Aircraft on Ground or AOG Maintenance engineers will find a way to help you no
+                                    matter where you are.
+                                </p>
+                                <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.png" alt=""></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mt-5">
+                        <div class="single-blog">
+                            <img id="aircraft" src="img/service-2.png" class="img-fluid" alt="">
+                            <div class="blog-text">
+                                <!-- <span>Tyler Cauble | December 2021 | Betting</span> -->
+                                <h5>
+                                    BASE MAINTENANCE
+                                </h5>
+                                <p>
+                                    Advanced AOG strives to become your only company for your aircraft haul. Anytime.
+                                    Anywhere.
+                                </p>
+                                <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.png" alt=""></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mt-5">
+                        <div class="single-blog">
+                            <img id="aircraft" src="img/service-3.png" class="img-fluid" alt="">
+                            <div class="blog-text">
+                                <!-- <span>Tyler Cauble | December 2021 | Betting</span> -->
+                                <h5>
+                                    AVIONICS
+                                </h5>
+                                <p>
+                                    Advanced AOG’s engineering and avionics expertise, mixed with their solid
+                                    relationships with manufacturers, have established them as the leading provider of
+                                    avionics systems for private jets.
+                                </p>
+                                <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.png" alt=""></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mt-5">
+                        <div class="single-blog">
+                            <img id="aircraft" src="img/service-1.png" class="img-fluid" alt="">
+                            <div class="blog-text">
+                                <!-- <span>Tyler Cauble | December 2021 | Betting</span> -->
+                                <h5>
+                                    DESIGN ENGINEERING
+                                </h5>
+                                <p>
+                                    For over years, Advanced AOG has managed to transform countless of promising
+                                    concepts into productive solutions
                                 </p>
                                 <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.png" alt=""></a>
                             </div>
@@ -50,10 +107,12 @@
                             <div class="blog-text">
                                 <!-- <span>Tyler Cauble | December 2021 | Betting</span> -->
                                 <h5>
-                                BASE MAINTENANCE
+                                    AIRCRAFT MANAGEMENT
                                 </h5>
                                 <p>
-                                Advancedaog strives to become your only company for your aircraft haul. Anytime. Anywhere.
+                                    We realize that keeping an aircraft is a massive investment that requires utmost
+                                    care. When you choose us for your aircraft management, you unlock a variety of
+                                    services focused on savings, service, and safety.
                                 </p>
                                 <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.png" alt=""></a>
                             </div>
@@ -65,55 +124,12 @@
                             <div class="blog-text">
                                 <!-- <span>Tyler Cauble | December 2021 | Betting</span> -->
                                 <h5>
-                                AVIONICS
+                                    AIRCRAFT BROKERAGE
                                 </h5>
                                 <p>
-                                Advancedaog’s engineering and avionics expertise, mixed with their solid relationships with manufacturers, have established them as the leading provider of avionics systems for private jets.
-                                </p>
-                                <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.png" alt=""></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4 mt-5">
-                        <div class="single-blog">
-                            <img src="img/service-1.png" class="img-fluid" alt="">
-                            <div class="blog-text">
-                                <!-- <span>Tyler Cauble | December 2021 | Betting</span> -->
-                                <h5>
-                                DESIGN ENGINEERING
-                                </h5>
-                                <p>
-                                For over years, Advancedaog has managed to transform countless of promising concepts into productive solutions
-                                </p>
-                                <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.png" alt=""></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4 mt-5">
-                        <div class="single-blog">
-                            <img src="img/service-2.png" class="img-fluid" alt="">
-                            <div class="blog-text">
-                                <!-- <span>Tyler Cauble | December 2021 | Betting</span> -->
-                                <h5>
-                                AIRCRAFT MANAGEMENT
-                                </h5>
-                                <p>
-                                We realize that keeping an aircraft is a massive investment that requires utmost care. When you choose us for your aircraft management, you unlock a variety of services focused on savings, service, and safety. 
-                                </p>
-                                <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.png" alt=""></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4 mt-5">
-                        <div class="single-blog">
-                            <img src="img/service-3.png" class="img-fluid" alt="">
-                            <div class="blog-text">
-                                <!-- <span>Tyler Cauble | December 2021 | Betting</span> -->
-                                <h5>
-                                AIRCRAFT BROKERAGE
-                                </h5>
-                                <p>
-                                Our experienced brokerage team works in the interests of the clients to help them secure a good deal and resolve any financial, customs, and legal objectives that may come in the way.
+                                    Our experienced brokerage team works in the interests of the clients to help them
+                                    secure a good deal and resolve any financial, customs, and legal objectives that may
+                                    come in the way.
                                 </p>
                                 <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.png" alt=""></a>
                             </div>
@@ -133,7 +149,8 @@
             <div class="col-lg-12">
                 <div class="content-wrapper text-center">
                     <h2>Why you should Always Choose Us</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+                        labore et dolore magna aliqua. </p>
                 </div>
             </div>
         </div>
@@ -195,7 +212,7 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-5 pr-0">
+            <div class="col-lg-5 partner-text pr-0">
                 <div class="partner-wrapper">
                     <h4 class="text-center">Our Partners</h4>
                     <ul>
@@ -214,7 +231,9 @@
                             <img src="img/upper-quote.svg" alt="">
                         </div>
                         <div class="testimonails-quote">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
+                                ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+                                ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
                         </div>
                         <div class="quotelower">
                             <img src="img/lower-quote.svg" alt="">
@@ -234,7 +253,9 @@
                             <img src="img/upper-quote.svg" alt="">
                         </div>
                         <div class="testimonails-quote">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
+                                ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+                                ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
                         </div>
                         <div class="quotelower">
                             <img src="img/lower-quote.svg" alt="">
@@ -254,7 +275,9 @@
                             <img src="img/upper-quote.svg" alt="">
                         </div>
                         <div class="testimonails-quote">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
+                                ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+                                ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
                         </div>
                         <div class="quotelower">
                             <img src="img/lower-quote.svg" alt="">
@@ -274,7 +297,9 @@
                             <img src="img/upper-quote.svg" alt="">
                         </div>
                         <div class="testimonails-quote">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
+                                ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+                                ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
                         </div>
                         <div class="quotelower">
                             <img src="img/lower-quote.svg" alt="">

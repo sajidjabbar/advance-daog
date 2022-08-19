@@ -89,66 +89,6 @@ textarea.form-control {
     padding: 5px 0px;
 }
 
-@media screen and (max-width: 1510px) {
-    .contact-section-start {
-        padding: 100px 21%;
-    }
-}
-
-@media screen and (max-width: 1300px) {
-    .contact-section-start {
-        padding: 100px 17%;
-    }
-}
-
-@media screen and (max-width: 1150px) {
-    .contact-section-start {
-        padding: 100px 12%;
-    }
-}
-
-@media screen and (max-width: 992px) {
-    .contact-section-start {
-        padding: 100px 8%;
-    }
-
-    .top-text-strat h2 {
-        font-size: 38px;
-    }
-
-    .top-text-strat h6 {
-        font-size: 16px;
-    }
-
-    .top-text-strat p {
-        font-size: 13px;
-    }
-}
-
-@media screen and (max-width: 768px) {
-    .contact-section-start {
-        padding: 100px 4%;
-    }
-
-    .top-text-strat h2 {
-        font-size: 29px;
-    }
-
-    .top-text-strat h6 {
-        font-size: 13px;
-    }
-
-    .top-text-strat p {
-        font-size: 11px;
-    }
-}
-
-@media screen and (max-width: 768px) {
-    .contact-section-start {
-        padding: 100px 2%;
-    }
-
-}
 
 /* begin of info section  */
 .info-img img {
@@ -193,3 +133,111 @@ textarea#exampleFormControlTextarea1 {
 }
 
 /* End of info section  */
+@media  (max-width: 1510px) {
+    .contact-section-start {
+        padding: 100px 21%;
+    }
+}
+
+@media  (max-width: 1300px) {
+    .contact-section-start {
+        padding: 100px 17%;
+    }
+}
+
+@media  (max-width: 1150px) {
+    .contact-section-start {
+        padding: 100px 12%;
+    }
+}
+
+@media  (max-width: 992px) {
+    .contact-section-start {
+        padding: 100px 8%;
+    }
+
+    .top-text-strat h2 {
+        font-size: 38px;
+    }
+
+    .top-text-strat h6 {
+        font-size: 16px;
+    }
+
+    .top-text-strat p {
+        font-size: 13px;
+    }
+}
+
+@media  (max-width: 768px) {
+    .contact-section-start {
+        padding: 100px 4%;
+    }
+
+    .top-text-strat h2 {
+        font-size: 29px;
+    }
+
+    .top-text-strat h6 {
+        font-size: 13px;
+    }
+
+    .top-text-strat p {
+        font-size: 11px;
+    }
+}
+
+@media  (max-width: 820px) {
+    section.info-sec {
+        padding: 10px 0px 70px 0px;
+    }
+
+}
+@media  (max-width: 768px) {
+    section.info-sec {
+        padding: 10px 0px 70px 0px;
+    }
+
+}
+@media  (max-width: 575px) {
+    section.info-sec {
+        padding: 10px 0px 70px 0px;
+    }
+
+}
+@media  (max-width: 412px) {
+    section.info-sec {
+        padding: 10px 0px 70px 0px;
+    }
+
+}
+@media  (max-width: 375px) {
+    section.info-sec {
+        padding: 10px 0px 70px 0px;
+    }
+
+}
+@media  (max-width: 393px) {
+    section.info-sec {
+        padding: 10px 0px 70px 0px;
+    }
+
+}
+@media  (max-width: 390px) {
+    section.info-sec {
+        padding: 10px 0px 70px 0px;
+    }
+
+}
+@media  (max-width: 360px) {
+    section.info-sec {
+        padding: 10px 0px 70px 0px;
+    }
+
+}
+@media  (max-width: 320px) {
+    section.info-sec {
+        padding: 10px 0px 70px 0px;
+    }
+
+}
