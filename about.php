@@ -79,7 +79,7 @@
         <div class="row">
             <div class="col-lg-12">
                 <div class="content-wrapper text-center">
-                    <h2>Why you should Always Choose Us</h2>
+                    <!-- <h2>Why you should Always Choose Us</h2> -->
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
                         labore et dolore magna aliqua. </p>
                 </div>
@@ -138,7 +138,7 @@
                 <div class="col-md-2"></div>
                 <div class="col-md-8 ">
                     <div class="text-box text-center">
-                        <h1>Advanced AOG Qualities</h1>
+                        <!-- <h1>Advanced AOG Qualities</h1> -->
                         <p>Advanced AOG has access to a wide range of heavy to light private jets, so you can choose one
                             which is perfect for you. </p>
                     </div>
@@ -201,7 +201,7 @@
                             </figure>
                         </div>
                         <div class="text-wraper">
-                            <h1>Who we Actually are</h1>
+                            <!-- <h1>Who we Actually are</h1> -->
                             <p class="mt-4">
                                 Advanced AOG’s commitment and dedication to a local operation base clearly indicate
                                 their devotion to delivering top-notch customer support. Right from the minute you pick

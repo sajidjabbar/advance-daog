@@ -25,7 +25,7 @@
                             <li><a href="about.php">About us</a></li>
                             <li><a href="#" class="dropdown">services <i class="fa fa-angle-down"></i></a></li>
                             <li><a href="career.php">Careers</a></li>
-                            <li><a href="blogs.php">Blogs</a></li>
+                            <!-- <li><a href="blogs.php">Blogs</a></li> -->
                             <li><a href="contact-us.php">Contact Us</a></li>
                         </ul>
                     </div>
@@ -37,7 +37,7 @@
                             <li><a href="services.php">Base Maintenance</a></li>
                             <li><a href="services.php">Avionics</a></li>
                             <li><a href="services.php">Design Engineering</a></li>
-                            <li><a href="services.php">Aircraft MAnagement</a></li>
+                            <li><a href="services.php">Aircraft Management</a></li>
                             <li><a href="services.php">Aircraft Brokerage</a></li>
                         </ul>
                     </div>

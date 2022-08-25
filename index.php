@@ -10,9 +10,9 @@
                     <h2>Maintenance, Avionics, & AOG Services
                         <!-- <span>Benefits Luxury Feels Like </span> -->
                     </h2>
-                    <p>Whether you’re looking for an exclusive business-related round trip or a luxurious one-way family
+                    <!-- <p>Whether you’re looking for an exclusive business-related round trip or a luxurious one-way family
                         vacation, where time is of the essence, Advanced AOG can help. We haven’t just set the standards
-                        for elite service. We’re soaring beyond them.</p>
+                        for elite service. We’re soaring beyond them.</p> -->
                     <div class="button-group mt-4">
                         <button class="btn">Learn More</button>
                         <button class="btn transparent">Contact Now</button>
@@ -34,17 +34,25 @@
                         extraordinary private flight experience for our customers all over the globe. Our services
                         include – but are not limited to – AOG Maintenance, Base Maintenance, Avionics,
                         Design Engineering, Aircraft Management, and Aircraft Brokerage.</p>
+                    <ul>
+                        <li>Aircraft Maintenance
+
+                        </li>
+                        <li>Avionics</li>
+                        <li>Aircraft Management</li>
+                        <li>Engineering</li>
+                    </ul>
                     <a href="#">Our Services <i class="fa fa-long-arrow-right"></i></a>
                 </div>
             </div>
             <div class="col-lg-4"></div>
         </div>
         <div class="row pt-5">
-            <div class="col-lg-7">
+            <div class="col-lg-5">
                 <div class="box-wrapper">
                     <div class="box-img-wrapper">
                         <figure>
-                            <img src="img/advantage1.png" class="img-fluid advantage1" alt="">
+                            <img src="img/plan2.png " class="img-fluid advantage1" alt="">
                         </figure>
                     </div>
                     <div class="box-content-wrapper">
@@ -141,7 +149,7 @@
         <div class="row">
             <div class="col-lg-12">
                 <div class="content-wrapper blue-section text-center">
-                    <h2>Why Choose Advanced AOG</h2>
+                    <!-- <h2>Why Choose Advanced AOG</h2> -->
                     <p>Now reach your destination with optimal levels of privacy, luxury, and comfort. Fly with
                         Advanced AOG today.
                     </p>

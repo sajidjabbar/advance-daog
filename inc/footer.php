@@ -70,7 +70,7 @@
             </div>
         </div>
     </div>
-    <div class="copy-right-wrapper">
+    <div class="cogit py-right-wrapper">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
