@@ -34,51 +34,166 @@
                         extraordinary private flight experience for our customers all over the globe. Our services
                         include – but are not limited to – AOG Maintenance, Base Maintenance, Avionics,
                         Design Engineering, Aircraft Management, and Aircraft Brokerage.</p>
-                    <ul>
+                    <!-- <ul>
                         <li>Aircraft Maintenance
 
                         </li>
                         <li>Avionics</li>
                         <li>Aircraft Management</li>
                         <li>Engineering</li>
-                    </ul>
+                    </ul> -->
                     <a href="#">Our Services <i class="fa fa-long-arrow-right"></i></a>
                 </div>
             </div>
             <div class="col-lg-4"></div>
         </div>
-        <div class="row pt-5">
-            <div class="col-lg-5">
-                <div class="box-wrapper">
-                    <div class="box-img-wrapper">
-                        <figure>
-                            <img src="img/plan2.png " class="img-fluid advantage1" alt="">
-                        </figure>
-                    </div>
-                    <div class="box-content-wrapper">
-                        <h3>Aeronautics Maintenance </h3>
-                    </div>
+        <div class="row">
+            <div class="col-lg-10">
+                <div class="tabs-wrapper">
+                    <ul class="nav nav-tabs" id="myTab" role="tablist">
+                        <li class="nav-item">
+                            <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab"
+                                aria-controls="home" aria-selected="true">Aircraft Maintenance
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab"
+                                aria-controls="profile" aria-selected="false">Avionics
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" id="contact-tab" data-toggle="tab" href="#contact" role="tab"
+                                aria-controls="contact" aria-selected="false">Aircraft Management
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" id="contact1-tab" data-toggle="tab" href="#contact1" role="tab"
+                                aria-controls="contact1" aria-selected="false">Engineering
+
+                            </a>
+                        </li>
+                    </ul>
                 </div>
             </div>
-            <div class="col-lg-5">
-                <div class="box-wrapper">
-                    <div class="box-img-wrapper">
-                        <figure>
-                            <img src="img/advantage2.png" class="img-fluid aero" alt="">
-                        </figure>
-                    </div>
-                    <div class="box-content-wrapper">
-                        <h3>Aeronautics Maintenance </h3>
-                    </div>
-                </div>
-                <div class="box-wrapper">
-                    <div class="box-img-wrapper">
-                        <figure>
-                            <img src="img/advantage3.png" class="img-fluid" alt="">
-                        </figure>
-                    </div>
-                    <div class="box-content-wrapper">
-                        <h3>Aeronautics Maintenance </h3>
+            <div class="row">
+                <div class="col-lg-10">
+                    <div class="tab-content" id="myTabContent">
+                        <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+                            <div class="row pt-5">
+                                <div class="col-lg-6">
+                                    <div class="box-wrapper">
+                                        <div class="box-img-wrapper">
+                                            <figure>
+                                                <img src="img/plan2.png " class="img-fluid advantage1" alt="">
+                                            </figure>
+                                        </div>
+                                        <div class="box-content-wrapper">
+                                            <h3>Aeronautics Maintenance </h3>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                    <div class="box-wrapper">
+                                        <div class="box-img-wrapper">
+                                            <figure>
+                                                <img src="img/advantage2.png" class="img-fluid aero" alt="">
+                                            </figure>
+                                        </div>
+                                        <div class="box-content-wrapper">
+                                            <h3>Aeronautics Maintenance </h3>
+                                        </div>
+                                    </div>
+                                    <div class="box-wrapper">
+                                        <div class="box-img-wrapper">
+                                            <figure>
+                                                <img src="img/advantage3.png" class="img-fluid" alt="">
+                                            </figure>
+                                        </div>
+                                        <div class="box-content-wrapper">
+                                            <h3>Aeronautics Maintenance </h3>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+                            <div class="row pt-5">
+                                <div class="col-lg-6">
+                                    <div class="box-wrapper">
+                                        <div class="box-img-wrapper">
+                                            <figure>
+                                                <img src="img/plan2.png " class="img-fluid advantage1" alt="">
+                                            </figure>
+                                        </div>
+                                        <div class="box-content-wrapper">
+                                            <h3>Aeronautics Maintenance </h3>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                    <div class="box-wrapper">
+                                        <div class="box-img-wrapper">
+                                            <figure>
+                                                <img src="img/advantage2.png" class="img-fluid aero" alt="">
+                                            </figure>
+                                        </div>
+                                        <div class="box-content-wrapper">
+                                            <h3>Aeronautics Maintenance </h3>
+                                        </div>
+                                    </div>
+                                    <div class="box-wrapper">
+                                        <div class="box-img-wrapper">
+                                            <figure>
+                                                <img src="img/advantage3.png" class="img-fluid" alt="">
+                                            </figure>
+                                        </div>
+                                        <div class="box-content-wrapper">
+                                            <h3>Aeronautics Maintenance </h3>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
+                            <div class="row pt-5">
+                                <div class="col-lg-6">
+                                    <div class="box-wrapper">
+                                        <div class="box-img-wrapper">
+                                            <figure>
+                                                <img src="img/plan2.png " class="img-fluid advantage1" alt="">
+                                            </figure>
+                                        </div>
+                                        <div class="box-content-wrapper">
+                                            <h3>Aeronautics Maintenance </h3>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                    <div class="box-wrapper">
+                                        <div class="box-img-wrapper">
+                                            <figure>
+                                                <img src="img/advantage2.png" class="img-fluid aero" alt="">
+                                            </figure>
+                                        </div>
+                                        <div class="box-content-wrapper">
+                                            <h3>Aeronautics Maintenance </h3>
+                                        </div>
+                                    </div>
+                                    <div class="box-wrapper">
+                                        <div class="box-img-wrapper">
+                                            <figure>
+                                                <img src="img/advantage3.png" class="img-fluid" alt="">
+                                            </figure>
+                                        </div>
+                                        <div class="box-content-wrapper">
+                                            <h3>Aeronautics Maintenance </h3>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="contact1" role="tabpanel" aria-labelledby="contact1-tab">
+                        </div>
                     </div>
                 </div>
             </div>

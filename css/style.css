@@ -4,1466 +4,1524 @@
 
 /* / font family cdn ends here / */
 
-
 /* / typography starts here / */
 
 @font-face {
-    font-family: "Aileron-Light";
-    src: url(../fonts/Aileron/Aileron-Light.otf);
+	font-family: "Aileron-Light";
+	src: url(../fonts/Aileron/Aileron-Light.otf);
 }
 
 @font-face {
-    font-family: "Aileron-Regular";
-    src: url(../fonts/Aileron/Aileron-Regular.otf);
+	font-family: "Aileron-Regular";
+	src: url(../fonts/Aileron/Aileron-Regular.otf);
 }
 
 @font-face {
-    font-family: "Aileron-SemiBold";
-    src: url(../fonts/Aileron/Aileron-SemiBold.otf);
+	font-family: "Aileron-SemiBold";
+	src: url(../fonts/Aileron/Aileron-SemiBold.otf);
 }
 
 @font-face {
-    font-family: "Aileron-Bold";
-    src: url(../fonts/Aileron/Aileron-Bold.otf);
+	font-family: "Aileron-Bold";
+	src: url(../fonts/Aileron/Aileron-Bold.otf);
 }
 
 * {
-    font-family: "Aileron-Regular";
+	font-family: "Aileron-Regular";
 }
 
 h1 {
-    font-family: "Aileron";
-    font-size: 55px;
-    text-transform: capitalize;
-    font-weight: 600;
-    line-height: 1.2;
+	font-family: "Aileron";
+	font-size: 55px;
+	text-transform: capitalize;
+	font-weight: 600;
+	line-height: 1.2;
 }
 
 h2 {
-    font-family: "Aileron";
-    font-size: 50px;
-    text-transform: capitalize;
-    font-weight: 600;
-    line-height: 1.2;
+	font-family: "Aileron";
+	font-size: 50px;
+	text-transform: capitalize;
+	font-weight: 600;
+	line-height: 1.2;
 }
 
 section.banner .content-wrapper1 h1 {
-    font-size: 41px;
+	font-size: 41px;
 }
 
 .content-wrapper h2 {
-    font-size: 44px;
+	font-size: 44px;
 }
 
 h3 {
-    font-family: "Aileron";
-    font-size: 30px;
-    font-weight: 600;
-    line-height: 1.2;
+	font-family: "Aileron";
+	font-size: 30px;
+	font-weight: 600;
+	line-height: 1.2;
 }
 
 h4 {
-    font-family: "Aileron";
-    font-size: 24px;
-    font-weight: bold;
-    line-height: 1.5;
+	font-family: "Aileron";
+	font-size: 24px;
+	font-weight: bold;
+	line-height: 1.5;
 }
 
 h5 {
-    font-family: "Aileron";
-    font-size: 22px;
-    font-weight: 600;
-    line-height: 1.5;
+	font-family: "Aileron";
+	font-size: 22px;
+	font-weight: 600;
+	line-height: 1.5;
 }
 
 h6 {
-    font-family: "Aileron";
-    font-size: 10px;
-    font-weight: 600;
-    line-height: 1.5;
+	font-family: "Aileron";
+	font-size: 10px;
+	font-weight: 600;
+	line-height: 1.5;
 }
 
 p {
-    font-family: "Aileron";
-    font-size: 17px;
-    font-weight: 300;
+	font-family: "Aileron";
+	font-size: 17px;
+	font-weight: 300;
 }
 
-
 /* typography starts here */
-
 
 /* global css starts here */
 
 html {
-    scroll-behavior: smooth;
+	scroll-behavior: smooth;
 }
 
 body {
-    overflow-x: hidden;
+	overflow-x: hidden;
 }
 
 button {
-    outline: none;
+	outline: none;
 }
 
 button img:focus {
-    outline: none;
+	outline: none;
 }
 
 .btn {
-    font-family: "Aileron";
-    background: #136efa;
-    border-radius: 23px;
-    color: #ffffff;
-    font-size: 16px;
-    font-weight: 400;
-    padding: 7px 20px;
-    border: 2px solid #136efa;
-    transition: all 0.4s ease-in-out;
+	font-family: "Aileron";
+	background: #136efa;
+	border-radius: 23px;
+	color: #ffffff;
+	font-size: 16px;
+	font-weight: 400;
+	padding: 7px 20px;
+	border: 2px solid #136efa;
+	transition: all 0.4s ease-in-out;
 }
 
 button.btn.transparent {
-    background: transparent;
+	background: transparent;
 }
 
 .btn:hover {
-    color: #136efa;
-    border: 2px solid #136efa;
-    background: transparent;
+	color: #136efa;
+	border: 2px solid #136efa;
+	background: transparent;
 }
 
-
 /* global css ends here */
-
 
 /* Prelaoder */
 
 #preloader {
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    z-index: 9999;
-    overflow: hidden;
-    background: #136efa;
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	z-index: 9999;
+	overflow: hidden;
+	background: #136efa;
 }
 
 #preloader:before {
-    content: "";
-    position: fixed;
-    top: calc(50% - 30px);
-    left: calc(50% - 30px);
-    border: 6px solid #f2f2f2;
-    border-top: 6px solid #136efa;
-    border-radius: 50%;
-    width: 60px;
-    height: 60px;
-    -webkit-animation: animate-preloader 1s linear infinite;
-    animation: animate-preloader 1s linear infinite;
+	content: "";
+	position: fixed;
+	top: calc(50% - 30px);
+	left: calc(50% - 30px);
+	border: 6px solid #f2f2f2;
+	border-top: 6px solid #136efa;
+	border-radius: 50%;
+	width: 60px;
+	height: 60px;
+	-webkit-animation: animate-preloader 1s linear infinite;
+	animation: animate-preloader 1s linear infinite;
 }
 
 @-webkit-keyframes animate-preloader {
-    0% {
-        transform: rotate(0deg);
-    }
-    100% {
-        transform: rotate(360deg);
-    }
+	0% {
+		transform: rotate(0deg);
+	}
+	100% {
+		transform: rotate(360deg);
+	}
 }
 
 @keyframes animate-preloader {
-    0% {
-        transform: rotate(0deg);
-    }
-    100% {
-        transform: rotate(360deg);
-    }
+	0% {
+		transform: rotate(0deg);
+	}
+	100% {
+		transform: rotate(360deg);
+	}
 }
-
 
 /* header css starts here */
 
 header#header {
-    padding: 18px 0px;
-    position: relative;
+	padding: 18px 0px;
+	position: relative;
 }
 
 header .nav-toggle-wrapper button {
-    background: transparent;
-    border: 0px;
+	background: transparent;
+	border: 0px;
 }
 
 .logo-wrapper img {
-    width: 180px;
-    height: 100px;
-    position: absolute;
-    object-fit: cover;
-    filter: brightness(0)invert(1);
-    left: 7px;
+	width: 180px;
+	height: 100px;
+	position: absolute;
+	object-fit: cover;
+	filter: brightness(0) invert(1);
+	left: 7px;
 }
 
 .footer-1-content-wrapper img {
-    width: 159px;
-    height: 87px;
-    object-fit: cover;
-    filter: brightness(0)invert(1);
+	width: 159px;
+	height: 87px;
+	object-fit: cover;
+	filter: brightness(0) invert(1);
 }
 
 .off-canvas-header-wrapper .row {
-    padding-top: 200px;
+	padding-top: 200px;
 }
 
 .off-canvas-header-wrapper button {
-    position: absolute;
-    right: 8%;
-    top: 9%;
-    background: transparent;
-    border: 0px;
-    color: #fff;
-    font-size: 30px;
+	position: absolute;
+	right: 8%;
+	top: 9%;
+	background: transparent;
+	border: 0px;
+	color: #fff;
+	font-size: 30px;
 }
 
 .off-canvas-header-wrapper li a {
-    color: #fff;
-    font-family: "Aileron";
-    line-height: 2.5;
-    font-size: 25px;
-    font-weight: 600;
-    text-decoration: none;
-    text-transform: capitalize;
+	color: #fff;
+	font-family: "Aileron";
+	line-height: 2.5;
+	font-size: 25px;
+	font-weight: 600;
+	text-decoration: none;
+	text-transform: capitalize;
 }
 
 .off-canvas-header-wrapper a.dropdown i::before {
-    transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
 }
 
 .off-canvas-header-wrapper a.dropdown:hover i::before {
-    content: "\f105 ";
-    font-family: "FontAwesome";
+	content: "\f105 ";
+	font-family: "FontAwesome";
 }
 
 .off-canvas-header-wrapper ul {
-    list-style: none;
-    padding: 0px;
+	list-style: none;
+	padding: 0px;
 }
 
 .off-canvas-header-wrapper {
-    background: #002154;
-    position: absolute;
-    left: 0px;
-    right: 0px;
-    top: 0px;
-    bottom: 0px;
-    height: 170vh;
-    border-radius: 0px 0px 50px 50px;
-    z-index: 2;
-    transform: translateY(-120%);
-    transition: all 0.4s ease-in-out;
+	background: #002154;
+	position: absolute;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	bottom: 0px;
+	height: 170vh;
+	border-radius: 0px 0px 50px 50px;
+	z-index: 2;
+	transform: translateY(-120%);
+	transition: all 0.4s ease-in-out;
 }
 
 .open {
-    transform: translateY(0%);
+	transform: translateY(0%);
 }
 
-
 /* header css ends here */
-
 
 /* banner css starts here */
 
 .banner {
-    background-image: url(../img/mainback.png);
-    background-size: 100% 100%;
-    padding-top: 250px;
-    padding-bottom: 300px;
-    background-repeat: no-repeat;
-    margin-top: -122px;
-    color: #fff;
+	background-image: url(../img/mainback.png);
+	background-size: 100% 100%;
+	padding-top: 250px;
+	padding-bottom: 300px;
+	background-repeat: no-repeat;
+	margin-top: -122px;
+	color: #fff;
 }
 
 .banner h2 span {
-    font-size: 78px;
+	font-size: 78px;
 }
 
-
 /* banner css ends here */
-
 
 /* advantage starts here */
 
 .advantage {
-    padding: 100px 0px;
+	padding: 100px 0px;
 }
 
 .advantage h2 {
-    color: #002154;
-    font-size: 44px;
+	color: #002154;
+	font-size: 44px;
 }
-
+.content-wrapper {
+	margin-bottom: 50px;
+}
 .advantage a {
-    color: #136efa;
-    font-family: "Aileron";
-    font-size: 18px;
-    font-weight: 400;
+	color: #136efa;
+	font-family: "Aileron";
+	font-size: 18px;
+	font-weight: 400;
 }
 
 .advantage a i {
-    margin-left: 10px;
+	margin-left: 10px;
 }
 
 .advantage .box-wrapper {
-    position: relative;
+	position: relative;
 }
 
+.tabs-wrapper .nav-tabs {
+	border-bottom: 1px solid #002154;
+}
+.tabs-wrapper .nav-tabs .nav-link:focus,
+.nav-tabs .nav-link:hover {
+	border: 1px solid transparent !important;
+}
+.tabs-wrapper .nav-tabs .nav-link {
+	color: #464a4c;
+	font-family: "Aileron";
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 1.2;
+}
+.tabs-wrapper .nav-tabs .nav-item.show .nav-link,
+.nav-tabs .nav-link.active {
+	background-color: #002154;
+	border-color: #ddd #ddd #fff;
+	border-radius: 10px 10px 0px 0px;
+	color: #fff;
+	padding: 10px 20px;
+	margin: 0px;
+}
 .box-img-wrapper img.img-fluid {
-    width: 100%;
-    height: 206px;
-    border-radius: 11px;
-    object-fit: cover;
+	width: 100%;
+	height: 206px;
+	border-radius: 11px;
+	object-fit: cover;
 }
-
+.tabs-wrapper .nav-tabs .nav-item {
+	margin-bottom: -2px;
+}
 .advantage .box-wrapper .box-content-wrapper {
-    position: absolute;
-    bottom: 15%;
-    left: 45px;
+	position: absolute;
+	bottom: 15%;
+	left: 45px;
 }
 
 .advantage .box-wrapper .box-content-wrapper h3 {
-    color: #ffffff;
-    font-size: 24px;
+	color: #ffffff;
+	font-size: 24px;
 }
 
 .advantage .box-wrapper img.advantage1 {
-    height: 429px;
-    object-fit: cover;
-    border-radius: 10px;
-    width: 1000px;
+	height: 429px;
+	object-fit: cover;
+	border-radius: 10px;
+	width: 1000px;
 }
 
 .content-wrapper ul {
-    /* list-style: none; */
-    padding: 0px 20px;
+	/* list-style: none; */
+	padding: 0px 20px;
 }
 
 .content-wrapper ul li {
-    margin: 10px 0px;
+	margin: 10px 0px;
 }
 
-
 /* advantage ends here */
-
 
 /* solution starts here */
 
 .solution-wrapper {
-    padding: 150px 0px;
+	padding: 150px 0px;
 }
 
 .solution-wrapper .blue {
-    background: #eff8ff;
-    padding: 82px;
-    padding-left: 48px !important;
-    padding-right: 62px !important;
+	background: #eff8ff;
+	padding: 82px;
+	padding-left: 48px !important;
+	padding-right: 62px !important;
 }
 
 .solution-wrapper h2 {
-    color: #000;
-    font-size: 44px;
+	color: #000;
+	font-size: 44px;
 }
 
 .solution-wrapper figure {
-    margin-bottom: 0px;
+	margin-bottom: 0px;
 }
 
 .solution-wrapper a {
-    color: #136efa;
-    font-family: "Aileron";
-    font-size: 16px;
-    font-weight: 400;
-    margin-top: 30px;
+	color: #136efa;
+	font-family: "Aileron";
+	font-size: 16px;
+	font-weight: 400;
+	margin-top: 30px;
 }
 
 .solution-wrapper a i {
-    margin-left: 10px;
+	margin-left: 10px;
 }
 
-
 /* solution ends here */
-
 
 /* make us sec starts here */
 
 .make-us {
-    background: url(../img/What-Makes-us.png);
-    padding: 150px 0px;
-    background-attachment: fixed;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center top;
+	background: url(../img/What-Makes-us.png);
+	padding: 150px 0px;
+	background-attachment: fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center top;
 }
 
 .make-us a {
-    color: #136efa;
-    font-family: "Aileron";
-    font-size: 16px;
-    font-weight: 400;
+	color: #136efa;
+	font-family: "Aileron";
+	font-size: 16px;
+	font-weight: 400;
 }
 
 .make-us a i {
-    margin-left: 10px;
+	margin-left: 10px;
 }
 
 .make-us .content-wrapper {
-    background: #fff;
-    padding: 150px;
-    border-radius: 11px 0px 0px 11px;
+	background: #fff;
+	padding: 150px;
+	border-radius: 11px 0px 0px 11px;
 }
 
 .make-us .container-fluid {
-    padding: 0px !important;
+	padding: 0px !important;
 }
 
 .make-us .content-wrapper h2 {
-    color: #000;
+	color: #000;
 }
 
-
 /* make us sec ends here */
-
 
 /* choose sec starts here */
 
 .content-wrapper.blue-section.text-center h2 {
-    font-family: "Aileron-SemiBold" !important;
+	font-family: "Aileron-SemiBold" !important;
 }
 
 .choose {
-    padding: 60px 0px;
-    background: #002154;
-    color: #fff;
+	padding: 60px 0px;
+	background: #002154;
+	color: #fff;
 }
 
 .content-wrapper.blue-section.text-center p {
-    font-family: "Aileron-Light" !important;
-    font-size: 17px;
-    /* font-weight: 300; */
-    color: #FFFFFF;
+	font-family: "Aileron-Light" !important;
+	font-size: 17px;
+	/* font-weight: 300; */
+	color: #ffffff;
 }
 
 .box-content-wrapper.text-center.mt-4 h5 {
-    font-family: "Aileron-SemiBold" !important;
-    font-size: 20px;
+	font-family: "Aileron-SemiBold" !important;
+	font-size: 20px;
 }
 
-
 /* choose sec ends here */
-
 
 /* testimonials section starts here */
 
 .testimonials {
-    padding: 100px 0px;
+	padding: 100px 0px;
 }
 
 section.testimonials .content-wrapper h2 {
-    text-transform: unset !important;
+	text-transform: unset !important;
 }
 
 .testimonials h2 {
-    color: #002154;
+	color: #002154;
 }
 
 .partner-wrapper img {
-    transform: scale(0.9);
+	transform: scale(0.9);
 }
 
 .partner-wrapper {
-    background: #002154;
-    border-radius: 7px 0px 0px 7px;
+	background: #002154;
+	border-radius: 7px 0px 0px 7px;
 }
 
 .partner-wrapper {
-    padding: 30px;
+	padding: 30px;
 }
 
 .partner-wrapper h4 {
-    color: #FFFFFF;
-    font-family: "Aileron-Bold" !important;
-    font-size: 26px;
-    margin-top: 31px;
+	color: #ffffff;
+	font-family: "Aileron-Bold" !important;
+	font-size: 26px;
+	margin-top: 31px;
 }
 
 .partner-wrapper ul {
-    padding: 0px;
-    list-style: none;
+	padding: 0px;
+	list-style: none;
 }
 
 .partner-wrapper ul li {
-    display: inline-block;
-    margin: 20px 6px;
+	display: inline-block;
+	margin: 20px 6px;
 }
 
 .partner-wrapper {
-    text-align: center;
+	text-align: center;
 }
 
 .client-name-wrapper {
-    display: flex;
-    align-items: center;
+	display: flex;
+	align-items: center;
 }
 
 .client-name-wrapper .client-img {
-    margin-right: 20px;
+	margin-right: 20px;
 }
 
 .quoteupper {
-    display: flex;
-    justify-content: end;
+	display: flex;
+	justify-content: end;
 }
 
 .quotelower {
-    border-bottom: 1px solid #707070;
-    padding-bottom: 24px;
-    display: flex;
+	border-bottom: 1px solid #707070;
+	padding-bottom: 24px;
+	display: flex;
 }
 
 .testimonials-wrapper {
-    background: #ececec;
-    padding: 35px;
-    padding-bottom: 19px;
-    border-radius: 0px 7px 7px 0px;
-    height: 425px;
+	background: #ececec;
+	padding: 35px;
+	padding-bottom: 19px;
+	border-radius: 0px 7px 7px 0px;
+	height: 425px;
 }
 
 .client-name-wrapper {
-    margin-top: 20px;
+	margin-top: 20px;
 }
 
 .client-details-wrapper h4 {
-    font-family: "Aileron";
-    font-size: 22px;
-    font-weight: 400;
-    margin-bottom: 0px;
-    color: #000;
+	font-family: "Aileron";
+	font-size: 22px;
+	font-weight: 400;
+	margin-bottom: 0px;
+	color: #000;
 }
 
 .client-details-wrapper p {
-    font-size: 16px;
-    color: #000000;
+	font-size: 16px;
+	color: #000000;
 }
 
 .testimonails-quote p {
-    margin-top: 1rem;
-    font-size: 19px;
-    color: #000000;
-    font-family: "Aileron-Regular";
+	margin-top: 1rem;
+	font-size: 19px;
+	color: #000000;
+	font-family: "Aileron-Regular";
 }
 
 .testimonials button.slick-next.slick-arrow {
-    right: 8%;
-    position: absolute;
-    bottom: 0px;
-    top: 82%;
+	right: 8%;
+	position: absolute;
+	bottom: 0px;
+	top: 82%;
 }
 
 .testimonials button.slick-prev.slick-arrow {
-    right: 17%;
-    position: absolute;
-    bottom: 0px;
-    top: 82%;
-    left: unset;
-    z-index: 1;
+	right: 17%;
+	position: absolute;
+	bottom: 0px;
+	top: 82%;
+	left: unset;
+	z-index: 1;
 }
 
 .testimonials .slick-next:before {
-    content: url(../img/long-right-arrow.svg) !important;
-    background: #136efa;
-    opacity: 1;
-    font-size: 6px;
-    padding: 14px 17px;
-    border-radius: 0px 23px 23px 0px;
+	content: url(../img/long-right-arrow.svg) !important;
+	background: #136efa;
+	opacity: 1;
+	font-size: 6px;
+	padding: 14px 17px;
+	border-radius: 0px 23px 23px 0px;
 }
 
 .testimonials .slick-prev:before {
-    content: url(../img/long-left-arrow.svg) !important;
-    background: #136efa;
-    opacity: 1;
-    font-size: 6px;
-    padding: 14px 17px;
-    border-radius: 23px 0px 0px 23px;
+	content: url(../img/long-left-arrow.svg) !important;
+	background: #136efa;
+	opacity: 1;
+	font-size: 6px;
+	padding: 14px 17px;
+	border-radius: 23px 0px 0px 23px;
 }
 
-
 /* testimonials section ends here */
-
 
 /* newsletter css starts here */
 
 .newsletter {
-    background: url(../img/newsletter-bg.png);
-    background-size: cover;
-    background-repeat: no-repeat;
-    padding: 150px 0px;
-    margin-bottom: -35px;
+	background: url(../img/newsletter-bg.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 150px 0px;
+	margin-bottom: -35px;
 }
 
 .newsletter-content-wrapper.text-white h2 {
-    font-family: "Aileron-SemiBold";
-    font-size: 46px;
-    /* text-transform: capitalize; */
-    /* font-weight: 600; */
-    line-height: 1.2;
+	font-family: "Aileron-SemiBold";
+	font-size: 46px;
+	/* text-transform: capitalize; */
+	/* font-weight: 600; */
+	line-height: 1.2;
 }
 
 .newsletter .input-group {
-    width: 66%;
+	width: 66%;
 }
 
 .newsletter input.form-control {
-    border-radius: 24px;
-    margin-right: 10px;
-    font-family: "Aileron-Light";
-    font-size: 16px;
-    padding: 10px 20px;
-    color: #00000045;
+	border-radius: 24px;
+	margin-right: 10px;
+	font-family: "Aileron-Light";
+	font-size: 16px;
+	padding: 10px 20px;
+	color: #00000045;
 }
 
-
 /* newsletter css ends here */
-
 
 /* footer css starts here */
 
 .footer {
-    background: #002154;
-    padding-top: 120px;
-    padding-bottom: 50px;
-    color: #fff;
-    border-radius: 30px 30px 0px 0px;
+	background: #002154;
+	padding-top: 120px;
+	padding-bottom: 50px;
+	color: #fff;
+	border-radius: 30px 30px 0px 0px;
 }
 
 footer ul {
-    list-style: none;
-    padding: 0px;
+	list-style: none;
+	padding: 0px;
 }
 
 footer.footer h5 {
-    color: #fff;
-    margin-bottom: 30px;
+	color: #fff;
+	margin-bottom: 30px;
 }
 
 .footer-links-wrapper li {
-    line-height: 1.7;
+	line-height: 1.7;
 }
 
 .footer-links-wrapper li a {
-    color: #FFFFFF;
-    font-family: "Aileron-Regular";
-    font-size: 14px;
+	color: #ffffff;
+	font-family: "Aileron-Regular";
+	font-size: 14px;
 }
 
 .footer-1-content-wrapper p {
-    font-family: "Aileron";
-    margin-top: 10px;
-    margin-left: 9px;
+	font-family: "Aileron";
+	margin-top: 10px;
+	margin-left: 9px;
 }
 
 footer ul.social-links li {
-    margin: 0px 21px 0px 0px;
+	margin: 0px 21px 0px 0px;
 }
 
 footer ul.social-links li a {
-    color: #fff;
-    margin-left: 7px;
+	color: #fff;
+	margin-left: 7px;
 }
 
 .copy-right-wrapper h6 {
-    font-size: 12px;
-    text-align: end;
+	font-size: 12px;
+	text-align: end;
 }
 
 .copy-right-wrapper h6 a {
-    color: #fff;
-    font-family: "Aileron";
+	color: #fff;
+	font-family: "Aileron";
 }
 
 .copy-right-wrapper p {
-    margin-bottom: 0px;
-    font-size: 16px;
-    font-weight: 400;
-    font-family: "Aileron";
-    color: #8292ab;
+	margin-bottom: 0px;
+	font-size: 16px;
+	font-weight: 400;
+	font-family: "Aileron";
+	color: #8292ab;
 }
 
 .copy-right-wrapper {
-    padding: 20px 0px;
+	padding: 20px 0px;
 }
-
 
 /* footer css ends here */
 
-
 /* responsive start */
+@media (max-width: 1024px) {
+	.tabs-wrapper .nav-tabs .nav-link {
+		font-size: 18px;
+	}
+}
+
+@media (max-width: 900px) {
+	.tabs-wrapper .nav-tabs .nav-link {
+		font-size: 18px;
+	}
+}
 
 @media (max-width: 820px) {
-    .banner {
-        padding-top: 201px;
-        padding-bottom: 0px;
-    }
-    .content-wrapper h2 {
-        font-size: 41px;
-    }
-    p {
-        font-size: 21px;
-    }
-    .button-group {
-        margin-bottom: 20px;
-    }
-    .make-us {
-        overflow: hidden;
-    }
-    .advantage {
-        padding: 50px 0px;
-    }
-    .make-us .content-wrapper {
-        background: #fff;
-        padding: 30px 10px 10px 20px;
-        border-radius: 11px 0px 0px 11px;
-    }
-    .diff {
-        height: 100%;
-    }
-    .solution-wrapper {
-        padding: 60px 0px;
-    }
-    .solution-wrapper .blue {
-        padding: 22px 20px 0px 20px ! important;
-    }
-    .content-wrapper {
-        margin-bottom: 40px;
-    }
-    .aviation {
-        height: 100%;
-        margin-top: 0px;
-    }
-    .choose-box-wrapper {
-        margin-bottom: 40px;
-    }
-    .testimonials-wrapper {
-        height: 625px;
-    }
-    .testimonials-wrapper {
-        height: 425px;
-    }
-    .newsletter .input-group {
-        width: 100% !important;
-    }
-    .newsletter {
-        padding: 90px 0px !important;
-    }
-    .off-canvas-header-wrapper {
-        height: 96vh;
-    }
-    .box-img-wrapper img.img-fluid.aero {
-        height: 200px;
-        width: 443%;
-        object-fit: cover;
-    }
-    .off-canvas-header-wrapper .row {
-        padding-top: 130px;
-    }
-    .testi {
-        padding: 0;
-    }
+	.banner {
+		padding-top: 201px;
+		padding-bottom: 0px;
+	}
+	.content-wrapper h2 {
+		font-size: 41px;
+	}
+	p {
+		font-size: 21px;
+	}
+	.button-group {
+		margin-bottom: 20px;
+	}
+	.make-us {
+		overflow: hidden;
+	}
+	.advantage {
+		padding: 50px 0px;
+	}
+	.make-us .content-wrapper {
+		background: #fff;
+		padding: 30px 10px 10px 20px;
+		border-radius: 11px 0px 0px 11px;
+	}
+	.diff {
+		height: 100%;
+	}
+	.solution-wrapper {
+		padding: 60px 0px;
+	}
+	.solution-wrapper .blue {
+		padding: 22px 20px 0px 20px !important;
+	}
+	.content-wrapper {
+		margin-bottom: 40px;
+	}
+	.aviation {
+		height: 100%;
+		margin-top: 0px;
+	}
+	.choose-box-wrapper {
+		margin-bottom: 40px;
+	}
+	.testimonials-wrapper {
+		height: 625px;
+	}
+	.testimonials-wrapper {
+		height: 425px;
+	}
+	.newsletter .input-group {
+		width: 100% !important;
+	}
+	.newsletter {
+		padding: 90px 0px !important;
+	}
+	.off-canvas-header-wrapper {
+		height: 96vh;
+	}
+	.box-img-wrapper img.img-fluid.aero {
+		height: 200px;
+		width: 443%;
+		object-fit: cover;
+	}
+	.off-canvas-header-wrapper .row {
+		padding-top: 130px;
+	}
+	.testi {
+		padding: 0;
+	}
+	.tabs-wrapper .nav-tabs {
+		border-bottom: 1px solid #002154;
+		display: contents;
+	}
+	.tabs-wrapper .nav-tabs .nav-link {
+		font-size: 18px;
+	}
 }
 
 @media (max-width: 678px) {
-    .testimonials {
-        padding: 30px 0px;
-    }
-    .testimonials h2 {
-        font-size: 30px;
-        line-height: 35px;
-    }
-    .testimonials .slick-prev:before {
-        padding: 11px 12px;
-    }
-    .testimonials button.slick-next.slick-arrow {
-        right: 11%;
-        top: 95%;
-    }
-    .testimonials button.slick-prev.slick-arrow {
-        right: 28%;
-        top: 95%;
-    }
-    .testimonials .slick-next:before {
-        padding: 11px 12px;
-    }
-    .banner {
-        padding-top: 201px;
-        padding-bottom: 0px;
-    }
-    .content-wrapper h2 {
-        font-size: 28px;
-    }
-    p {
-        font-size: 14px;
-    }
-    .button-group {
-        margin-bottom: 20px;
-    }
-    .make-us {
-        overflow: hidden;
-    }
-    .advantage {
-        padding: 50px 0px;
-    }
-    .make-us .content-wrapper {
-        background: #fff;
-        padding: 30px 10px 10px 20px;
-        border-radius: 11px 0px 0px 11px;
-    }
-    .diff {
-        height: 100%;
-    }
-    .solution-wrapper {
-        padding: 60px 0px;
-    }
-    .solution-wrapper .blue {
-        padding: 22px 20px 0px 20px ! important;
-    }
-    .content-wrapper {
-        margin-bottom: 40px;
-    }
-    .aviation {
-        height: 100%;
-        margin-top: 0px;
-    }
-    .choose-box-wrapper {
-        margin-bottom: 40px;
-    }
-    .testimonials-wrapper {
-        height: 625px;
-    }
-    .testimonials-wrapper {
-        height: 505px;
-    }
-    .newsletter .input-group {
-        width: 100% !important;
-    }
-    .newsletter {
-        padding: 90px 0px !important;
-    }
-    .off-canvas-header-wrapper {
-        height: 141vh;
-    }
-    .box-img-wrapper img.img-fluid.aero {
-        height: 200px;
-        width: 443%;
-        object-fit: cover;
-    }
-    .off-canvas-header-wrapper .row {
-        padding-top: 130px;
-    }
-    .testi {
-        padding: 0;
-    }
+	.testimonials {
+		padding: 30px 0px;
+	}
+	.testimonials h2 {
+		font-size: 30px;
+		line-height: 35px;
+	}
+	.testimonials .slick-prev:before {
+		padding: 11px 12px;
+	}
+	.testimonials button.slick-next.slick-arrow {
+		right: 11%;
+		top: 95%;
+	}
+	.testimonials button.slick-prev.slick-arrow {
+		right: 28%;
+		top: 95%;
+	}
+	.testimonials .slick-next:before {
+		padding: 11px 12px;
+	}
+	.banner {
+		padding-top: 201px;
+		padding-bottom: 0px;
+	}
+	.content-wrapper h2 {
+		font-size: 28px;
+	}
+	p {
+		font-size: 14px;
+	}
+	.button-group {
+		margin-bottom: 20px;
+	}
+	.make-us {
+		overflow: hidden;
+	}
+	.advantage {
+		padding: 50px 0px;
+	}
+	.make-us .content-wrapper {
+		background: #fff;
+		padding: 30px 10px 10px 20px;
+		border-radius: 11px 0px 0px 11px;
+	}
+	.diff {
+		height: 100%;
+	}
+	.solution-wrapper {
+		padding: 60px 0px;
+	}
+	.solution-wrapper .blue {
+		padding: 22px 20px 0px 20px !important;
+	}
+	.content-wrapper {
+		margin-bottom: 40px;
+	}
+	.aviation {
+		height: 100%;
+		margin-top: 0px;
+	}
+	.choose-box-wrapper {
+		margin-bottom: 40px;
+	}
+	.testimonials-wrapper {
+		height: 625px;
+	}
+	.testimonials-wrapper {
+		height: 505px;
+	}
+	.newsletter .input-group {
+		width: 100% !important;
+	}
+	.newsletter {
+		padding: 90px 0px !important;
+	}
+	.off-canvas-header-wrapper {
+		height: 141vh;
+	}
+	.box-img-wrapper img.img-fluid.aero {
+		height: 200px;
+		width: 443%;
+		object-fit: cover;
+	}
+	.off-canvas-header-wrapper .row {
+		padding-top: 130px;
+	}
+	.testi {
+		padding: 0;
+	}
+	.tabs-wrapper .nav-tabs {
+		border-bottom: 1px solid #002154;
+		display: contents;
+	}
+	.tabs-wrapper .nav-tabs {
+		border-bottom: 1px solid #002154;
+		display: contents;
+	}
+	.tabs-wrapper .nav-tabs .nav-link {
+		font-size: 18px;
+	}
 }
 
 @media (max-width: 575px) {
-    .testimonials {
-        padding: 30px 0px;
-    }
-    .testimonials h2 {
-        font-size: 30px;
-        line-height: 35px;
-    }
-    .testimonials .slick-prev:before {
-        padding: 11px 12px;
-    }
-    .testimonials button.slick-next.slick-arrow {
-        right: 11%;
-        top: 95%;
-    }
-    .testimonials button.slick-prev.slick-arrow {
-        right: 28%;
-        top: 95%;
-    }
-    .testimonials .slick-next:before {
-        padding: 11px 12px;
-    }
-    .banner {
-        padding-top: 201px;
-        padding-bottom: 0px;
-    }
-    .content-wrapper h2 {
-        font-size: 28px;
-    }
-    p {
-        font-size: 14px;
-    }
-    .button-group {
-        margin-bottom: 20px;
-    }
-    .make-us {
-        overflow: hidden;
-    }
-    .advantage {
-        padding: 50px 0px;
-    }
-    .make-us .content-wrapper {
-        background: #fff;
-        padding: 30px 10px 10px 20px;
-        border-radius: 11px 0px 0px 11px;
-    }
-    .diff {
-        height: 100%;
-    }
-    .solution-wrapper {
-        padding: 60px 0px;
-    }
-    .solution-wrapper .blue {
-        padding: 22px 20px 0px 20px ! important;
-    }
-    .content-wrapper {
-        margin-bottom: 40px;
-    }
-    .aviation {
-        height: 100%;
-        margin-top: 0px;
-    }
-    .choose-box-wrapper {
-        margin-bottom: 40px;
-    }
-    .testimonials-wrapper {
-        height: 625px;
-    }
-    .testimonials-wrapper {
-        height: 505px;
-    }
-    .newsletter .input-group {
-        width: 100% !important;
-    }
-    .newsletter {
-        padding: 90px 0px !important;
-    }
-    .off-canvas-header-wrapper {
-        height: 141vh;
-    }
-    .box-img-wrapper img.img-fluid.aero {
-        height: 200px;
-        width: 443%;
-        object-fit: cover;
-    }
-    .off-canvas-header-wrapper .row {
-        padding-top: 130px;
-    }
-    .testi {
-        padding: 0;
-    }
+	.testimonials {
+		padding: 30px 0px;
+	}
+	.testimonials h2 {
+		font-size: 30px;
+		line-height: 35px;
+	}
+	.testimonials .slick-prev:before {
+		padding: 11px 12px;
+	}
+	.testimonials button.slick-next.slick-arrow {
+		right: 11%;
+		top: 95%;
+	}
+	.testimonials button.slick-prev.slick-arrow {
+		right: 28%;
+		top: 95%;
+	}
+	.testimonials .slick-next:before {
+		padding: 11px 12px;
+	}
+	.banner {
+		padding-top: 201px;
+		padding-bottom: 0px;
+	}
+	.content-wrapper h2 {
+		font-size: 28px;
+	}
+	p {
+		font-size: 14px;
+	}
+	.button-group {
+		margin-bottom: 20px;
+	}
+	.make-us {
+		overflow: hidden;
+	}
+	.advantage {
+		padding: 50px 0px;
+	}
+	.make-us .content-wrapper {
+		background: #fff;
+		padding: 30px 10px 10px 20px;
+		border-radius: 11px 0px 0px 11px;
+	}
+	.diff {
+		height: 100%;
+	}
+	.solution-wrapper {
+		padding: 60px 0px;
+	}
+	.solution-wrapper .blue {
+		padding: 22px 20px 0px 20px !important;
+	}
+	.content-wrapper {
+		margin-bottom: 40px;
+	}
+	.aviation {
+		height: 100%;
+		margin-top: 0px;
+	}
+	.choose-box-wrapper {
+		margin-bottom: 40px;
+	}
+	.testimonials-wrapper {
+		height: 625px;
+	}
+	.testimonials-wrapper {
+		height: 505px;
+	}
+	.newsletter .input-group {
+		width: 100% !important;
+	}
+	.newsletter {
+		padding: 90px 0px !important;
+	}
+	.off-canvas-header-wrapper {
+		height: 141vh;
+	}
+	.box-img-wrapper img.img-fluid.aero {
+		height: 200px;
+		width: 443%;
+		object-fit: cover;
+	}
+	.off-canvas-header-wrapper .row {
+		padding-top: 130px;
+	}
+	.testi {
+		padding: 0;
+	}
+	.tabs-wrapper .nav-tabs {
+		border-bottom: 1px solid #002154;
+		display: contents;
+	}
 }
 
 @media (max-width: 480px) {
-    .testimonials {
-        padding: 30px 0px;
-    }
-    .testimonials h2 {
-        font-size: 30px;
-        line-height: 35px;
-    }
-    .testimonials .slick-prev:before {
-        padding: 11px 12px;
-    }
-    .testimonials button.slick-next.slick-arrow {
-        right: 11%;
-        top: 95%;
-    }
-    .testimonials button.slick-prev.slick-arrow {
-        right: 28%;
-        top: 95%;
-    }
-    .testimonials .slick-next:before {
-        padding: 11px 12px;
-    }
-    .banner {
-        padding-top: 201px;
-        padding-bottom: 0px;
-    }
-    .content-wrapper h2 {
-        font-size: 28px;
-    }
-    p {
-        font-size: 14px;
-    }
-    .button-group {
-        margin-bottom: 20px;
-    }
-    .make-us {
-        overflow: hidden;
-    }
-    .advantage {
-        padding: 50px 0px;
-    }
-    .make-us .content-wrapper {
-        background: #fff;
-        padding: 30px 10px 10px 20px;
-        border-radius: 11px 0px 0px 11px;
-    }
-    .diff {
-        height: 100%;
-    }
-    .solution-wrapper {
-        padding: 60px 0px;
-    }
-    .solution-wrapper .blue {
-        padding: 22px 20px 0px 20px ! important;
-    }
-    .content-wrapper {
-        margin-bottom: 40px;
-    }
-    .aviation {
-        height: 100%;
-        margin-top: 0px;
-    }
-    .choose-box-wrapper {
-        margin-bottom: 40px;
-    }
-    .testimonials-wrapper {
-        height: 625px;
-    }
-    .testimonials-wrapper {
-        height: 625px;
-    }
-    .newsletter .input-group {
-        width: 100% !important;
-    }
-    .newsletter {
-        padding: 90px 0px !important;
-    }
-    .off-canvas-header-wrapper {
-        height: 141vh;
-    }
-    .off-canvas-header-wrapper .row {
-        padding-top: 130px;
-    }
-    .testi {
-        padding: 0;
-    }
+	.testimonials {
+		padding: 30px 0px;
+	}
+	.testimonials h2 {
+		font-size: 30px;
+		line-height: 35px;
+	}
+	.testimonials .slick-prev:before {
+		padding: 11px 12px;
+	}
+	.testimonials button.slick-next.slick-arrow {
+		right: 11%;
+		top: 95%;
+	}
+	.testimonials button.slick-prev.slick-arrow {
+		right: 28%;
+		top: 95%;
+	}
+	.testimonials .slick-next:before {
+		padding: 11px 12px;
+	}
+	.banner {
+		padding-top: 201px;
+		padding-bottom: 0px;
+	}
+	.content-wrapper h2 {
+		font-size: 28px;
+	}
+	p {
+		font-size: 14px;
+	}
+	.button-group {
+		margin-bottom: 20px;
+	}
+	.make-us {
+		overflow: hidden;
+	}
+	.advantage {
+		padding: 50px 0px;
+	}
+	.make-us .content-wrapper {
+		background: #fff;
+		padding: 30px 10px 10px 20px;
+		border-radius: 11px 0px 0px 11px;
+	}
+	.diff {
+		height: 100%;
+	}
+	.solution-wrapper {
+		padding: 60px 0px;
+	}
+	.solution-wrapper .blue {
+		padding: 22px 20px 0px 20px !important;
+	}
+	.content-wrapper {
+		margin-bottom: 40px;
+	}
+	.aviation {
+		height: 100%;
+		margin-top: 0px;
+	}
+	.choose-box-wrapper {
+		margin-bottom: 40px;
+	}
+	.testimonials-wrapper {
+		height: 625px;
+	}
+	.testimonials-wrapper {
+		height: 625px;
+	}
+	.newsletter .input-group {
+		width: 100% !important;
+	}
+	.newsletter {
+		padding: 90px 0px !important;
+	}
+	.off-canvas-header-wrapper {
+		height: 141vh;
+	}
+	.off-canvas-header-wrapper .row {
+		padding-top: 130px;
+	}
+	.testi {
+		padding: 0;
+	}
+	.tabs-wrapper .nav-tabs {
+		border-bottom: 1px solid #002154;
+		display: contents;
+	}
 }
 
 @media (max-width: 414px) {
-    .testimonials {
-        padding: 30px 0px;
-    }
-    .testimonials h2 {
-        font-size: 30px;
-        line-height: 35px;
-    }
-    .testimonials .slick-prev:before {
-        padding: 11px 12px;
-    }
-    .testimonials button.slick-next.slick-arrow {
-        right: 11%;
-        top: 95%;
-    }
-    .testimonials button.slick-prev.slick-arrow {
-        right: 28%;
-        top: 95%;
-    }
-    .testimonials .slick-next:before {
-        padding: 11px 12px;
-    }
-    .banner {
-        padding-top: 201px;
-        padding-bottom: 0px;
-    }
-    .content-wrapper h2 {
-        font-size: 28px;
-    }
-    p {
-        font-size: 14px;
-    }
-    .button-group {
-        margin-bottom: 20px;
-    }
-    .make-us {
-        overflow: hidden;
-    }
-    .advantage {
-        padding: 50px 0px;
-    }
-    .make-us .content-wrapper {
-        background: #fff;
-        padding: 30px 10px 10px 20px;
-        border-radius: 11px 0px 0px 11px;
-    }
-    .diff {
-        height: 100%;
-    }
-    .solution-wrapper {
-        padding: 60px 0px;
-    }
-    .solution-wrapper .blue {
-        padding: 22px 20px 0px 20px ! important;
-    }
-    .content-wrapper {
-        margin-bottom: 40px;
-    }
-    .aviation {
-        height: 100%;
-        margin-top: 0px;
-    }
-    .choose-box-wrapper {
-        margin-bottom: 40px;
-    }
-    .testimonials-wrapper {
-        height: 625px;
-    }
-    .testimonials-wrapper {
-        height: 625px;
-    }
-    .newsletter .input-group {
-        width: 100% !important;
-    }
-    .newsletter {
-        padding: 90px 0px !important;
-    }
-    .off-canvas-header-wrapper {
-        height: 111vh;
-    }
-    .off-canvas-header-wrapper .row {
-        padding-top: 130px;
-    }
-    .testi {
-        padding: 0;
-    }
+	.testimonials {
+		padding: 30px 0px;
+	}
+	.testimonials h2 {
+		font-size: 30px;
+		line-height: 35px;
+	}
+	.testimonials .slick-prev:before {
+		padding: 11px 12px;
+	}
+	.testimonials button.slick-next.slick-arrow {
+		right: 11%;
+		top: 95%;
+	}
+	.testimonials button.slick-prev.slick-arrow {
+		right: 28%;
+		top: 95%;
+	}
+	.testimonials .slick-next:before {
+		padding: 11px 12px;
+	}
+	.banner {
+		padding-top: 201px;
+		padding-bottom: 0px;
+	}
+	.content-wrapper h2 {
+		font-size: 28px;
+	}
+	p {
+		font-size: 14px;
+	}
+	.button-group {
+		margin-bottom: 20px;
+	}
+	.make-us {
+		overflow: hidden;
+	}
+	.advantage {
+		padding: 50px 0px;
+	}
+	.make-us .content-wrapper {
+		background: #fff;
+		padding: 30px 10px 10px 20px;
+		border-radius: 11px 0px 0px 11px;
+	}
+	.diff {
+		height: 100%;
+	}
+	.solution-wrapper {
+		padding: 60px 0px;
+	}
+	.solution-wrapper .blue {
+		padding: 22px 20px 0px 20px !important;
+	}
+	.content-wrapper {
+		margin-bottom: 40px;
+	}
+	.aviation {
+		height: 100%;
+		margin-top: 0px;
+	}
+	.choose-box-wrapper {
+		margin-bottom: 40px;
+	}
+	.testimonials-wrapper {
+		height: 625px;
+	}
+	.testimonials-wrapper {
+		height: 625px;
+	}
+	.newsletter .input-group {
+		width: 100% !important;
+	}
+	.newsletter {
+		padding: 90px 0px !important;
+	}
+	.off-canvas-header-wrapper {
+		height: 111vh;
+	}
+	.off-canvas-header-wrapper .row {
+		padding-top: 130px;
+	}
+	.testi {
+		padding: 0;
+	}
+	.tabs-wrapper .nav-tabs {
+		border-bottom: 1px solid #002154;
+		display: contents;
+	}
 }
 
 @media (max-width: 390px) {
-    .testimonials .slick-prev:before {
-        padding: 11px 12px;
-    }
-    .testimonials button.slick-next.slick-arrow {
-        right: 11%;
-        top: 95%;
-    }
-    .testimonials button.slick-prev.slick-arrow {
-        right: 28%;
-        top: 95%;
-    }
-    .testimonials .slick-next:before {
-        padding: 11px 12px;
-    }
-    .banner {
-        padding-top: 201px;
-        padding-bottom: 0px;
-    }
-    .content-wrapper h2 {
-        font-size: 28px;
-    }
-    p {
-        font-size: 14px;
-    }
-    .button-group {
-        margin-bottom: 20px;
-    }
-    .make-us {
-        overflow: hidden;
-    }
-    .advantage {
-        padding: 50px 0px;
-    }
-    .make-us .content-wrapper {
-        background: #fff;
-        padding: 30px 10px 10px 20px;
-        border-radius: 11px 0px 0px 11px;
-    }
-    .diff {
-        height: 100%;
-    }
-    .solution-wrapper {
-        padding: 60px 0px;
-    }
-    .solution-wrapper .blue {
-        padding: 22px 20px 0px 20px ! important;
-    }
-    .content-wrapper {
-        margin-bottom: 40px;
-    }
-    .aviation {
-        height: 100%;
-        margin-top: 0px;
-    }
-    .choose-box-wrapper {
-        margin-bottom: 40px;
-    }
-    .testimonials-wrapper {
-        height: 625px;
-    }
-    .testimonials-wrapper {
-        height: 625px;
-    }
-    .newsletter .input-group {
-        width: 100% !important;
-    }
-    .newsletter {
-        padding: 90px 0px !important;
-    }
-    .off-canvas-header-wrapper {
-        height: 121vh;
-    }
-    .off-canvas-header-wrapper .row {
-        padding-top: 130px;
-    }
-    .testi {
-        padding: 0;
-    }
+	.testimonials .slick-prev:before {
+		padding: 11px 12px;
+	}
+	.testimonials button.slick-next.slick-arrow {
+		right: 11%;
+		top: 95%;
+	}
+	.testimonials button.slick-prev.slick-arrow {
+		right: 28%;
+		top: 95%;
+	}
+	.testimonials .slick-next:before {
+		padding: 11px 12px;
+	}
+	.banner {
+		padding-top: 201px;
+		padding-bottom: 0px;
+	}
+	.content-wrapper h2 {
+		font-size: 28px;
+	}
+	p {
+		font-size: 14px;
+	}
+	.button-group {
+		margin-bottom: 20px;
+	}
+	.make-us {
+		overflow: hidden;
+	}
+	.advantage {
+		padding: 50px 0px;
+	}
+	.make-us .content-wrapper {
+		background: #fff;
+		padding: 30px 10px 10px 20px;
+		border-radius: 11px 0px 0px 11px;
+	}
+	.diff {
+		height: 100%;
+	}
+	.solution-wrapper {
+		padding: 60px 0px;
+	}
+	.solution-wrapper .blue {
+		padding: 22px 20px 0px 20px !important;
+	}
+	.content-wrapper {
+		margin-bottom: 40px;
+	}
+	.aviation {
+		height: 100%;
+		margin-top: 0px;
+	}
+	.choose-box-wrapper {
+		margin-bottom: 40px;
+	}
+	.testimonials-wrapper {
+		height: 625px;
+	}
+	.testimonials-wrapper {
+		height: 625px;
+	}
+	.newsletter .input-group {
+		width: 100% !important;
+	}
+	.newsletter {
+		padding: 90px 0px !important;
+	}
+	.off-canvas-header-wrapper {
+		height: 121vh;
+	}
+	.off-canvas-header-wrapper .row {
+		padding-top: 130px;
+	}
+	.testi {
+		padding: 0;
+	}
+	.tabs-wrapper .nav-tabs {
+		border-bottom: 1px solid #002154;
+		display: contents;
+	}
 }
 
 @media (max-width: 375px) {
-    .testimonials .slick-prev:before {
-        padding: 11px 12px;
-    }
-    .testimonials button.slick-next.slick-arrow {
-        right: 11%;
-        top: 95%;
-    }
-    .testimonials button.slick-prev.slick-arrow {
-        right: 28%;
-        top: 95%;
-    }
-    .testimonials .slick-next:before {
-        padding: 11px 12px;
-    }
-    .banner {
-        padding-top: 201px;
-        padding-bottom: 0px;
-    }
-    .content-wrapper h2 {
-        font-size: 28px;
-    }
-    p {
-        font-size: 14px;
-    }
-    .button-group {
-        margin-bottom: 20px;
-    }
-    .make-us {
-        overflow: hidden;
-    }
-    .advantage {
-        padding: 50px 0px;
-    }
-    .make-us .content-wrapper {
-        background: #fff;
-        padding: 30px 10px 10px 20px;
-        border-radius: 11px 0px 0px 11px;
-    }
-    .diff {
-        height: 100%;
-    }
-    .solution-wrapper {
-        padding: 60px 0px;
-    }
-    .solution-wrapper .blue {
-        padding: 22px 20px 0px 20px ! important;
-    }
-    .content-wrapper {
-        margin-bottom: 40px;
-    }
-    .aviation {
-        height: 100%;
-        margin-top: 0px;
-    }
-    .choose-box-wrapper {
-        margin-bottom: 40px;
-    }
-    .testimonials-wrapper {
-        height: 625px;
-    }
-    .testimonials-wrapper {
-        height: 625px;
-    }
-    .newsletter .input-group {
-        width: 100% !important;
-    }
-    .newsletter {
-        padding: 90px 0px !important;
-    }
-    .off-canvas-header-wrapper {
-        height: 141vh;
-    }
-    .off-canvas-header-wrapper .row {
-        padding-top: 130px;
-    }
-    .testi {
-        padding: 0;
-    }
+	.testimonials .slick-prev:before {
+		padding: 11px 12px;
+	}
+	.testimonials button.slick-next.slick-arrow {
+		right: 11%;
+		top: 95%;
+	}
+	.testimonials button.slick-prev.slick-arrow {
+		right: 28%;
+		top: 95%;
+	}
+	.testimonials .slick-next:before {
+		padding: 11px 12px;
+	}
+	.banner {
+		padding-top: 201px;
+		padding-bottom: 0px;
+	}
+	.content-wrapper h2 {
+		font-size: 28px;
+	}
+	p {
+		font-size: 14px;
+	}
+	.button-group {
+		margin-bottom: 20px;
+	}
+	.make-us {
+		overflow: hidden;
+	}
+	.advantage {
+		padding: 50px 0px;
+	}
+	.make-us .content-wrapper {
+		background: #fff;
+		padding: 30px 10px 10px 20px;
+		border-radius: 11px 0px 0px 11px;
+	}
+	.diff {
+		height: 100%;
+	}
+	.solution-wrapper {
+		padding: 60px 0px;
+	}
+	.solution-wrapper .blue {
+		padding: 22px 20px 0px 20px !important;
+	}
+	.content-wrapper {
+		margin-bottom: 40px;
+	}
+	.aviation {
+		height: 100%;
+		margin-top: 0px;
+	}
+	.choose-box-wrapper {
+		margin-bottom: 40px;
+	}
+	.testimonials-wrapper {
+		height: 625px;
+	}
+	.testimonials-wrapper {
+		height: 625px;
+	}
+	.newsletter .input-group {
+		width: 100% !important;
+	}
+	.newsletter {
+		padding: 90px 0px !important;
+	}
+	.off-canvas-header-wrapper {
+		height: 141vh;
+	}
+	.off-canvas-header-wrapper .row {
+		padding-top: 130px;
+	}
+	.testi {
+		padding: 0;
+	}
+	.tabs-wrapper .nav-tabs {
+		border-bottom: 1px solid #002154;
+		display: contents;
+	}
 }
 
 @media (max-width: 360px) {
-    .testimonials .slick-prev:before {
-        padding: 11px 12px;
-    }
-    .testimonials button.slick-next.slick-arrow {
-        right: 11%;
-        top: 95%;
-    }
-    .testimonials button.slick-prev.slick-arrow {
-        right: 28%;
-        top: 95%;
-    }
-    .testimonials .slick-next:before {
-        padding: 11px 12px;
-    }
-    .banner {
-        padding-top: 201px;
-        padding-bottom: 0px;
-    }
-    .content-wrapper h2 {
-        font-size: 28px;
-    }
-    p {
-        font-size: 14px;
-    }
-    .button-group {
-        margin-bottom: 20px;
-    }
-    .make-us {
-        overflow: hidden;
-    }
-    .advantage {
-        padding: 50px 0px;
-    }
-    .make-us .content-wrapper {
-        background: #fff;
-        padding: 30px 10px 10px 20px;
-        border-radius: 11px 0px 0px 11px;
-    }
-    .diff {
-        height: 100%;
-    }
-    .solution-wrapper {
-        padding: 60px 0px;
-    }
-    .solution-wrapper .blue {
-        padding: 22px 20px 0px 20px ! important;
-    }
-    .content-wrapper {
-        margin-bottom: 40px;
-    }
-    .aviation {
-        height: 100%;
-        margin-top: 0px;
-    }
-    .choose-box-wrapper {
-        margin-bottom: 40px;
-    }
-    .testimonials-wrapper {
-        height: 625px;
-    }
-    .testimonials-wrapper {
-        height: 625px;
-    }
-    .newsletter .input-group {
-        width: 100% !important;
-    }
-    .newsletter {
-        padding: 90px 0px !important;
-    }
-    .off-canvas-header-wrapper {
-        height: 141vh;
-    }
-    .off-canvas-header-wrapper .row {
-        padding-top: 130px;
-    }
-    .testi {
-        padding: 0;
-    }
+	.testimonials .slick-prev:before {
+		padding: 11px 12px;
+	}
+	.testimonials button.slick-next.slick-arrow {
+		right: 11%;
+		top: 95%;
+	}
+	.testimonials button.slick-prev.slick-arrow {
+		right: 28%;
+		top: 95%;
+	}
+	.testimonials .slick-next:before {
+		padding: 11px 12px;
+	}
+	.banner {
+		padding-top: 201px;
+		padding-bottom: 0px;
+	}
+	.content-wrapper h2 {
+		font-size: 28px;
+	}
+	p {
+		font-size: 14px;
+	}
+	.button-group {
+		margin-bottom: 20px;
+	}
+	.make-us {
+		overflow: hidden;
+	}
+	.advantage {
+		padding: 50px 0px;
+	}
+	.make-us .content-wrapper {
+		background: #fff;
+		padding: 30px 10px 10px 20px;
+		border-radius: 11px 0px 0px 11px;
+	}
+	.diff {
+		height: 100%;
+	}
+	.solution-wrapper {
+		padding: 60px 0px;
+	}
+	.solution-wrapper .blue {
+		padding: 22px 20px 0px 20px !important;
+	}
+	.content-wrapper {
+		margin-bottom: 40px;
+	}
+	.aviation {
+		height: 100%;
+		margin-top: 0px;
+	}
+	.choose-box-wrapper {
+		margin-bottom: 40px;
+	}
+	.testimonials-wrapper {
+		height: 625px;
+	}
+	.testimonials-wrapper {
+		height: 625px;
+	}
+	.newsletter .input-group {
+		width: 100% !important;
+	}
+	.newsletter {
+		padding: 90px 0px !important;
+	}
+	.off-canvas-header-wrapper {
+		height: 141vh;
+	}
+	.off-canvas-header-wrapper .row {
+		padding-top: 130px;
+	}
+	.testi {
+		padding: 0;
+	}
+	.tabs-wrapper .nav-tabs {
+		border-bottom: 1px solid #002154;
+		display: contents;
+	}
 }
 
 @media (max-width: 320px) {
-    .testimonials .slick-prev:before {
-        padding: 11px 12px;
-    }
-    .testimonials button.slick-next.slick-arrow {
-        right: 11%;
-        top: 95%;
-    }
-    .testimonials button.slick-prev.slick-arrow {
-        right: 28%;
-        top: 95%;
-    }
-    .testimonials .slick-next:before {
-        padding: 11px 12px;
-    }
-    .banner {
-        padding-top: 201px;
-        padding-bottom: 0px;
-    }
-    .content-wrapper h2 {
-        font-size: 28px;
-    }
-    p {
-        font-size: 14px;
-    }
-    .button-group {
-        margin-bottom: 20px;
-    }
-    .make-us {
-        overflow: hidden;
-    }
-    .advantage {
-        padding: 50px 0px;
-    }
-    .make-us .content-wrapper {
-        background: #fff;
-        padding: 30px 10px 10px 20px;
-        border-radius: 11px 0px 0px 11px;
-    }
-    .diff {
-        height: 100%;
-    }
-    .solution-wrapper {
-        padding: 60px 0px;
-    }
-    .solution-wrapper .blue {
-        padding: 22px 20px 0px 20px ! important;
-    }
-    .content-wrapper {
-        margin-bottom: 40px;
-    }
-    .aviation {
-        height: 100%;
-        margin-top: 0px;
-    }
-    .choose-box-wrapper {
-        margin-bottom: 40px;
-    }
-    .testimonials-wrapper {
-        height: 625px;
-    }
-    .testimonials-wrapper {
-        height: 625px;
-    }
-    .newsletter .input-group {
-        width: 100% !important;
-    }
-    .newsletter {
-        padding: 90px 0px !important;
-    }
-    .off-canvas-header-wrapper {
-        height: 141vh;
-    }
-    .off-canvas-header-wrapper .row {
-        padding-top: 130px;
-    }
-    .testi {
-        padding: 0;
-    }
+	.testimonials .slick-prev:before {
+		padding: 11px 12px;
+	}
+	.testimonials button.slick-next.slick-arrow {
+		right: 11%;
+		top: 95%;
+	}
+	.testimonials button.slick-prev.slick-arrow {
+		right: 28%;
+		top: 95%;
+	}
+	.testimonials .slick-next:before {
+		padding: 11px 12px;
+	}
+	.banner {
+		padding-top: 201px;
+		padding-bottom: 0px;
+	}
+	.content-wrapper h2 {
+		font-size: 28px;
+	}
+	p {
+		font-size: 14px;
+	}
+	.button-group {
+		margin-bottom: 20px;
+	}
+	.make-us {
+		overflow: hidden;
+	}
+	.advantage {
+		padding: 50px 0px;
+	}
+	.make-us .content-wrapper {
+		background: #fff;
+		padding: 30px 10px 10px 20px;
+		border-radius: 11px 0px 0px 11px;
+	}
+	.diff {
+		height: 100%;
+	}
+	.solution-wrapper {
+		padding: 60px 0px;
+	}
+	.solution-wrapper .blue {
+		padding: 22px 20px 0px 20px !important;
+	}
+	.content-wrapper {
+		margin-bottom: 40px;
+	}
+	.aviation {
+		height: 100%;
+		margin-top: 0px;
+	}
+	.choose-box-wrapper {
+		margin-bottom: 40px;
+	}
+	.testimonials-wrapper {
+		height: 625px;
+	}
+	.testimonials-wrapper {
+		height: 625px;
+	}
+	.newsletter .input-group {
+		width: 100% !important;
+	}
+	.newsletter {
+		padding: 90px 0px !important;
+	}
+	.off-canvas-header-wrapper {
+		height: 141vh;
+	}
+	.off-canvas-header-wrapper .row {
+		padding-top: 130px;
+	}
+	.testi {
+		padding: 0;
+	}
+	.tabs-wrapper .nav-tabs {
+		display: contents;
+	}
 }
-
 
 /* responsive end */
