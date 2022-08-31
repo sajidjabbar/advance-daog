@@ -378,16 +378,6 @@
             <div class="col-lg-12">
                 <div class="content-wrapper">
                     <h2>Have a Look at what our Satisfied <br> Customers Say.</h2>
-                    <h3>Contact Information:</h3>
-                    <h4>Our Head Office: <span>500 Briscoe Blvd.
-
-                            Lawrenceville, GA 30046
-
-                            KLZU Gwinnet County Airport.</span> </h4>
-                    <h4>
-                        Email: <span><a href="">MX@AdvancedAOG.com</a></span> <span> <a
-                                href="">Support@AdvancedAOG.com</a> </span>
-                    </h4>
                 </div>
             </div>
         </div>

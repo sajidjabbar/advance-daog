@@ -47,9 +47,13 @@
                     <div class="footer-links-wrapper">
                         <ul>
                             <li><a class="d-flex align-items-baseline" href="#"><i class="fa fa-map-marker mr-3"></i>
-                                    Lorem ipsum, adipiscing elit, conse, 9876</a></li>
-                            <li><a class="d-flex align-items-baseline" href="#"><i class="fa fa-map-marker mr-3"></i>
-                                    Lorem ipsum, dolor sit amet, conse 0000</a></li>
+                                    Our Head Office:
+
+                                    500 Briscoe Blvd.
+
+                                    Lawrenceville, GA 30046
+
+                                    KLZU Gwinnet County Airport</a></li>
                         </ul>
                     </div>
                 </div>
@@ -59,8 +63,9 @@
                     <h5>Contact Us</h5>
                     <div class="footer-links-wrapper">
                         <ul>
-                            <li><a href="mailto:info@example.com"> <i><img src="img/email.png" alt="" class="mr-2"></i>
-                                    &nbsp; info@example.com</a></li>
+                            <li><a href="MX@AdvancedAOG.com"> <i><img src="img/email.png" alt="" class="mr-2"></i>
+                                    &nbsp; MX@AdvancedAOG.com</a> <a
+                                    href="Support@AdvancedAOG.com">Support@AdvancedAOG.com</a></li>
                             <li><a href="tel:+01234456890"> <i class=""><img src="img/phone-2.png" alt=""
                                             class="mr-2"></i> &nbsp;&nbsp; Call Us: +0 1234 456 890</a></li>
                         </ul>
