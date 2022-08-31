@@ -61,7 +61,30 @@ $(document).ready(function() {
     //     slidesToShow: 3,
     //     slidesToScroll: 3
     // });
-
+    $('.slider-man').slick({
+        centerMode: true,
+        centerPadding: '0px',
+        slidesToShow: 3,
+        responsive: [{
+                breakpoint: 768,
+                settings: {
+                    arrows: false,
+                    centerMode: false,
+                    centerPadding: '0px',
+                    slidesToShow: 1
+                }
+            },
+            {
+                breakpoint: 480,
+                settings: {
+                    arrows: false,
+                    centerMode: false,
+                    centerPadding: '0px',
+                    slidesToShow: 1
+                }
+            }
+        ]
+    });
     $('.testimonials-carousel-not-home').slick({
         centerMode: true,
         centerPadding: '0px',

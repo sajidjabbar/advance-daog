@@ -26,10 +26,10 @@
             <div class="row">
                 <div class="col-md-6">
                     <div class="heading-img">
-                        <h1>Why Advanced AOG Is Best</h1>
+                        <h1>Why Choose Advanced AOG</h1>
                         <div class="for-img">
                             <figure>
-                                <img src="img/about1.png" class="img-fluid" alt="">
+                                <img src="img/gulfstream-g700.png" class="img-fluid" alt="">
                             </figure>
                         </div>
                     </div>
@@ -38,16 +38,16 @@
                     <div class="text-on-right-side">
                         <div class="normal-para">
                             <p>
-                                Owned and operated by since our inception in Advanced AOG is one of the leaders of the
-                                aviation industry, known and respected by manufacturers, operators, and various other
-                                service providers globally for our expertise, work ethic, communication, timeliness,
-                                value, and quality.
+                                We own and operate a Part 91 Cessna 310Q based at LZU to provide AOG support all across
+                                the Eastern US and Northern Caribbean. Privately transporting our technicians and parts
+                                through our Advanced Inflight Response (A.I.R.) Support Team gives us the ability to
+                                reduce travel and counter-to-counter shipping time providing customers the most
+                                responsive maintenance support in the industry.
 
                             </p>
-                            <p>In order to be able to serve our clients better and take care of their personalized
-                                requirements, Advanced AOG provides their travel plans via local and city-specific
-                                operations instead of an online national operation with a 900 number and floating feet.
-                            </p>
+                            <p>RANGE: 4.5 Hours w/ IFR Fuel Reserves (est. 850nm)</p>
+                            <p>SPEED: 190kts Cruise</p>
+                            <p>Payload: 700lbs w/ Full Fuel & Single Pilot</p>
                         </div>
                         <h3>We provide the following services:</h3>
                         <div class="list-items">
@@ -74,14 +74,13 @@
 </section>
 <!-- Why Advanced AOG Is Best END Here -->
 <!-- why choose us section starts here -->
-<section class="choose">
+<!-- <section class="choose">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
                 <div class="content-wrapper text-center">
-                    <!-- <h2>Why you should Always Choose Us</h2> -->
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                        labore et dolore magna aliqua. </p>
+                    <p>Now reach your destination with optimal levels of privacy, luxury, and comfort. Fly with Advanced
+                        AOG today.</p>
                 </div>
             </div>
         </div>
@@ -128,7 +127,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 <!-- why choose us section starts here -->
 <!-- Qualities Start Here -->
 <section class="advanced-daog-qualities">
@@ -137,8 +136,7 @@
             <div class="row">
                 <div class="col-md-2"></div>
                 <div class="col-md-8 ">
-                    <div class="text-box text-center">
-                        <!-- <h1>Advanced AOG Qualities</h1> -->
+                    <!-- <div class="text-box text-center">
                         <p>Advanced AOG has access to a wide range of heavy to light private jets, so you can choose one
                             which is perfect for you. </p>
                     </div>
@@ -150,10 +148,10 @@
                             <li>We ensure there are no hiccups in your travel plans.</li>
 
                         </ul>
-                    </div>
+                    </div> -->
                 </div>
             </div>
-            <div class="our-qualities">
+            <!-- <div class="our-qualities">
                 <div class="row">
                     <div class="col-md-4">
                         <div class="single-quality text-center">
@@ -183,7 +181,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
 </section>
@@ -202,18 +200,31 @@
                         </div>
                         <div class="text-wraper">
                             <!-- <h1>Who we Actually are</h1> -->
-                            <p class="mt-4">
-                                Advanced AOG’s commitment and dedication to a local operation base clearly indicate
-                                their devotion to delivering top-notch customer support. Right from the minute you pick
-                                up your phone to schedule your journey, to the very second you land home,
-                                each and everything will be taken care of by thorough professionals at Advanced AOG.
+                            <p>
+                                Maintenanc Service Center (MRO)
                             </p>
-                            <p class="mt-4">
-                                Making plans and flying with Advanced AOG is as convenient and easy as turning on your
-                                car. Since we are equipped with premium jets, pilots and have a ground facility, you
-                                will enjoy the pleasure of flying in your own private jet in your own private terminal.
-
+                            <p>
+                                Based: Gwinnett County Airport KLZU
                             </p>
+                            <p>OEMS: Gulfstream, Bombardier, Learjet, Dassault Falcon, Cessna, Pilatus, Embraer, Israel
+                                Aircraft Industries, Hawker and Beechcraft</p>
+                            <ul>
+                                <li>-Full Service Airframe & Engine Maintenance and Heavy Scheduled Inspections
+                                </li>
+                                <li>-11,000 Sqft Facility with Full Service Equipment & Tooling</li>
+                                <li>-Avionics Troubleshooting and Upgrade Installations</li>
+                                <li>-Component Level Troubleshooting, Repairs, Modifications and Upgrades</li>
+                                <li>-NiCad, Lead Acid, and Lithium Battery Service.</li>
+                                <li>-Non-Destructive Testing</li>
+                                <li>-Structures & Composite Repair</li>
+                                <li>-Engineering & DER Services</li>
+                                <li>-Parts Spares & Rotables Inventory</li>
+                                <li>Mobile Aircraft De-Fueling and Aircraft Recovery Services</li>
+                                <li>-Mobile Transport of 1,700 Gallon Fuel Bowser with Technicians Trained and Insured
+                                    for On-Ramp Aircraft De-Fuel and Re-Fuel Services.</li>
+                                <li>-Mobile Aircraft Accident Specialists with Decades of Experience Recovering Aircraft
+                                    with Quick Response and Minimal Further Damage to Aircraft.</li>
+                            </ul>
                             <div class="link-to-services mt-5">
                                 <a href="blogs-detail.php">Read More &nbsp;&nbsp; <img src="img/right-arrow.png"
                                         alt=""></a>

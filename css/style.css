@@ -284,15 +284,15 @@ header .nav-toggle-wrapper button {
 /* advantage starts here */
 
 .advantage {
-	padding: 100px 0px;
+	padding: 50px 0px;
+	overflow-x: hidden;
 }
-
 .advantage h2 {
 	color: #002154;
 	font-size: 44px;
 }
 .content-wrapper {
-	margin-bottom: 50px;
+	margin-bottom: 30px;
 }
 .advantage a {
 	color: #136efa;
@@ -353,12 +353,12 @@ header .nav-toggle-wrapper button {
 }
 
 .advantage .box-wrapper img.advantage1 {
-	height: 429px;
+	height: 207px;
 	object-fit: cover;
 	border-radius: 10px;
 	width: 1000px;
+	filter: brightness(0.7);
 }
-
 .content-wrapper ul {
 	/* list-style: none; */
 	padding: 0px 20px;
@@ -467,15 +467,40 @@ header .nav-toggle-wrapper button {
 	font-family: "Aileron-SemiBold" !important;
 	font-size: 20px;
 }
-
+.content-wrapper h4 span {
+	font-size: 19px;
+	font-weight: 400;
+	font-family: "Aileron-Light";
+}
 /* choose sec ends here */
 
 /* testimonials section starts here */
 
 .testimonials {
-	padding: 100px 0px;
+	padding: 20px 0px;
 }
-
+.slider-man.slick-initialized.slick-slider {
+	margin-bottom: 60px;
+}
+.slider-man img {
+	height: 260px;
+	border-radius: 0px;
+	object-fit: cover;
+}
+.slider-man .testimonials button.slick-prev.slick-arrow {
+	right: 17% !important;
+	position: absolute;
+	bottom: 0px;
+	top: 82%;
+	left: unset;
+	z-index: 1;
+}
+.slider-man .testimonials button.slick-next.slick-arrow {
+	right: 8%;
+	position: absolute;
+	bottom: 0px;
+	top: 82%;
+}
 section.testimonials .content-wrapper h2 {
 	text-transform: unset !important;
 }
@@ -740,6 +765,7 @@ footer ul.social-links li a {
 	}
 	.advantage {
 		padding: 50px 0px;
+		overflow-x: hidden;
 	}
 	.make-us .content-wrapper {
 		background: #fff;
@@ -840,6 +866,7 @@ footer ul.social-links li a {
 	}
 	.advantage {
 		padding: 50px 0px;
+		overflow-x: hidden;
 	}
 	.make-us .content-wrapper {
 		background: #fff;
@@ -944,6 +971,7 @@ footer ul.social-links li a {
 	}
 	.advantage {
 		padding: 50px 0px;
+		overflow-x: hidden;
 	}
 	.make-us .content-wrapper {
 		background: #fff;
@@ -999,6 +1027,9 @@ footer ul.social-links li a {
 		border-bottom: 1px solid #002154;
 		display: contents;
 	}
+	.newsletter-content-wrapper.text-white h2 {
+		font-size: 26px;
+	}
 }
 
 @media (max-width: 480px) {
@@ -1041,6 +1072,7 @@ footer ul.social-links li a {
 	}
 	.advantage {
 		padding: 50px 0px;
+		overflow-x: hidden;
 	}
 	.make-us .content-wrapper {
 		background: #fff;
@@ -1091,6 +1123,9 @@ footer ul.social-links li a {
 		border-bottom: 1px solid #002154;
 		display: contents;
 	}
+	.newsletter-content-wrapper.text-white h2 {
+		font-size: 26px;
+	}
 }
 
 @media (max-width: 414px) {
@@ -1133,6 +1168,7 @@ footer ul.social-links li a {
 	}
 	.advantage {
 		padding: 50px 0px;
+		overflow-x: hidden;
 	}
 	.make-us .content-wrapper {
 		background: #fff;
@@ -1182,6 +1218,9 @@ footer ul.social-links li a {
 	.tabs-wrapper .nav-tabs {
 		border-bottom: 1px solid #002154;
 		display: contents;
+	}
+	.newsletter-content-wrapper.text-white h2 {
+		font-size: 26px;
 	}
 }
 
@@ -1268,6 +1307,9 @@ footer ul.social-links li a {
 		border-bottom: 1px solid #002154;
 		display: contents;
 	}
+	.newsletter-content-wrapper.text-white h2 {
+		font-size: 26px;
+	}
 }
 
 @media (max-width: 375px) {
@@ -1303,6 +1345,7 @@ footer ul.social-links li a {
 	}
 	.advantage {
 		padding: 50px 0px;
+		overflow-x: hidden;
 	}
 	.make-us .content-wrapper {
 		background: #fff;
@@ -1352,6 +1395,9 @@ footer ul.social-links li a {
 	.tabs-wrapper .nav-tabs {
 		border-bottom: 1px solid #002154;
 		display: contents;
+	}
+	.newsletter-content-wrapper.text-white h2 {
+		font-size: 26px;
 	}
 }
 
@@ -1438,6 +1484,9 @@ footer ul.social-links li a {
 		border-bottom: 1px solid #002154;
 		display: contents;
 	}
+	.newsletter-content-wrapper.text-white h2 {
+		font-size: 26px;
+	}
 }
 
 @media (max-width: 320px) {
@@ -1522,6 +1571,57 @@ footer ul.social-links li a {
 	.tabs-wrapper .nav-tabs {
 		display: contents;
 	}
+	.newsletter-content-wrapper.text-white h2 {
+		font-size: 26px;
+	}
 }
 
 /* responsive end */
+#hint {
+	color: #333;
+}
+#debug {
+	position: fixed;
+	top: 600px;
+}
+
+.axis {
+	background-color: white;
+	height: 1px;
+	width: 1px;
+	position: fixed;
+}
+
+.axisValue {
+	color: white;
+	position: fixed;
+	background-color: red;
+}
+
+.spanChartLabel {
+	color: white;
+}
+.spanChartYAxisValue {
+	font: bold 12px Lucida Grande, Lucida Sans Unicode, Verdana, Arial, Helvetica,
+		sans-serif;
+}
+.spanChartXAxisValue {
+	font: bold 12px Lucida Grande, Lucida Sans Unicode, Verdana, Arial, Helvetica,
+		sans-serif;
+}
+.spanChartYAxisTitle {
+	font: bold 12px Lucida Grande, Lucida Sans Unicode, Verdana, Arial, Helvetica,
+		sans-serif;
+}
+.spanChartXAxisTitle {
+	font: bold 12px Lucida Grande, Lucida Sans Unicode, Verdana, Arial, Helvetica,
+		sans-serif;
+}
+.spanChartLabel {
+	font: 12px Lucida Grande, Lucida Sans Unicode, Verdana, Arial, Helvetica,
+		sans-serif;
+}
+.spanChartTitle {
+	font: bold 14px Lucida Grande, Lucida Sans Unicode, Verdana, Arial, Helvetica,
+		sans-serif;
+}

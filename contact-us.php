@@ -25,7 +25,8 @@
             <h6>Contact Us Now</h6>
             <h2 class="mt-1">We Are Just A Call Away!</h2>
             <p class="mt-3">
-            In case of any questions or queries regarding our services, feel free to reach out to us by filling out the form below. Once submitted, our representative will get back to you shortly.
+                In case of any questions or queries regarding our services, feel free to reach out to us by filling out
+                the form below. Once submitted, our representative will get back to you shortly.
             </p>
         </div>
         <div class="form-start mt-4">
@@ -43,7 +44,8 @@
                 <div class="form-row">
                     <div class="form-input mt-3">
                         <label for="firstname">Phone Number *</label>
-                        <input type="number" name="" class="form-control" placeholder="Your Phone Number" id="firstname">
+                        <input type="number" name="" class="form-control" placeholder="Your Phone Number"
+                            id="firstname">
                     </div>
                     <div class="form-input mt-3">
                         <label for="lastname">Company *</label>
@@ -53,11 +55,13 @@
                 <div class="form-row">
                     <div class="form-input mt-3">
                         <label for="firstname">Aircraft Model *</label>
-                        <input type="text" name="" class="form-control" placeholder="Type Aircraft Model" id="firstname">
+                        <input type="text" name="" class="form-control" placeholder="Type Aircraft Model"
+                            id="firstname">
                     </div>
                     <div class="form-input mt-3">
                         <label for="lastname">Aircraft Registration *</label>
-                        <input type="text" name="" class="form-control" placeholder="Type Aircraft Registration" id="lastname">
+                        <input type="text" name="" class="form-control" placeholder="Type Aircraft Registration"
+                            id="lastname">
                     </div>
                 </div>
                 <div class="form-row">
@@ -90,7 +94,9 @@
 
                     <div class="info-head">
                         <h3>Email us</h3>
-                        <p>Email us for general queries, including marketing <br> and partnership opportunities.</p>
+                        <p>Email us for general queries, including <br> maintenance and avionics support.
+
+                        </p>
                     </div>
 
                     <div class="info-annchor">
@@ -108,7 +114,7 @@
 
                     <div class="info-head">
                         <h3>Call us</h3>
-                        <p>Call us to speak to a member of our team. We <br> are always happy to help.</p>
+                        <p>Call us to speak to a maintenance <br> base representative.</p>
                     </div>
 
                     <div class="info-annchor">

@@ -143,7 +143,7 @@
 <!-- END HERE -->
 
 <!-- why choose us section starts here -->
-<section class="choose">
+<!-- <section class="choose">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
@@ -197,7 +197,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 <!-- why choose us section starts here -->
 
 <!-- testimonails section starts here -->
