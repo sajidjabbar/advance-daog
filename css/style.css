@@ -293,6 +293,10 @@ header .nav-toggle-wrapper button {
 }
 .content-wrapper {
 	margin-bottom: 30px;
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+	margin-left: 10px;
 }
 .advantage a {
 	color: #136efa;
@@ -486,20 +490,12 @@ header .nav-toggle-wrapper button {
 	height: 260px;
 	border-radius: 0px;
 	object-fit: cover;
+	width: 100%;
 }
-.slider-man .testimonials button.slick-prev.slick-arrow {
-	right: 17% !important;
-	position: absolute;
-	bottom: 0px;
-	top: 82%;
-	left: unset;
-	z-index: 1;
-}
-.slider-man .testimonials button.slick-next.slick-arrow {
-	right: 8%;
-	position: absolute;
-	bottom: 0px;
-	top: 82%;
+
+.only_img_slider .slider-man.slick-initialized.slick-slider button.slick-arrow {
+	margin-top: 75px;
+	margin-right: -60px;
 }
 section.testimonials .content-wrapper h2 {
 	text-transform: unset !important;
@@ -713,7 +709,13 @@ footer ul.social-links li a {
 	font-size: 12px;
 	text-align: end;
 }
-
+.support-email {
+	margin-left: 33px;
+}
+.head-office {
+	margin-left: 22px;
+	font-size: 17px;
+}
 .copy-right-wrapper h6 a {
 	color: #fff;
 	font-family: "Aileron";
@@ -783,6 +785,7 @@ footer ul.social-links li a {
 	}
 	.content-wrapper {
 		margin-bottom: 40px;
+		display: contents;
 	}
 	.aviation {
 		height: 100%;
@@ -884,6 +887,7 @@ footer ul.social-links li a {
 	}
 	.content-wrapper {
 		margin-bottom: 40px;
+		display: contents;
 	}
 	.aviation {
 		height: 100%;
@@ -989,6 +993,7 @@ footer ul.social-links li a {
 	}
 	.content-wrapper {
 		margin-bottom: 40px;
+		display: contents;
 	}
 	.aviation {
 		height: 100%;
@@ -1090,6 +1095,7 @@ footer ul.social-links li a {
 	}
 	.content-wrapper {
 		margin-bottom: 40px;
+		display: contents;
 	}
 	.aviation {
 		height: 100%;
@@ -1186,6 +1192,7 @@ footer ul.social-links li a {
 	}
 	.content-wrapper {
 		margin-bottom: 40px;
+		display: contents;
 	}
 	.aviation {
 		height: 100%;
@@ -1274,6 +1281,7 @@ footer ul.social-links li a {
 	}
 	.content-wrapper {
 		margin-bottom: 40px;
+		display: contents;
 	}
 	.aviation {
 		height: 100%;
@@ -1363,6 +1371,7 @@ footer ul.social-links li a {
 	}
 	.content-wrapper {
 		margin-bottom: 40px;
+		display: contents;
 	}
 	.aviation {
 		height: 100%;
@@ -1451,6 +1460,7 @@ footer ul.social-links li a {
 	}
 	.content-wrapper {
 		margin-bottom: 40px;
+		display: contents;
 	}
 	.aviation {
 		height: 100%;
@@ -1486,6 +1496,13 @@ footer ul.social-links li a {
 	}
 	.newsletter-content-wrapper.text-white h2 {
 		font-size: 26px;
+	}
+	.only_img_slider
+		.slider-man.slick-initialized.slick-slider
+		button.slick-arrow {
+		margin-top: 75px;
+		margin-right: -60px;
+		display: block;
 	}
 }
 
@@ -1539,6 +1556,7 @@ footer ul.social-links li a {
 	}
 	.content-wrapper {
 		margin-bottom: 40px;
+		display: contents;
 	}
 	.aviation {
 		height: 100%;

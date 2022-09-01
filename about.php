@@ -52,7 +52,7 @@
                         <h3>We provide the following services:</h3>
                         <div class="list-items">
                             <ul>
-                                <li>24/7 AOG Support is available at </li>
+                                <li>24/7 AOG Support available at KBCT, KLZU, KPDK, KPBI, & KVNY</li>
                                 <li>AOG Maintenance</li>
                                 <li>Avionics</li>
                                 <li>Design Engineering</li>

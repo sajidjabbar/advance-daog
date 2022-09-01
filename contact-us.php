@@ -100,7 +100,8 @@
                     </div>
 
                     <div class="info-annchor">
-                        <a href="mailto:info@example.co.uk">info@Soltanning.co.uk</a>
+                        <a href="mailto:info@example.co.uk">MX@AdvancedAOG.com</a>
+                        <a href="mailto:info@example.co.uk">Support@AdvancedAOG.com</a>
                     </div>
 
                 </div>
@@ -131,9 +132,13 @@
                     </div>
 
                     <div class="info-head">
-                        <h3>Our Head Office</h3>
-                        <p>8182 Fulton Rd. <br>
-                            Amirican Plain, MA 02130</p>
+                        <h3>Our Head Office:</h3>
+                        <p> 500 Briscoe Blvd.
+
+                            Lawrenceville, GA 30046
+
+                            KLZU Gwinnet County Airport <br>
+                        </p>
                         <!-- <p>Email us for general queries, including marketing <br> and partnership opportunities.</p> -->
                     </div>
 

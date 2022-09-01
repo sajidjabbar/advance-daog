@@ -361,27 +361,31 @@
 </section> -->
 <!-- why choose us section starts here -->
 <!-- testimonails section starts here -->
-<section class="testimonials">
+<section class="testimonials img_test">
     <div class="container">
-        <div class="row">
+        <div class="row p-3">
             <div class="col-lg-12">
-                <div class="slider-man">
-                    <img src="./img/about-2.png" class="fluid" alt="">
-                    <img src="./img/about-4.png" class="fluid" alt="">
-                    <img src="./img/about-3.png" class="fluid" alt="">
-                    <img src="./img/about-4.png" class="fluid" alt="">
-                    <img src="./img/about-3.png" class="fluid" alt="">
+                <div class="only_img_slider">
+                    <div class="slider-man">
+                        <li><img src="./img/slide1.png" class="img-fluid" alt=""></li>
+                        <li><img src="./img/slide2.png" class="img-fluid" alt=""></li>
+                        <li><img src="./img/slide3.png" class="img-fluid" alt=""></li>
+                        <li><img src="./img/slide4.png" class="img-fluid" alt=""></li>
+                        <li><img src="img/slide5.png" class="img-fluid" alt=""></li>
+                        <li><img src="./img/slide6.png" class="img-fluid" alt=""></li>
+                        <li><img src="./img/slide7.png" class="img-fluid" alt=""></li>
+                    </div>
                 </div>
             </div>
         </div>
-        <div class="row pb-3">
+        <div class="row">
             <div class="col-lg-12">
                 <div class="content-wrapper">
                     <h2>Have a Look at what our Satisfied <br> Customers Say.</h2>
                 </div>
             </div>
         </div>
-        <div class="row">
+        <div class="row p-3">
             <div class="col-lg-5 pr-0 testi">
                 <div class="partner-wrapper">
                     <h4 class="text-center">Our Partners</h4>
