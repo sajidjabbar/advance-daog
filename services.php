@@ -38,7 +38,7 @@
                 <div class="row">
                     <div class="col-md-4 mt-5">
                         <div class="single-blog">
-                            <img src="img/service-1.png" class="img-fluid" alt="">
+                            <img src="img/service-1.webp" class="img-fluid" alt="">
                             <div class="blog-text">
                                 <!-- <span>Tyler Cauble | December 2021 | Betting</span> -->
                                 <h5>
@@ -48,13 +48,13 @@
                                     Our Aircraft on Ground or AOG Maintenance engineers will find a way to help you no
                                     matter where you are.
                                 </p>
-                                <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.png" alt=""></a>
+                                <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.webp" alt=""></a>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-4 mt-5">
                         <div class="single-blog">
-                            <img id="aircraft" src="img/service-2.png" class="img-fluid" alt="">
+                            <img id="aircraft" src="img/service-2.webp" class="img-fluid" alt="">
                             <div class="blog-text">
                                 <!-- <span>Tyler Cauble | December 2021 | Betting</span> -->
                                 <h5>
@@ -64,13 +64,13 @@
                                     Advanced AOG strives to become your only company for your aircraft haul. Anytime.
                                     Anywhere.
                                 </p>
-                                <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.png" alt=""></a>
+                                <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.webp" alt=""></a>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-4 mt-5">
                         <div class="single-blog">
-                            <img id="aircraft" src="img/service-3.png" class="img-fluid" alt="">
+                            <img id="aircraft" src="img/service-3.webp" class="img-fluid" alt="">
                             <div class="blog-text">
                                 <!-- <span>Tyler Cauble | December 2021 | Betting</span> -->
                                 <h5>
@@ -81,13 +81,13 @@
                                     relationships with manufacturers, have established them as the leading provider of
                                     avionics systems for private jets.
                                 </p>
-                                <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.png" alt=""></a>
+                                <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.webp" alt=""></a>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-4 mt-5">
                         <div class="single-blog">
-                            <img id="aircraft" src="img/service-1.png" class="img-fluid" alt="">
+                            <img id="aircraft" src="img/service-1.webp" class="img-fluid" alt="">
                             <div class="blog-text">
                                 <!-- <span>Tyler Cauble | December 2021 | Betting</span> -->
                                 <h5>
@@ -97,13 +97,13 @@
                                     For over years, Advanced AOG has managed to transform countless of promising
                                     concepts into productive solutions
                                 </p>
-                                <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.png" alt=""></a>
+                                <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.webp" alt=""></a>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-4 mt-5">
                         <div class="single-blog">
-                            <img src="img/service-2.png" class="img-fluid" alt="">
+                            <img src="img/service-2.webp" class="img-fluid" alt="">
                             <div class="blog-text">
                                 <!-- <span>Tyler Cauble | December 2021 | Betting</span> -->
                                 <h5>
@@ -114,13 +114,13 @@
                                     care. When you choose us for your aircraft management, you unlock a variety of
                                     services focused on savings, service, and safety.
                                 </p>
-                                <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.png" alt=""></a>
+                                <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.webp" alt=""></a>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-4 mt-5">
                         <div class="single-blog">
-                            <img src="img/service-3.png" class="img-fluid" alt="">
+                            <img src="img/service-3.webp" class="img-fluid" alt="">
                             <div class="blog-text">
                                 <!-- <span>Tyler Cauble | December 2021 | Betting</span> -->
                                 <h5>
@@ -131,7 +131,7 @@
                                     secure a good deal and resolve any financial, customs, and legal objectives that may
                                     come in the way.
                                 </p>
-                                <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.png" alt=""></a>
+                                <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.webp" alt=""></a>
                             </div>
                         </div>
                     </div>
@@ -158,7 +158,7 @@
             <div class="col-lg-3">
                 <div class="choose-box-wrapper">
                     <div class="box-img-wrapper text-center">
-                        <img src="img/Cost-Effective.png" alt="">
+                        <img src="img/Cost-Effective.webp" alt="">
                     </div>
                     <div class="box-content-wrapper text-center mt-4">
                         <h5>Cost Effective</h5>
@@ -168,7 +168,7 @@
             <div class="col-lg-3">
                 <div class="choose-box-wrapper">
                     <div class="box-img-wrapper text-center">
-                        <img src="img/Creative-Minds.png" alt="">
+                        <img src="img/Creative-Minds.webp" alt="">
                     </div>
                     <div class="box-content-wrapper text-center mt-4">
                         <h5>Creative Minds</h5>
@@ -178,7 +178,7 @@
             <div class="col-lg-3">
                 <div class="choose-box-wrapper">
                     <div class="box-img-wrapper text-center">
-                        <img src="img/Professional-workers.png" alt="">
+                        <img src="img/Professional-workers.webp" alt="">
                     </div>
                     <div class="box-content-wrapper text-center mt-4">
                         <h5>Professional workers</h5>
@@ -188,7 +188,7 @@
             <div class="col-lg-3">
                 <div class="choose-box-wrapper">
                     <div class="box-img-wrapper text-center">
-                        <img src="img/Satisfaction.png" alt="">
+                        <img src="img/Satisfaction.webp" alt="">
                     </div>
                     <div class="box-content-wrapper text-center mt-4">
                         <h5>Satisfaction</h5>
@@ -206,8 +206,8 @@
         <div class="row pb-5">
             <div class="col-lg-12">
                 <div class="content-wrapper">
-                    <h2>Have a look at What Our <br>
-                        Thousand of Satisfied Customers Say</h2>
+                    <h2>Have a Look at what our<br> Satisfied Customers Say
+                    </h2>
                 </div>
             </div>
         </div>
@@ -216,11 +216,11 @@
                 <div class="partner-wrapper">
                     <h4 class="text-center">Our Partners</h4>
                     <ul>
-                        <li><img src="img/partner1.png" alt=""></li>
-                        <li><img src="img/partner2.png" alt=""></li>
-                        <li><img src="img/partner3.png" alt=""></li>
-                        <li><img src="img/partner4.png" alt=""></li>
-                        <li><img src="img/partner5.png" alt=""></li>
+                        <li><img src="img/partner1.webp" alt=""></li>
+                        <li><img src="img/partner2.webp" alt=""></li>
+                        <li><img src="img/partner3.webp" alt=""></li>
+                        <li><img src="img/partner4.webp" alt=""></li>
+                        <li><img src="img/partner5.webp" alt=""></li>
                     </ul>
                 </div>
             </div>
@@ -240,7 +240,7 @@
                         </div>
                         <div class="client-name-wrapper">
                             <div class="client-img">
-                                <img src="img/testimonials-img.png" alt="">
+                                <img src="img/testimonials-img.webp" alt="">
                             </div>
                             <div class="client-details-wrapper">
                                 <h4>Jason Williams</h4>
@@ -262,7 +262,7 @@
                         </div>
                         <div class="client-name-wrapper">
                             <div class="client-img">
-                                <img src="img/testimonials-img.png" alt="">
+                                <img src="img/testimonials-img.webp" alt="">
                             </div>
                             <div class="client-details-wrapper">
                                 <h4>Jason Williams</h4>
@@ -284,7 +284,7 @@
                         </div>
                         <div class="client-name-wrapper">
                             <div class="client-img">
-                                <img src="img/testimonials-img.png" alt="">
+                                <img src="img/testimonials-img.webp" alt="">
                             </div>
                             <div class="client-details-wrapper">
                                 <h4>Jason Williams</h4>
@@ -306,7 +306,7 @@
                         </div>
                         <div class="client-name-wrapper">
                             <div class="client-img">
-                                <img src="img/testimonials-img.png" alt="">
+                                <img src="img/testimonials-img.webp" alt="">
                             </div>
                             <div class="client-details-wrapper">
                                 <h4>Jason Williams</h4>
@@ -322,7 +322,8 @@
 <!-- testimonails section ends here -->
 
 <!-- news letter section starts here -->
-<section class="newsletter">
+<?php include 'inc/newsletter.php';?>
+<!-- <section class="newsletter">
     <div class="container">
         <div class="row">
             <div class="col-lg-8">
@@ -343,7 +344,7 @@
             <div class="col-lg-4"></div>
         </div>
     </div>
-</section>
+</section> -->
 <!-- news letter section ends here -->
 <!-- Footer Include -->
 <?php include 'inc/footer.php'; ?>

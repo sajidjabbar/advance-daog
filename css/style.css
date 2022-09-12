@@ -204,7 +204,9 @@ header .nav-toggle-wrapper button {
 	object-fit: cover;
 	filter: brightness(0) invert(1);
 }
-
+.cogit.py-right-wrapper p {
+	margin-left: 90px;
+}
 .off-canvas-header-wrapper .row {
 	padding-top: 200px;
 }
@@ -266,7 +268,7 @@ header .nav-toggle-wrapper button {
 /* banner css starts here */
 
 .banner {
-	background-image: url(../img/mainback.png);
+	background-image: url(../img/mainback.webp);
 	background-size: 100% 100%;
 	padding-top: 250px;
 	padding-bottom: 300px;
@@ -284,7 +286,7 @@ header .nav-toggle-wrapper button {
 /* advantage starts here */
 
 .advantage {
-	padding: 50px 0px;
+	padding: 30px 0px;
 	overflow-x: hidden;
 }
 .advantage h2 {
@@ -296,7 +298,7 @@ header .nav-toggle-wrapper button {
 	display: flex;
 	flex-direction: column;
 	height: 100%;
-	margin-left: 10px;
+	margin-left: 0px;
 }
 .advantage a {
 	color: #136efa;
@@ -413,7 +415,7 @@ header .nav-toggle-wrapper button {
 /* make us sec starts here */
 
 .make-us {
-	background: url(../img/What-Makes-us.png);
+	background: url(../img/What-Makes-us.webp);
 	padding: 150px 0px;
 	background-attachment: fixed;
 	background-size: cover;
@@ -481,7 +483,7 @@ header .nav-toggle-wrapper button {
 /* testimonials section starts here */
 
 .testimonials {
-	padding: 20px 0px;
+	padding: 40px 0px;
 }
 .slider-man.slick-initialized.slick-slider {
 	margin-bottom: 60px;
@@ -630,13 +632,13 @@ section.testimonials .content-wrapper h2 {
 /* newsletter css starts here */
 
 .newsletter {
-	background: url(../img/newsletter-bg.png);
-	background-size: cover;
+	background: url(../img/interior.webp);
+	background-size: 100% 100%;
 	background-repeat: no-repeat;
 	padding: 150px 0px;
 	margin-bottom: -35px;
+	height: 500px;
 }
-
 .newsletter-content-wrapper.text-white h2 {
 	font-family: "Aileron-SemiBold";
 	font-size: 46px;
@@ -1035,6 +1037,9 @@ footer ul.social-links li a {
 	.newsletter-content-wrapper.text-white h2 {
 		font-size: 26px;
 	}
+	.cogit.py-right-wrapper p {
+		margin-left: -78px;
+	}
 }
 
 @media (max-width: 480px) {
@@ -1131,6 +1136,9 @@ footer ul.social-links li a {
 	}
 	.newsletter-content-wrapper.text-white h2 {
 		font-size: 26px;
+	}
+	.cogit.py-right-wrapper p {
+		margin-left: -78px;
 	}
 }
 
@@ -1229,6 +1237,9 @@ footer ul.social-links li a {
 	.newsletter-content-wrapper.text-white h2 {
 		font-size: 26px;
 	}
+	.cogit.py-right-wrapper p {
+		margin-left: -78px;
+	}
 }
 
 @media (max-width: 390px) {
@@ -1317,6 +1328,9 @@ footer ul.social-links li a {
 	}
 	.newsletter-content-wrapper.text-white h2 {
 		font-size: 26px;
+	}
+	.cogit.py-right-wrapper p {
+		margin-left: -78px;
 	}
 }
 
@@ -1407,6 +1421,9 @@ footer ul.social-links li a {
 	}
 	.newsletter-content-wrapper.text-white h2 {
 		font-size: 26px;
+	}
+	.cogit.py-right-wrapper p {
+		margin-left: -78px;
 	}
 }
 
@@ -1504,6 +1521,9 @@ footer ul.social-links li a {
 		margin-right: -60px;
 		display: block;
 	}
+	.cogit.py-right-wrapper p {
+		margin-left: -78px;
+	}
 }
 
 @media (max-width: 320px) {
@@ -1592,54 +1612,9 @@ footer ul.social-links li a {
 	.newsletter-content-wrapper.text-white h2 {
 		font-size: 26px;
 	}
+	.cogit.py-right-wrapper p {
+		margin-left: -78px;
+	}
 }
 
 /* responsive end */
-#hint {
-	color: #333;
-}
-#debug {
-	position: fixed;
-	top: 600px;
-}
-
-.axis {
-	background-color: white;
-	height: 1px;
-	width: 1px;
-	position: fixed;
-}
-
-.axisValue {
-	color: white;
-	position: fixed;
-	background-color: red;
-}
-
-.spanChartLabel {
-	color: white;
-}
-.spanChartYAxisValue {
-	font: bold 12px Lucida Grande, Lucida Sans Unicode, Verdana, Arial, Helvetica,
-		sans-serif;
-}
-.spanChartXAxisValue {
-	font: bold 12px Lucida Grande, Lucida Sans Unicode, Verdana, Arial, Helvetica,
-		sans-serif;
-}
-.spanChartYAxisTitle {
-	font: bold 12px Lucida Grande, Lucida Sans Unicode, Verdana, Arial, Helvetica,
-		sans-serif;
-}
-.spanChartXAxisTitle {
-	font: bold 12px Lucida Grande, Lucida Sans Unicode, Verdana, Arial, Helvetica,
-		sans-serif;
-}
-.spanChartLabel {
-	font: 12px Lucida Grande, Lucida Sans Unicode, Verdana, Arial, Helvetica,
-		sans-serif;
-}
-.spanChartTitle {
-	font: bold 14px Lucida Grande, Lucida Sans Unicode, Verdana, Arial, Helvetica,
-		sans-serif;
-}

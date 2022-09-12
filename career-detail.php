@@ -26,11 +26,11 @@
             </div>
             <div class="salary-and-timing">
                 <div class="Timing">
-                    <i><img src="img/timing.png" class="timing-coin-image" alt=""></i>
+                    <i><img src="img/timing.webp" class="timing-coin-image" alt=""></i>
                     <span class="job-salary-timing">Full time</span>
                 </div>
                 <div class="salary">
-                    <i><img src="img/coin.png" class="timing-coin-image" alt=""></i>
+                    <i><img src="img/coin.webp" class="timing-coin-image" alt=""></i>
                     <span class="job-salary-timing">$800/Month</span>
                 </div>
             </div>
@@ -108,7 +108,8 @@
     </div>
 </section>
 <!-- news letter section starts here -->
-<section class="newsletter">
+<?php include 'inc/newsletter.php';?>
+<!-- <section class="newsletter">
     <div class="container">
         <div class="row">
             <div class="col-lg-8">
@@ -129,7 +130,7 @@
             <div class="col-lg-4"></div>
         </div>
     </div>
-</section>
+</section> -->
 <!-- news letter section ends here -->
 <!-- Footer Include -->
 <?php include 'inc/footer.php'; ?>

@@ -53,11 +53,11 @@
                     <div class="img-box">
                         <div class="main-image">
                             <!-- <figure>
-                                <img src="img/login.png" class="img-fluid" alt="">
+                                <img src="img/login.webp" class="img-fluid" alt="">
                             </figure> -->
                             <div class="logo-in-login-page">
                                 <a href="">
-                                    <img src="img/login-logo.png" class="img-fluid" alt="">
+                                    <img src="img/login-logo.webp" class="img-fluid" alt="">
                                 </a>
                             </div>
                         </div>

@@ -1,9 +1,9 @@
 .banner {
-	background-image: url(../img/about-banner.png);
+	background-image: url(../img/about-banner.webp);
 	height: 288px;
-	padding-top: 0px !important;
-	background-size: cover;
-	padding-bottom: 0px !important;
+	padding-top: 0px;
+	background-size: 100% 100%;
+	padding-bottom: 0px;
 	background-repeat: no-repeat;
 	margin-top: -74px;
 	color: #fff;
@@ -16,9 +16,8 @@
 
 /* We are Best Start Here */
 section.why-we-are-best {
-	padding: 130px 0px 80px 0px;
+	padding: 120px 0px 50px 0px;
 }
-
 .text-on-right-side {
 	padding-top: 35px;
 	padding-left: 35px;

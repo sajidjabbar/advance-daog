@@ -7,8 +7,8 @@
         <div class="row">
             <div class="col-lg-7">
                 <div class="content-wrapper">
-                    <h2>Experience What True Luxury Feels Like
-                        <!-- <span>Benefits Luxury Feels Like </span> -->
+                    <!-- <h2>Experience What True Luxury Feels Like -->
+                    <!-- <span>Benefits Luxury Feels Like </span> -->
                     </h2>
                     <!-- <p>Whether you’re looking for an exclusive business-related round trip or a luxurious one-way family
                         vacation, where time is of the essence, Advanced AOG can help. We haven’t just set the standards
@@ -42,7 +42,7 @@
                         <li>Aircraft Management</li>
                         <li>Engineering</li>
                     </ul> -->
-                    <a href="#">Our Services <i class="fa fa-long-arrow-right"></i></a>
+                    <!-- <a href="#">Our Services <i class="fa fa-long-arrow-right"></i></a> -->
                 </div>
             </div>
             <div class="col-lg-4"></div>
@@ -52,7 +52,7 @@
                 <div class="box-wrapper">
                     <div class="box-img-wrapper">
                         <figure>
-                            <img src="img/more-blog1.png " class="img-fluid advantage1" alt="">
+                            <img src="img/more-blog1.webp " class="img-fluid advantage1" alt="">
                         </figure>
                     </div>
                     <div class="box-content-wrapper">
@@ -62,7 +62,7 @@
                 <div class="box-wrapper">
                     <div class="box-img-wrapper">
                         <figure>
-                            <img src="img/plan2.png " class="img-fluid advantage1" alt="">
+                            <img src="img/plan2.webp " class="img-fluid advantage1" alt="">
                         </figure>
                     </div>
                     <div class="box-content-wrapper">
@@ -74,7 +74,7 @@
                 <div class="box-wrapper">
                     <div class="box-img-wrapper">
                         <figure>
-                            <img src="img/advantage2.png" class="img-fluid aero" alt="">
+                            <img src="img/advantage2.webp" class="img-fluid aero" alt="">
                         </figure>
                     </div>
                     <div class="box-content-wrapper">
@@ -84,7 +84,7 @@
                 <div class="box-wrapper">
                     <div class="box-img-wrapper">
                         <figure>
-                            <img src="img/advantage3.png" class="img-fluid" alt="">
+                            <img src="img/advantage3.webp" class="img-fluid" alt="">
                         </figure>
                     </div>
                     <div class="box-content-wrapper">
@@ -130,7 +130,7 @@
                                 <div class="box-wrapper">
                                     <div class="box-img-wrapper">
                                         <figure>
-                                            <img src="img/plan2.png " class="img-fluid advantage1" alt="">
+                                            <img src="img/plan2.webp " class="img-fluid advantage1" alt="">
                                         </figure>
                                     </div>
                                     <div class="box-content-wrapper">
@@ -142,7 +142,7 @@
                                 <div class="box-wrapper">
                                     <div class="box-img-wrapper">
                                         <figure>
-                                            <img src="img/advantage2.png" class="img-fluid aero" alt="">
+                                            <img src="img/advantage2.webp" class="img-fluid aero" alt="">
                                         </figure>
                                     </div>
                                     <div class="box-content-wrapper">
@@ -152,7 +152,7 @@
                                 <div class="box-wrapper">
                                     <div class="box-img-wrapper">
                                         <figure>
-                                            <img src="img/advantage3.png" class="img-fluid" alt="">
+                                            <img src="img/advantage3.webp" class="img-fluid" alt="">
                                         </figure>
                                     </div>
                                     <div class="box-content-wrapper">
@@ -168,7 +168,7 @@
                                 <div class="box-wrapper">
                                     <div class="box-img-wrapper">
                                         <figure>
-                                            <img src="img/plan2.png " class="img-fluid advantage1" alt="">
+                                            <img src="img/plan2.webp " class="img-fluid advantage1" alt="">
                                         </figure>
                                     </div>
                                     <div class="box-content-wrapper">
@@ -180,7 +180,7 @@
                                 <div class="box-wrapper">
                                     <div class="box-img-wrapper">
                                         <figure>
-                                            <img src="img/advantage2.png" class="img-fluid aero" alt="">
+                                            <img src="img/advantage2.webp" class="img-fluid aero" alt="">
                                         </figure>
                                     </div>
                                     <div class="box-content-wrapper">
@@ -190,7 +190,7 @@
                                 <div class="box-wrapper">
                                     <div class="box-img-wrapper">
                                         <figure>
-                                            <img src="img/advantage3.png" class="img-fluid" alt="">
+                                            <img src="img/advantage3.webp" class="img-fluid" alt="">
                                         </figure>
                                     </div>
                                     <div class="box-content-wrapper">
@@ -206,7 +206,7 @@
                                 <div class="box-wrapper">
                                     <div class="box-img-wrapper">
                                         <figure>
-                                            <img src="img/plan2.png " class="img-fluid advantage1" alt="">
+                                            <img src="img/plan2.webp " class="img-fluid advantage1" alt="">
                                         </figure>
                                     </div>
                                     <div class="box-content-wrapper">
@@ -218,7 +218,7 @@
                                 <div class="box-wrapper">
                                     <div class="box-img-wrapper">
                                         <figure>
-                                            <img src="img/advantage2.png" class="img-fluid aero" alt="">
+                                            <img src="img/advantage2.webp" class="img-fluid aero" alt="">
                                         </figure>
                                     </div>
                                     <div class="box-content-wrapper">
@@ -228,7 +228,7 @@
                                 <div class="box-wrapper">
                                     <div class="box-img-wrapper">
                                         <figure>
-                                            <img src="img/advantage3.png" class="img-fluid" alt="">
+                                            <img src="img/advantage3.webp" class="img-fluid" alt="">
                                         </figure>
                                     </div>
                                     <div class="box-content-wrapper">
@@ -272,7 +272,7 @@
         <div class="row">
             <div class="col-lg-6 px-0">
                 <figure>
-                    <img src="img/mech.png" class="img-fluid diff" alt="">
+                    <img src="img/mech.webp" class="img-fluid diff" alt="">
                 </figure>
             </div>
             <div class="col-lg-6 px-0 blue">
@@ -296,7 +296,7 @@
             </div>
             <div class="col-lg-6 px-0">
                 <figure>
-                    <img src="img/advantage.png" class="img-fluid aviation" alt="">
+                    <img src="img/advantage.webp" class="img-fluid aviation" alt="">
                 </figure>
             </div>
         </div>
@@ -319,7 +319,7 @@
             <div class="col-lg-3">
                 <div class="choose-box-wrapper">
                     <div class="box-img-wrapper text-center">
-                        <img src="img/Cost-Effective.png" alt="">
+                        <img src="img/Cost-Effective.webp" alt="">
                     </div>
                     <div class="box-content-wrapper text-center mt-4">
                         <h5>Cost Effective</h5>
@@ -329,7 +329,7 @@
             <div class="col-lg-3">
                 <div class="choose-box-wrapper">
                     <div class="box-img-wrapper text-center">
-                        <img src="img/Creative-Minds.png" alt="">
+                        <img src="img/Creative-Minds.webp" alt="">
                     </div>
                     <div class="box-content-wrapper text-center mt-4">
                         <h5>Creative Minds</h5>
@@ -339,7 +339,7 @@
             <div class="col-lg-3">
                 <div class="choose-box-wrapper">
                     <div class="box-img-wrapper text-center">
-                        <img src="img/Professional-workers.png" alt="">
+                        <img src="img/Professional-workers.webp" alt="">
                     </div>
                     <div class="box-content-wrapper text-center mt-4">
                         <h5>Professional workers</h5>
@@ -349,7 +349,7 @@
             <div class="col-lg-3">
                 <div class="choose-box-wrapper">
                     <div class="box-img-wrapper text-center">
-                        <img src="img/Satisfaction.png" alt="">
+                        <img src="img/Satisfaction.webp" alt="">
                     </div>
                     <div class="box-content-wrapper text-center mt-4">
                         <h5>Satisfaction</h5>
@@ -364,16 +364,16 @@
 <section class="testimonials img_test">
     <div class="container">
         <div class="row p-3">
-            <div class="col-lg-12">
+            <div class="col-lg-12 p-0">
                 <div class="only_img_slider">
                     <div class="slider-man">
-                        <li><img src="./img/slide1.png" class="img-fluid" alt=""></li>
-                        <li><img src="./img/slide2.png" class="img-fluid" alt=""></li>
-                        <li><img src="./img/slide3.png" class="img-fluid" alt=""></li>
-                        <li><img src="./img/slide4.png" class="img-fluid" alt=""></li>
-                        <li><img src="img/slide5.png" class="img-fluid" alt=""></li>
-                        <li><img src="./img/slide6.png" class="img-fluid" alt=""></li>
-                        <li><img src="./img/slide7.png" class="img-fluid" alt=""></li>
+                        <li><img src="./img/slide1.webp" class="img-fluid" alt=""></li>
+                        <li><img src="./img/slide2.webp" class="img-fluid" alt=""></li>
+                        <li><img src="./img/slide3.webp" class="img-fluid" alt=""></li>
+                        <li><img src="./img/slide4.webp" class="img-fluid" alt=""></li>
+                        <li><img src="img/slide5.webp" class="img-fluid" alt=""></li>
+                        <li><img src="./img/slide6.webp" class="img-fluid" alt=""></li>
+                        <li><img src="./img/slide7.webp" class="img-fluid" alt=""></li>
                     </div>
                 </div>
             </div>
@@ -390,11 +390,11 @@
                 <div class="partner-wrapper">
                     <h4 class="text-center">Our Partners</h4>
                     <ul>
-                        <li><img src="img/partner1.png" alt=""></li>
-                        <li><img src="img/partner2.png" alt=""></li>
-                        <li><img src="img/partner3.png" alt=""></li>
-                        <li><img src="img/partner4.png" alt=""></li>
-                        <li><img src="img/partner5.png" alt=""></li>
+                        <li><img src="img/partner1.webp" alt=""></li>
+                        <li><img src="img/partner2.webp" alt=""></li>
+                        <li><img src="img/partner3.webp" alt=""></li>
+                        <li><img src="img/partner4.webp" alt=""></li>
+                        <li><img src="img/partner5.webp" alt=""></li>
                     </ul>
                 </div>
             </div>
@@ -415,7 +415,7 @@
                         </div>
                         <div class="client-name-wrapper">
                             <div class="client-img">
-                                <img src="img/testimonials-img.png" alt="">
+                                <img src="img/testimonials-img.webp" alt="">
                             </div>
                             <div class="client-details-wrapper">
                                 <h4>Jason Williams</h4>
@@ -439,7 +439,7 @@
                         </div>
                         <div class="client-name-wrapper">
                             <div class="client-img">
-                                <img src="img/testimonials-img.png" alt="">
+                                <img src="img/testimonials-img.webp" alt="">
                             </div>
                             <div class="client-details-wrapper">
                                 <h4>Jason Williams</h4>
@@ -462,7 +462,7 @@
                         </div>
                         <div class="client-name-wrapper">
                             <div class="client-img">
-                                <img src="img/testimonials-img.png" alt="">
+                                <img src="img/testimonials-img.webp" alt="">
                             </div>
                             <div class="client-details-wrapper">
                                 <h4>Jason Williams</h4>
@@ -484,7 +484,7 @@
                         </div>
                         <div class="client-name-wrapper">
                             <div class="client-img">
-                                <img src="img/testimonials-img.png" alt="">
+                                <img src="img/testimonials-img.webp" alt="">
                             </div>
                             <div class="client-details-wrapper">
                                 <h4>Jason Williams</h4>
@@ -499,7 +499,8 @@
 </section>
 <!-- testimonails section ends here -->
 <!-- news letter section starts here -->
-<section class="newsletter">
+<?php include 'inc/newsletter.php';?>
+<!-- <section class="newsletter">
     <div class="container">
         <div class="row">
             <div class="col-lg-8">
@@ -518,7 +519,7 @@
             <div class="col-lg-4"></div>
         </div>
     </div>
-</section>
+</section> -->
 
 <!-- news letter section ends here -->
 <!-- Footer Include -->

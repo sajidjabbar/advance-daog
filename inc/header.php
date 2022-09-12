@@ -4,7 +4,7 @@
             <div class="col-6">
                 <div class="logo-wrapper">
                     <a href="index.php">
-                        <img src="img/logoaog.png" class="img-fluid" alt="">
+                        <img src="img/logoaog.webp" class="img-fluid" alt="">
                     </a>
                 </div>
             </div>

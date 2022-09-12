@@ -1,6 +1,3 @@
-<!-- Jquery JS-->
-<script src="https://code.jquery.com/jquery-3.6.0.min.js" type="text/javascript"></script>
-<!-- Jquery JS -->
 <!-- Bootstrap Js -->
 <script src="js/bootstrap.min.js"></script>
 <!-- Bootstrap Js -->
@@ -14,7 +11,9 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js"
     integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous">
 </script>
-
+<!-- Jquery JS-->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" type="text/javascript"></script>
+<!-- Jquery JS -->
 <!-- Popper JS -->
 <!-- slick slider js -->
 <script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
@@ -29,7 +28,7 @@
 <script>
 $(document).ready(function() {
     // loader css starts here
-    $(window).on('load', function() {
+    $(window).on("load", function() {
         $("#preloader").fadeOut(1000);
     });
     // loader css ends here

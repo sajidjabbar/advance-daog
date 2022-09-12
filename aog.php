@@ -37,7 +37,7 @@
                 <div class="col-md-6 pr-0">
                     <div class="side-img">
                         <figure>
-                            <img src="img/aog-1.png" class="img-fluid" alt="">
+                            <img src="img/aog-1.webp" class="img-fluid" alt="">
                         </figure>
                     </div>
                 </div>
@@ -88,7 +88,7 @@
                 <div class="col-md-6 pl-0">
                     <div class="side-img">
                         <figure>
-                            <img src="img/aog-1.png" class="img-fluid" alt="">
+                            <img src="img/aog-1.webp" class="img-fluid" alt="">
                         </figure>
                     </div>
                 </div>
@@ -115,7 +115,7 @@
                     <div class="col-md-4">
                         <div class="single-quality text-center">
                             <figure>
-                                <img src="img/quality.png" class="img-fluid" alt="">
+                                <img src="img/quality.webp" class="img-fluid" alt="">
                             </figure>
                             <h4>A spirit of transparency <br>
                                 leads to a culture of trust.</h4>
@@ -124,7 +124,7 @@
                     <div class="col-md-4">
                         <div class="single-quality text-center">
                             <figure>
-                                <img src="img/quality-2.png" class="img-fluid" alt="">
+                                <img src="img/quality-2.webp" class="img-fluid" alt="">
                             </figure>
                             <h4>Time is our most <br>
                                 precious resource.</h4>
@@ -133,7 +133,7 @@
                     <div class="col-md-4">
                         <div class="single-quality text-center">
                             <figure>
-                                <img src="img/quality.png" class="img-fluid" alt="">
+                                <img src="img/quality.webp" class="img-fluid" alt="">
                             </figure>
                             <h4>Understanding is at the <br>
                                 heart of our business.</h4>
@@ -147,7 +147,8 @@
 <!-- End here -->
 
 <!-- news letter section starts here -->
-<section class="newsletter">
+<?php include 'inc/newsletter.php';?>
+<!-- <section class="newsletter">
     <div class="container">
         <div class="row">
             <div class="col-lg-8">
@@ -168,7 +169,7 @@
             <div class="col-lg-4"></div>
         </div>
     </div>
-</section>
+</section> -->
 <!-- news letter section ends here -->
 <!-- Footer Include -->
 <?php include 'inc/footer.php'; ?>

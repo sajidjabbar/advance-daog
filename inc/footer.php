@@ -1,12 +1,13 @@
 <footer class="footer">
     <div class="container">
         <div class="row pb-5">
-            <div class="col-lg-4 col-sm-4">
+            <div class="col-lg-1"></div>
+            <div class="col-lg-4 col-sm-4 ">
                 <div class="footer-1-content-wrapper">
                     <a href="index.php">
-                        <img src="img/logoaog.png" width="206px" class="img-fluid" alt="">
+                        <img src="img/logoaog.webp" width="206px" class="img-fluid" alt="">
                     </a>
-                    <p>We haven’t just set <br> the standards for <br> elite service. We’re <br> soaring beyond them.
+                    <p>We haven’t just set the standards for elite service. We’re soaring beyond them.
                     </p>
                     <ul class="social-links d-flex">
                         <li>
@@ -27,7 +28,7 @@
                     </ul>
                 </div>
             </div>
-            <div class="col-lg-2 col-sm-2">
+            <!-- <div class="col-lg-2 col-sm-2">
                 <div class="footer-widget-2">
                     <h5>Quick Links</h5>
                     <div class="footer-links-wrapper">
@@ -40,7 +41,7 @@
                         </ul>
                     </div>
                 </div>
-            </div>
+            </div> -->
             <div class="col-lg-3 col-sm-3">
                 <div class="footer-widget-3">
                     <h5>Contact Info</h5>
@@ -65,16 +66,17 @@
                     <h5>Contact Us</h5>
                     <div class="footer-links-wrapper">
                         <ul>
-                            <li><a href="MX@AdvancedAOG.com"> <i><img src="img/email.png" alt="" class="mr-2"></i>
+                            <li><a href="MX@AdvancedAOG.com"> <i><img src="img/email.webp" alt="" class="mr-2"></i>
                                     &nbsp; MX@AdvancedAOG.com</a> <a class="support-email"
                                     href="Support@AdvancedAOG.com">Support@AdvancedAOG.com</a></li>
-                            <li><a href="tel:+01234456890"> <i class=""><img src="img/phone-2.png" alt=""
+                            <li><a href="tel:+01234456890"> <i class=""><img src="img/phone-2.webp" alt=""
                                             class="mr-2"></i> &nbsp;&nbsp; Call Us: +0 1234 456 890</a></li>
                         </ul>
                         <button class="btn">Contact Now</button>
                     </div>
                 </div>
             </div>
+            <div class="col-lg-1"></div>
         </div>
     </div>
     <div class="cogit py-right-wrapper">

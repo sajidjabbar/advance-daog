@@ -31,7 +31,7 @@
             </div>
             <div class="detail-img">
                 <figure>
-                    <img src="img/blogs-detail-1.png" class="img-fluid" alt="">
+                    <img src="img/blogs-detail-1.webp" class="img-fluid" alt="">
                 </figure>
             </div>
             <div class="detail-paragraphs">
@@ -100,7 +100,7 @@
                 <div class="row">
                     <div class="col-md-4">
                         <div class="single-blog">
-                            <img src="img/more-blog1.png" class="img-fluid" alt="">
+                            <img src="img/more-blog1.webp" class="img-fluid" alt="">
                             <div class="blog-text">
                                 <span>Tyler Cauble | December 2021 | Betting</span>
                                 <h5>
@@ -110,13 +110,14 @@
                                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
                                     incididunt ut labore et dolore magna aliqua.
                                 </p>
-                                <a href="blogs-detail.php">Read More &nbsp;&nbsp; <img src="img/right-arrow.png" alt=""></a>
+                                <a href="blogs-detail.php">Read More &nbsp;&nbsp; <img src="img/right-arrow.webp"
+                                        alt=""></a>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="single-blog">
-                            <img src="img/more-blog1.png" class="img-fluid" alt="">
+                            <img src="img/more-blog1.webp" class="img-fluid" alt="">
                             <div class="blog-text">
                                 <span>Tyler Cauble | December 2021 | Betting</span>
                                 <h5>
@@ -126,13 +127,14 @@
                                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
                                     incididunt ut labore et dolore magna aliqua.
                                 </p>
-                                <a href="blogs-detail.php">Read More &nbsp;&nbsp; <img src="img/right-arrow.png" alt=""></a>
+                                <a href="blogs-detail.php">Read More &nbsp;&nbsp; <img src="img/right-arrow.webp"
+                                        alt=""></a>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="single-blog">
-                            <img src="img/more-blog1.png" class="img-fluid" alt="">
+                            <img src="img/more-blog1.webp" class="img-fluid" alt="">
                             <div class="blog-text">
                                 <span>Tyler Cauble | December 2021 | Betting</span>
                                 <h5>
@@ -142,7 +144,8 @@
                                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
                                     incididunt ut labore et dolore magna aliqua.
                                 </p>
-                                <a href="blogs-detail.php">Read More &nbsp;&nbsp; <img src="img/right-arrow.png" alt=""></a>
+                                <a href="blogs-detail.php">Read More &nbsp;&nbsp; <img src="img/right-arrow.webp"
+                                        alt=""></a>
                             </div>
                         </div>
                     </div>
@@ -155,7 +158,8 @@
 
 
 <!-- news letter section starts here -->
-<section class="newsletter">
+<?php include 'inc/newsletter.php';?>
+<!-- <section class="newsletter">
     <div class="container">
         <div class="row">
             <div class="col-lg-8">
@@ -176,7 +180,7 @@
             <div class="col-lg-4"></div>
         </div>
     </div>
-</section>
+</section> -->
 <!-- news letter section ends here -->
 <!-- Footer Include -->
 <?php include 'inc/footer.php'; ?>

@@ -89,7 +89,7 @@
             <div class="col-md-4 mt-5">
                 <div class="info-box mt-4">
                     <div class="info-img">
-                        <img class="img-fluid" src="img/message.png" alt="">
+                        <img class="img-fluid" src="img/message.webp" alt="">
                     </div>
 
                     <div class="info-head">
@@ -110,7 +110,7 @@
             <div class="col-md-4 mt-5">
                 <div class="info-box mt-4">
                     <div class="info-img">
-                        <img class="img-fluid" src="img/phone.png" alt="">
+                        <img class="img-fluid" src="img/phone.webp" alt="">
                     </div>
 
                     <div class="info-head">
@@ -128,7 +128,7 @@
             <div class="col-md-4 mt-5">
                 <div class="info-box mt-4">
                     <div class="info-img">
-                        <img class="img-fluid" src="img/map.png" alt="">
+                        <img class="img-fluid" src="img/map.webp" alt="">
                     </div>
 
                     <div class="info-head">

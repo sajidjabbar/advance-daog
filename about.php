@@ -29,7 +29,7 @@
                         <h1>Why Choose Advanced AOG</h1>
                         <div class="for-img">
                             <figure>
-                                <img src="img/gulfstream-g700.png" class="img-fluid" alt="">
+                                <img src="img/gulfstream-g700.webp" class="img-fluid" alt="">
                             </figure>
                         </div>
                     </div>
@@ -62,8 +62,8 @@
                                 </li>
                             </ul>
                         </div>
-                        <div class="link-to-services mt-5">
-                            <a href="blogs-detail.php">Our Services &nbsp;&nbsp; <img src="img/right-arrow.png"
+                        <div class="link-to-services mt-3">
+                            <a href="blogs-detail.php">Our Services &nbsp;&nbsp; <img src="img/right-arrow.webp"
                                     alt=""></a>
                         </div>
                     </div>
@@ -88,7 +88,7 @@
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="choose-box-wrapper">
                     <div class="box-img-wrapper text-center">
-                        <img src="img/Cost-Effective.png" alt="">
+                        <img src="img/Cost-Effective.webp" alt="">
                     </div>
                     <div class="box-content-wrapper text-center mt-4">
                         <h5>Cost Effective</h5>
@@ -98,7 +98,7 @@
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="choose-box-wrapper">
                     <div class="box-img-wrapper text-center">
-                        <img src="img/Creative-Minds.png" alt="">
+                        <img src="img/Creative-Minds.webp" alt="">
                     </div>
                     <div class="box-content-wrapper text-center mt-4">
                         <h5>Creative Minds</h5>
@@ -108,7 +108,7 @@
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="choose-box-wrapper">
                     <div class="box-img-wrapper text-center">
-                        <img src="img/Professional-workers.png" alt="">
+                        <img src="img/Professional-workers.webp" alt="">
                     </div>
                     <div class="box-content-wrapper text-center mt-4">
                         <h5>Professional workers</h5>
@@ -118,7 +118,7 @@
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="choose-box-wrapper">
                     <div class="box-img-wrapper text-center">
-                        <img src="img/Satisfaction.png" alt="">
+                        <img src="img/Satisfaction.webp" alt="">
                     </div>
                     <div class="box-content-wrapper text-center mt-4">
                         <h5>Satisfaction</h5>
@@ -156,7 +156,7 @@
                     <div class="col-md-4">
                         <div class="single-quality text-center">
                             <figure>
-                                <img src="img/quality.png" class="img-fluid" alt="">
+                                <img src="img/quality.webp" class="img-fluid" alt="">
                             </figure>
                             <h4>A spirit of transparency <br>
                                 leads to a culture of trust.</h4>
@@ -165,7 +165,7 @@
                     <div class="col-md-4">
                         <div class="single-quality text-center">
                             <figure>
-                                <img src="img/quality-2.png" class="img-fluid" alt="">
+                                <img src="img/quality-2.webp" class="img-fluid" alt="">
                             </figure>
                             <h4>Time is our most <br>
                                 precious resource.</h4>
@@ -174,7 +174,7 @@
                     <div class="col-md-4">
                         <div class="single-quality text-center">
                             <figure>
-                                <img src="img/quality.png" class="img-fluid" alt="">
+                                <img src="img/quality.webp" class="img-fluid" alt="">
                             </figure>
                             <h4>Understanding is at the <br>
                                 heart of our business.</h4>
@@ -195,7 +195,7 @@
                     <div class="we-are-left-side">
                         <div class="for-img">
                             <figure>
-                                <img src="img/about-2.png" class="img-fluid" alt="">
+                                <img src="img/about-2.webp" class="img-fluid" alt="">
                             </figure>
                         </div>
                         <div class="text-wraper">
@@ -225,8 +225,8 @@
                                 <li>-Mobile Aircraft Accident Specialists with Decades of Experience Recovering Aircraft
                                     with Quick Response and Minimal Further Damage to Aircraft.</li>
                             </ul>
-                            <div class="link-to-services mt-5">
-                                <a href="blogs-detail.php">Read More &nbsp;&nbsp; <img src="img/right-arrow.png"
+                            <div class="link-to-services mt-3">
+                                <a href="blogs-detail.php">Read More &nbsp;&nbsp; <img src="img/right-arrow.webp"
                                         alt=""></a>
                             </div>
                         </div>
@@ -235,10 +235,10 @@
                 <div class="col-md-5">
                     <div class="for-images">
                         <figure>
-                            <img src="img/about-3.png" class="img-fluid" alt="">
+                            <img src="img/about-3.webp" class="img-fluid" alt="">
                         </figure>
                         <figure>
-                            <img id="technician" src=" img/about-4.png" class="img-fluid" alt="">
+                            <img id="technician" src=" img/about-4.webp" class="img-fluid" alt="">
                         </figure>
                     </div>
                 </div>
@@ -259,7 +259,7 @@
                     <div class="single-person">
                         <div class="for-img">
                             <figure>
-                                <img src="img/person-1.png" class="img-fluid" alt="">
+                                <img src="img/person-1.webp" class="img-fluid" alt="">
                             </figure>
                         </div>
                         <div class="member-detail">
@@ -273,7 +273,7 @@
                     <div class="single-person">
                         <div class="for-img">
                             <figure>
-                                <img src="img/person-2.png" class="img-fluid" alt="">
+                                <img src="img/person-2.webp" class="img-fluid" alt="">
                             </figure>
                         </div>
                         <div class="member-detail">
@@ -287,7 +287,7 @@
                     <div class="single-person">
                         <div class="for-img">
                             <figure>
-                                <img src="img/person-3.png" class="img-fluid" alt="">
+                                <img src="img/person-3.webp" class="img-fluid" alt="">
                             </figure>
                         </div>
                         <div class="member-detail">
@@ -301,7 +301,7 @@
                     <div class="single-person">
                         <div class="for-img">
                             <figure>
-                                <img src="img/person-4.png" class="img-fluid" alt="">
+                                <img src="img/person-4.webp" class="img-fluid" alt="">
                             </figure>
                         </div>
                         <div class="member-detail">
@@ -319,7 +319,8 @@
 
 
 <!-- news letter section starts here -->
-<section class="newsletter">
+<?php include 'inc/newsletter.php';?>
+<!-- <section class="newsletter">
     <div class="container">
         <div class="row">
             <div class="col-lg-8">
@@ -340,7 +341,7 @@
             <div class="col-lg-4"></div>
         </div>
     </div>
-</section>
+</section> -->
 <!-- news letter section ends here -->
 <!-- Footer Include -->
 <?php include 'inc/footer.php'; ?>

@@ -49,7 +49,7 @@
                 </div>
                 <div class="client-name-wrapper">
                     <div class="client-img">
-                        <img src="img/testimonials-img.png" alt="">
+                        <img src="img/testimonials-img.webp" alt="">
                     </div>
                     <div class="client-details-wrapper">
                         <h4>Jason Williams</h4>
@@ -71,7 +71,7 @@
                 </div>
                 <div class="client-name-wrapper">
                     <div class="client-img">
-                        <img src="img/testimonials-img.png" alt="">
+                        <img src="img/testimonials-img.webp" alt="">
                     </div>
                     <div class="client-details-wrapper">
                         <h4>Jason Williams</h4>
@@ -93,7 +93,7 @@
                 </div>
                 <div class="client-name-wrapper">
                     <div class="client-img">
-                        <img src="img/testimonials-img.png" alt="">
+                        <img src="img/testimonials-img.webp" alt="">
                     </div>
                     <div class="client-details-wrapper">
                         <h4>Jason Williams</h4>
@@ -115,7 +115,7 @@
                 </div>
                 <div class="client-name-wrapper">
                     <div class="client-img">
-                        <img src="img/testimonials-img.png" alt="">
+                        <img src="img/testimonials-img.webp" alt="">
                     </div>
                     <div class="client-details-wrapper">
                         <h4>Jason Williams</h4>

@@ -25,8 +25,9 @@
             <div class="col-md-8">
                 <div class="blogs-top-text">
                     <h1>Check Out Our Blogs</h1>
-                    <p>Don’t forget to check out our recent blogs. Learn what it feels to experience the thrill of travelling with Advancedaog.
-</p>
+                    <p>Don’t forget to check out our recent blogs. Learn what it feels to experience the thrill of
+                        travelling with Advancedaog.
+                    </p>
                 </div>
             </div>
             <div class="bogs-section-start">
@@ -38,17 +39,19 @@
                                     elit, sed do eiusmod</h5>
                                 <span>Tyler Cauble | December 2021 | Betting</span>
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                                    labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                    incididunt ut
+                                    labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+                                    ullamco
                                     laboris nisi ut aliquip ex ea commodo consequat.
                                 </p>
-                                <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.png" alt=""></a>
+                                <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.webp" alt=""></a>
                             </div>
                         </div>
                         <div class="col-md-4">
                             <div class="blog-img">
                                 <figure>
-                                    <img src="img/blog-1.png" class="img-fluid" alt="">
+                                    <img src="img/blog-1.webp" class="img-fluid" alt="">
                                 </figure>
                             </div>
                         </div>
@@ -62,17 +65,19 @@
                                     elit, sed do eiusmod</h5>
                                 <span>Tyler Cauble | December 2021 | Betting</span>
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                                    labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                    incididunt ut
+                                    labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+                                    ullamco
                                     laboris nisi ut aliquip ex ea commodo consequat.
                                 </p>
-                                <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.png" alt=""></a>
+                                <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.webp" alt=""></a>
                             </div>
                         </div>
                         <div class="col-md-4">
                             <div class="blog-img">
                                 <figure>
-                                    <img src="img/blog-1.png" class="img-fluid" alt="">
+                                    <img src="img/blog-1.webp" class="img-fluid" alt="">
                                 </figure>
                             </div>
                         </div>
@@ -86,17 +91,19 @@
                                     elit, sed do eiusmod</h5>
                                 <span>Tyler Cauble | December 2021 | Betting</span>
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                                    labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                    incididunt ut
+                                    labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+                                    ullamco
                                     laboris nisi ut aliquip ex ea commodo consequat.
                                 </p>
-                                <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.png" alt=""></a>
+                                <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.webp" alt=""></a>
                             </div>
                         </div>
                         <div class="col-md-4">
                             <div class="blog-img">
                                 <figure>
-                                    <img src="img/blog-1.png" class="img-fluid" alt="">
+                                    <img src="img/blog-1.webp" class="img-fluid" alt="">
                                 </figure>
                             </div>
                         </div>
@@ -110,17 +117,19 @@
                                     elit, sed do eiusmod</h5>
                                 <span>Tyler Cauble | December 2021 | Betting</span>
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                                    labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                    incididunt ut
+                                    labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+                                    ullamco
                                     laboris nisi ut aliquip ex ea commodo consequat.
                                 </p>
-                                <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.png" alt=""></a>
+                                <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.webp" alt=""></a>
                             </div>
                         </div>
                         <div class="col-md-4">
                             <div class="blog-img">
                                 <figure>
-                                    <img src="img/blog-1.png" class="img-fluid" alt="">
+                                    <img src="img/blog-1.webp" class="img-fluid" alt="">
                                 </figure>
                             </div>
                         </div>
@@ -138,7 +147,8 @@
         <div class="for-pagination">
             <nav aria-label="Page navigation example">
                 <ul class="pagination">
-                    <li class="page-item"><a class="page-link arrows" href="#"><img src="img/left-angle.png" alt=""></a>
+                    <li class="page-item"><a class="page-link arrows" href="#"><img src="img/left-angle.webp"
+                                alt=""></a>
                     </li>
 
                     <li class="page-item"><a class="page-link active" href="#">1</a></li>
@@ -149,7 +159,7 @@
                     <li class="page-item"><a class="page-link not-active" href="#">6</a></li>
                     <li class="page-item">
                         <a class="page-link arrows" href="#">
-                            <img src="img/right-angle.png" alt="">
+                            <img src="img/right-angle.webp" alt="">
                         </a>
                     </li>
                 </ul>
@@ -163,7 +173,8 @@
 <!-- End Here -->
 
 <!-- news letter section starts here -->
-<section class="newsletter">
+<?php include 'inc/newsletter.php';?>
+<!-- <section class="newsletter">
     <div class="container">
         <div class="row">
             <div class="col-lg-8">
@@ -184,7 +195,7 @@
             <div class="col-lg-4"></div>
         </div>
     </div>
-</section>
+</section> -->
 <!-- news letter section ends here -->
 <!-- Footer Include -->
 <?php include 'inc/footer.php'; ?>

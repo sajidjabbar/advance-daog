@@ -1,9 +1,9 @@
 .banner {
-	background-image: url(../img/about-banner.png);
+	background-image: url(../img/about-banner.webp);
 	height: 288px;
-	padding-top: 0px !important;
-	background-size: cover;
-	padding-bottom: 0px !important;
+	padding-top: 0px;
+	background-size: 100% 100%;
+	padding-bottom: 0px;
 	background-repeat: no-repeat;
 	margin-top: -74px;
 	color: #fff;
@@ -136,6 +136,10 @@ textarea#exampleFormControlTextarea1 {
 	.contact-section-start {
 		padding: 100px 21%;
 	}
+	.banner {
+		height: 248px;
+		background-size: 100% 100%;
+	}
 }
 
 @media (max-width: 1300px) {
@@ -147,6 +151,10 @@ textarea#exampleFormControlTextarea1 {
 @media (max-width: 1150px) {
 	.contact-section-start {
 		padding: 100px 12%;
+	}
+	.banner {
+		height: 248px;
+		background-size: 100% 100%;
 	}
 }
 
@@ -166,6 +174,10 @@ textarea#exampleFormControlTextarea1 {
 	.top-text-strat p {
 		font-size: 13px;
 	}
+	.banner {
+		height: 248px;
+		background-size: 100% 100%;
+	}
 }
 
 @media (max-width: 768px) {
@@ -184,11 +196,21 @@ textarea#exampleFormControlTextarea1 {
 	.top-text-strat p {
 		font-size: 11px;
 	}
+	.banner {
+		height: 248px;
+		padding-top: 160px !important;
+		background-size: 100% 100%;
+	}
 }
 
 @media (max-width: 820px) {
 	section.info-sec {
 		padding: 10px 0px 70px 0px;
+	}
+	.banner {
+		height: 248px;
+		padding-top: 160px !important;
+		background-size: 100% 100%;
 	}
 }
 @media (max-width: 768px) {
@@ -198,6 +220,11 @@ textarea#exampleFormControlTextarea1 {
 	.contact-section-start {
 		padding: 70px 0 0 0;
 	}
+	.banner {
+		height: 248px;
+		padding-top: 160px !important;
+		background-size: 100% 100%;
+	}
 }
 @media (max-width: 575px) {
 	section.info-sec {
@@ -205,6 +232,11 @@ textarea#exampleFormControlTextarea1 {
 	}
 	.contact-section-start {
 		padding: 70px 0 0 0;
+	}
+	.banner {
+		height: 288px;
+		padding-top: 160px !important;
+		background-size: 100% 100%;
 	}
 }
 @media (max-width: 412px) {
@@ -214,6 +246,11 @@ textarea#exampleFormControlTextarea1 {
 	.contact-section-start {
 		padding: 70px 0 0 0;
 	}
+	.banner {
+		height: 248px;
+		padding-top: 160px !important;
+		background-size: 100% 100%;
+	}
 }
 @media (max-width: 375px) {
 	section.info-sec {
@@ -221,6 +258,11 @@ textarea#exampleFormControlTextarea1 {
 	}
 	.contact-section-start {
 		padding: 70px 0 0 0;
+	}
+	.banner {
+		height: 248px;
+		padding-top: 160px !important;
+		background-size: 100% 100%;
 	}
 }
 @media (max-width: 393px) {
@@ -230,6 +272,11 @@ textarea#exampleFormControlTextarea1 {
 	.contact-section-start {
 		padding: 70px 0 0 0;
 	}
+	.banner {
+		height: 248px;
+		padding-top: 160px !important;
+		background-size: 100% 100%;
+	}
 }
 @media (max-width: 390px) {
 	section.info-sec {
@@ -237,6 +284,11 @@ textarea#exampleFormControlTextarea1 {
 	}
 	.contact-section-start {
 		padding: 70px 0 0 0;
+	}
+	.banner {
+		height: 248px;
+		padding-top: 160px !important;
+		background-size: 100% 100%;
 	}
 }
 @media (max-width: 360px) {
@@ -246,6 +298,11 @@ textarea#exampleFormControlTextarea1 {
 	.contact-section-start {
 		padding: 70px 0 0 0;
 	}
+	.banner {
+		height: 248px;
+		padding-top: 160px !important;
+		background-size: 100% 100%;
+	}
 }
 @media (max-width: 320px) {
 	section.info-sec {
@@ -253,5 +310,10 @@ textarea#exampleFormControlTextarea1 {
 	}
 	.contact-section-start {
 		padding: 70px 0 0 0;
+	}
+	.banner {
+		height: 248px;
+		padding-top: 160px !important;
+		background-size: 100% 100%;
 	}
 }
