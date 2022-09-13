@@ -231,9 +231,10 @@
                             <img src="img/upper-quote.svg" alt="">
                         </div>
                         <div class="testimonails-quote">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                                ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                                ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+                            <p>“Ever since my first interaction, Advanced AOG has proven to be extremely competent in
+                                ensuring high-quality services. Their customer staff is very co-operative and always
+                                finds a solution to my problems.”
+                            </p>
                         </div>
                         <div class="quotelower">
                             <img src="img/lower-quote.svg" alt="">
@@ -253,9 +254,10 @@
                             <img src="img/upper-quote.svg" alt="">
                         </div>
                         <div class="testimonails-quote">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                                ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                                ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+                            <p>greatly values their relationship with Advanced AOG. Over the years, Advanced AOG has
+                                helped us massively with Aircraft Management and provided extremely skilled individuals
+                                whenever needed. They’re undoubtedly one of the leading aviation services providers out
+                                there. We highly recommend Advanced AOG.” </p>
                         </div>
                         <div class="quotelower">
                             <img src="img/lower-quote.svg" alt="">
@@ -275,9 +277,10 @@
                             <img src="img/upper-quote.svg" alt="">
                         </div>
                         <div class="testimonails-quote">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                                ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                                ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+                            <p>“​Advanced AOG works really hard to ensure a smooth, safe, luxurious experience with
+                                top-quality jets and service. What I like most about them is that they are always
+                                willing to go the extra mile to provide no matter what is required. I truly believe
+                                their unrivaled customer service is what sets them apart.” </p>
                         </div>
                         <div class="quotelower">
                             <img src="img/lower-quote.svg" alt="">
@@ -297,9 +300,9 @@
                             <img src="img/upper-quote.svg" alt="">
                         </div>
                         <div class="testimonails-quote">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                                ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                                ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+                            <p>“Ever since my first interaction, Advanced AOG has proven to be extremely competent in
+                                ensuring high-quality services. Their customer staff is very co-operative and always
+                                finds a solution to my problems.” </p>
                         </div>
                         <div class="quotelower">
                             <img src="img/lower-quote.svg" alt="">

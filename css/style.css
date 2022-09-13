@@ -187,6 +187,8 @@ header#header {
 header .nav-toggle-wrapper button {
 	background: transparent;
 	border: 0px;
+	position: relative;
+	top: 32px;
 }
 
 .logo-wrapper img {
@@ -203,6 +205,9 @@ header .nav-toggle-wrapper button {
 	height: 87px;
 	object-fit: cover;
 	filter: brightness(0) invert(1);
+}
+ul.social-links.d-flex {
+	margin-left: 3px;
 }
 .cogit.py-right-wrapper p {
 	margin-left: 90px;
@@ -637,7 +642,6 @@ section.testimonials .content-wrapper h2 {
 	background-repeat: no-repeat;
 	padding: 150px 0px;
 	margin-bottom: -35px;
-	height: 500px;
 }
 .newsletter-content-wrapper.text-white h2 {
 	font-family: "Aileron-SemiBold";
@@ -717,6 +721,12 @@ footer ul.social-links li a {
 .head-office {
 	margin-left: 0px;
 	font-size: 17px;
+}
+ul.aog-aligns-email {
+	margin-top: 60px;
+}
+a.d-flex.align-items-baseline {
+	line-height: 1.8;
 }
 .copy-right-wrapper h6 a {
 	color: #fff;
@@ -1039,6 +1049,10 @@ footer ul.social-links li a {
 	}
 	.cogit.py-right-wrapper p {
 		margin-left: -78px;
+	}
+	.logo-wrapper img {
+		width: 160px;
+		height: 100px;
 	}
 }
 

@@ -38,9 +38,8 @@ body {
 	color: #000000;
 	font-family: "Aileron-Regular";
 	font-size: 17px;
-	width: 830px;
+	width: 100%;
 }
-
 .testimonials-wrapper {
 	width: 45%;
 }
@@ -218,6 +217,10 @@ body {
 	.aog-top-text-section {
 		padding: 20px 0px;
 	}
+	.testimonials .testimonials-carousel-not-home {
+		padding-left: 25px;
+		width: 50%;
+	}
 }
 @media (max-width: 414px) {
 	.text-start-here {
@@ -234,6 +237,10 @@ body {
 	}
 	.aog-top-text-section {
 		padding: 20px 0px;
+	}
+	.testimonials .testimonials-carousel-not-home {
+		padding-left: 25px;
+		width: 100px;
 	}
 }
 @media (max-width: 375px) {
@@ -252,6 +259,10 @@ body {
 	.aog-top-text-section {
 		padding: 20px 0px;
 	}
+	.testimonials .testimonials-carousel-not-home {
+		padding-left: 25px;
+		width: 50px;
+	}
 }
 @media (max-width: 390px) {
 	.text-start-here {
@@ -268,6 +279,10 @@ body {
 	}
 	.aog-top-text-section {
 		padding: 20px 0px;
+	}
+	.testimonials .testimonials-carousel-not-home {
+		padding-left: 25px;
+		width: 50px;
 	}
 }
 @media (max-width: 360px) {
@@ -286,6 +301,13 @@ body {
 	.aog-top-text-section {
 		padding: 20px 0px;
 	}
+	.testimonials .testimonials-carousel-not-home {
+		padding-left: 25px;
+		width: 50px;
+	}
+	.banner {
+		height: 238px;
+	}
 }
 
 @media (max-width: 320px) {
@@ -303,5 +325,9 @@ body {
 	}
 	.aog-top-text-section {
 		padding: 20px 0px;
+	}
+	.testimonials .testimonials-carousel-not-home {
+		padding-left: 25px;
+		width: 50px;
 	}
 }

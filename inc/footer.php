@@ -65,7 +65,7 @@
                 <div class="footer-widget-4">
                     <h5>Contact Us</h5>
                     <div class="footer-links-wrapper">
-                        <ul>
+                        <ul class="aog-aligns-email">
                             <li><a href="MX@AdvancedAOG.com"> <i><img src="img/email.webp" alt="" class="mr-2"></i>
                                     &nbsp; MX@AdvancedAOG.com</a> <a class="support-email"
                                     href="Support@AdvancedAOG.com">Support@AdvancedAOG.com</a></li>

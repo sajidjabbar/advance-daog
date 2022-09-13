@@ -224,6 +224,7 @@ section.team-behind-start {
 @media (max-width: 575px) {
 	.banner {
 		background-size: 100% 100%;
+		height: 230px;
 	}
 	.text-on-right-side {
 		padding-top: 35px;
@@ -290,6 +291,7 @@ section.team-behind-start {
 @media (max-width: 375px) {
 	.banner {
 		background-size: 100% 100%;
+		height: 230px;
 	}
 	.text-on-right-side {
 		padding-top: 35px;

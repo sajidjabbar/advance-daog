@@ -102,3 +102,35 @@
 	font-family: "Aileron-SemiBold";
 	line-height: 31px;
 }
+@media screen and (max-width: 820px) {
+	.banner {
+		padding-top: 150px;
+	}
+	.aog-top-text-section .text-start-here p {
+		font-size: 17px;
+		width: 100%;
+	}
+	.aog-top-text-section .text-start-here h1 {
+		color: #002154;
+		width: 100%;
+		font-size: 38px;
+	}
+}
+@media screen and (max-width: 575px) {
+	.banner {
+		padding-top: 150px;
+	}
+	.banner {
+		background-size: 100% 100%;
+		height: 230px;
+	}
+	.aog-top-text-section .text-start-here p {
+		font-size: 17px;
+		width: 100%;
+	}
+	.aog-top-text-section .text-start-here h1 {
+		color: #002154;
+		width: 100%;
+		font-size: 38px;
+	}
+}

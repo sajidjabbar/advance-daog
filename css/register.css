@@ -133,7 +133,9 @@ a:hover {
 	font-family: "Aileron-Regular";
 	font-size: 13px;
 }
-
+.logo-in-login-page img {
+	width: 380px;
+}
 @media screen and (max-width: 990px) {
 	.login-start {
 		margin-left: 15px;
