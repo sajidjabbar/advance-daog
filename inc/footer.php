@@ -50,11 +50,13 @@
                             <li>
                                 <h4 class="head-office"> Our Head Office:</h4>
                                 <a class="d-flex align-items-baseline" href="#"><i class="fa fa-map-marker mr-3"></i>
+                                    Our Head Office:
+
                                     500 Briscoe Blvd.
 
-                                    Lawrenceville, GA 30046
+                                    Lawrenceville, GA 30346
 
-                                    KLZU Gwinnet County Airport
+                                    KLZU Gwinnett County Airport
                                 </a>
                             </li>
                         </ul>
@@ -72,7 +74,7 @@
                             <li><a href="tel:+01234456890"> <i class=""><img src="img/phone-2.webp" alt=""
                                             class="mr-2"></i> &nbsp;&nbsp; Call Us: +0 1234 456 890</a></li>
                         </ul>
-                        <button class="btn">Contact Now</button>
+                        <!-- <button class="btn">Contact Now</button> -->
                     </div>
                 </div>
             </div>

@@ -108,6 +108,30 @@ $(document).ready(function() {
             }
         ]
     });
+    $('.slider-imf-wrapper').slick({
+        centerMode: true,
+        centerPadding: '0px',
+        slidesToShow: 4,
+        responsive: [{
+                breakpoint: 768,
+                settings: {
+                    arrows: false,
+                    centerMode: false,
+                    centerPadding: '0px',
+                    slidesToShow: 1
+                }
+            },
+            {
+                breakpoint: 480,
+                settings: {
+                    arrows: false,
+                    centerMode: false,
+                    centerPadding: '0px',
+                    slidesToShow: 1
+                }
+            }
+        ]
+    });
     // product card js starts here
     $('.product-card-slider').slick({
         dots: false,

@@ -38,7 +38,7 @@
                 <div class="row">
                     <div class="col-md-4 mt-5">
                         <div class="single-blog">
-                            <img src="img/service-1.webp" class="img-fluid" alt="">
+                            <img src="img/service6.png" class="img-fluid" alt="">
                             <div class="blog-text">
                                 <!-- <span>Tyler Cauble | December 2021 | Betting</span> -->
                                 <h5>
@@ -48,13 +48,13 @@
                                     Our Aircraft on Ground or AOG Maintenance engineers will find a way to help you no
                                     matter where you are.
                                 </p>
-                                <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.webp" alt=""></a>
+                                <!-- <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.webp" alt=""></a> -->
                             </div>
                         </div>
                     </div>
                     <div class="col-md-4 mt-5">
                         <div class="single-blog">
-                            <img id="aircraft" src="img/service-2.webp" class="img-fluid" alt="">
+                            <img id="aircraft" src="img/service4.png" class="img-fluid" alt="">
                             <div class="blog-text">
                                 <!-- <span>Tyler Cauble | December 2021 | Betting</span> -->
                                 <h5>
@@ -64,13 +64,13 @@
                                     Advanced AOG strives to become your only company for your aircraft haul. Anytime.
                                     Anywhere.
                                 </p>
-                                <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.webp" alt=""></a>
+                                <!-- <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.webp" alt=""></a> -->
                             </div>
                         </div>
                     </div>
                     <div class="col-md-4 mt-5">
                         <div class="single-blog">
-                            <img id="aircraft" src="img/service-3.webp" class="img-fluid" alt="">
+                            <img id="aircraft" src="img/service3.png" class="img-fluid" alt="">
                             <div class="blog-text">
                                 <!-- <span>Tyler Cauble | December 2021 | Betting</span> -->
                                 <h5>
@@ -81,7 +81,7 @@
                                     relationships with manufacturers, have established them as the leading provider of
                                     avionics systems for private jets.
                                 </p>
-                                <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.webp" alt=""></a>
+                                <!-- <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.webp" alt=""></a> -->
                             </div>
                         </div>
                     </div>
@@ -97,7 +97,7 @@
                                     For over years, Advanced AOG has managed to transform countless of promising
                                     concepts into productive solutions
                                 </p>
-                                <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.webp" alt=""></a>
+                                <!-- <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.webp" alt=""></a> -->
                             </div>
                         </div>
                     </div>
@@ -114,7 +114,7 @@
                                     care. When you choose us for your aircraft management, you unlock a variety of
                                     services focused on savings, service, and safety.
                                 </p>
-                                <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.webp" alt=""></a>
+                                <!-- <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.webp" alt=""></a> -->
                             </div>
                         </div>
                     </div>
@@ -131,7 +131,7 @@
                                     secure a good deal and resolve any financial, customs, and legal objectives that may
                                     come in the way.
                                 </p>
-                                <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.webp" alt=""></a>
+                                <!-- <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.webp" alt=""></a> -->
                             </div>
                         </div>
                     </div>

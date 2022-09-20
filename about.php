@@ -62,10 +62,10 @@
                                 </li>
                             </ul>
                         </div>
-                        <div class="link-to-services mt-3">
+                        <!-- <div class="link-to-services mt-3">
                             <a href="blogs-detail.php">Our Services &nbsp;&nbsp; <img src="img/right-arrow.webp"
                                     alt=""></a>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
@@ -225,10 +225,10 @@
                                 <li>-Mobile Aircraft Accident Specialists with Decades of Experience Recovering Aircraft
                                     with Quick Response and Minimal Further Damage to Aircraft.</li>
                             </ul>
-                            <div class="link-to-services mt-3">
+                            <!-- <div class="link-to-services mt-3">
                                 <a href="blogs-detail.php">Read More &nbsp;&nbsp; <img src="img/right-arrow.webp"
                                         alt=""></a>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -254,21 +254,7 @@
             <div class="for-heading mb-4">
                 <h1>Team Behind Advanced AOG</h1>
             </div>
-            <div class="row">
-                <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12  mt-5">
-                    <div class="single-person">
-                        <div class="for-img">
-                            <figure>
-                                <img src="img/person-1.webp" class="img-fluid" alt="">
-                            </figure>
-                        </div>
-                        <div class="member-detail">
-                            <h4>Roosevelt Gilbert</h4>
-                            <p>Co founder</p>
-                            <a href="">Send Email</a>
-                        </div>
-                    </div>
-                </div>
+            <div class="row slider-imf-wrapper">
                 <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12  mt-5">
                     <div class="single-person">
                         <div class="for-img">
@@ -277,9 +263,9 @@
                             </figure>
                         </div>
                         <div class="member-detail">
-                            <h4>Roosevelt Gilbert</h4>
-                            <p>Co founder</p>
-                            <a href="">Send Email</a>
+                            <h4>Jonathan Zorger</h4>
+                            <p>Chief Financial Officer</p>
+                            <a href="mailto:Jonathan@AdvancedAOG.com"> Jonathan@AdvancedAOG.com</a>
                         </div>
                     </div>
                 </div>
@@ -291,9 +277,38 @@
                             </figure>
                         </div>
                         <div class="member-detail">
-                            <h4>Roosevelt Gilbert</h4>
-                            <p>Co founder</p>
+                            <h4>David Zorger</h4>
+                            <p>Executive VP of Operations</p>
                             <a href="">Send Email</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12  mt-5">
+                    <div class="single-person">
+                        <div class="for-img">
+                            <figure>
+                                <img src="img/person-4.webp" class="img-fluid" alt="">
+                            </figure>
+                        </div>
+                        <div class="member-detail">
+                            <h4>Keith Chapman</h4>
+                            <p>VP of West Coast Operations</p>
+                            <a href="mailto: Keith.Chapman@AdvancedAOG.com"> Keith.Chapman@AdvancedAOG.com</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12  mt-5">
+                    <div class="single-person">
+                        <div class="for-img">
+                            <figure>
+                                <img src="img/person-1.webp" class="img-fluid" alt="">
+                            </figure>
+                        </div>
+                        <div class="member-detail">
+                            <h4>Josh Millard</h4>
+                            <p> Chief Executive Officer</p>
+                            <a href="mailto:Josh.Millard@AdvancedAOG.com"> Josh.Millard@AdvancedAOG.com</a>
                         </div>
                     </div>
                 </div>
@@ -305,12 +320,13 @@
                             </figure>
                         </div>
                         <div class="member-detail">
-                            <h4>Roosevelt Gilbert</h4>
-                            <p>Co founder</p>
-                            <a href="">Send Email</a>
+                            <h4> Nestor Cadena</h4>
+                            <p>VP of East Coast Operations</p>
+                            <a href="mailto:Nestor.Cadena@AdvancedAOG.com"> Nestor.Cadena@AdvancedAOG.com</a>
                         </div>
                     </div>
                 </div>
+
             </div>
         </div>
     </div>
