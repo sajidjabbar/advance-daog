@@ -37,103 +37,121 @@
             <div class="more-blogs">
                 <div class="row">
                     <div class="col-md-4 mt-5">
-                        <div class="single-blog">
-                            <img src="img/service6.png" class="img-fluid" alt="">
-                            <div class="blog-text">
-                                <!-- <span>Tyler Cauble | December 2021 | Betting</span> -->
-                                <h5>
-                                    AOG MAINTENANCE
-                                </h5>
-                                <p>
-                                    Our Aircraft on Ground or AOG Maintenance engineers will find a way to help you no
-                                    matter where you are.
-                                </p>
-                                <!-- <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.webp" alt=""></a> -->
+                        <a href="aog.php">
+                            <div class="single-blog">
+                                <img src="img/service6.png" class="img-fluid" alt="">
+                                <div class="blog-text">
+                                    <!-- <span>Tyler Cauble | December 2021 | Betting</span> -->
+                                    <h5>
+                                        AOG MAINTENANCE
+                                    </h5>
+                                    <p>
+                                        Our Aircraft on Ground or AOG Maintenance engineers will find a way to help you
+                                        no
+                                        matter where you are.
+                                    </p>
+                                    <!-- <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.webp" alt=""></a> -->
+                                </div>
                             </div>
-                        </div>
+                        </a>
                     </div>
                     <div class="col-md-4 mt-5">
-                        <div class="single-blog">
-                            <img id="aircraft" src="img/service4.png" class="img-fluid" alt="">
-                            <div class="blog-text">
-                                <!-- <span>Tyler Cauble | December 2021 | Betting</span> -->
-                                <h5>
-                                    BASE MAINTENANCE
-                                </h5>
-                                <p>
-                                    Advanced AOG strives to become your only company for your aircraft haul. Anytime.
-                                    Anywhere.
-                                </p>
-                                <!-- <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.webp" alt=""></a> -->
+                        <a href="aog.php">
+                            <div class="single-blog">
+                                <img id="aircraft" src="img/service4.png" class="img-fluid" alt="">
+                                <div class="blog-text">
+                                    <!-- <span>Tyler Cauble | December 2021 | Betting</span> -->
+                                    <h5>
+                                        BASE MAINTENANCE
+                                    </h5>
+                                    <p>
+                                        Advanced AOG strives to become your only company for your aircraft haul.
+                                        Anytime.
+                                        Anywhere.
+                                    </p>
+                                    <!-- <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.webp" alt=""></a> -->
+                                </div>
                             </div>
-                        </div>
+                        </a>
                     </div>
                     <div class="col-md-4 mt-5">
-                        <div class="single-blog">
-                            <img id="aircraft" src="img/service3.png" class="img-fluid" alt="">
-                            <div class="blog-text">
-                                <!-- <span>Tyler Cauble | December 2021 | Betting</span> -->
-                                <h5>
-                                    AVIONICS
-                                </h5>
-                                <p>
-                                    Advanced AOG’s engineering and avionics expertise, mixed with their solid
-                                    relationships with manufacturers, have established them as the leading provider of
-                                    avionics systems for private jets.
-                                </p>
-                                <!-- <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.webp" alt=""></a> -->
+                        <a href="aog.php">
+                            <div class="single-blog">
+                                <img id="aircraft" src="img/service3.png" class="img-fluid" alt="">
+                                <div class="blog-text">
+                                    <!-- <span>Tyler Cauble | December 2021 | Betting</span> -->
+                                    <h5>
+                                        AVIONICS
+                                    </h5>
+                                    <p>
+                                        Advanced AOG’s engineering and avionics expertise, mixed with their solid
+                                        relationships with manufacturers, have established them as the leading provider
+                                        of
+                                        avionics systems for private jets.
+
+                                    </p>
+                                    <!-- <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.webp" alt=""></a> -->
+                                </div>
                             </div>
-                        </div>
+                        </a>
                     </div>
                     <div class="col-md-4 mt-5">
-                        <div class="single-blog">
-                            <img id="aircraft" src="img/service-1.webp" class="img-fluid" alt="">
-                            <div class="blog-text">
-                                <!-- <span>Tyler Cauble | December 2021 | Betting</span> -->
-                                <h5>
-                                    DESIGN ENGINEERING
-                                </h5>
-                                <p>
-                                    For over years, Advanced AOG has managed to transform countless of promising
-                                    concepts into productive solutions
-                                </p>
-                                <!-- <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.webp" alt=""></a> -->
+                        <a href="aog.php">
+                            <div class="single-blog">
+                                <img id="aircraft" src="img/service-1.webp" class="img-fluid" alt="">
+                                <div class="blog-text">
+                                    <!-- <span>Tyler Cauble | December 2021 | Betting</span> -->
+                                    <h5>
+                                        DESIGN ENGINEERING
+                                    </h5>
+                                    <p>
+                                        For over years, Advanced AOG has managed to transform countless of promising
+                                        concepts into productive solutions
+                                    </p>
+                                    <!-- <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.webp" alt=""></a> -->
+                                </div>
                             </div>
-                        </div>
+                        </a>
                     </div>
                     <div class="col-md-4 mt-5">
-                        <div class="single-blog">
-                            <img src="img/service-2.webp" class="img-fluid" alt="">
-                            <div class="blog-text">
-                                <!-- <span>Tyler Cauble | December 2021 | Betting</span> -->
-                                <h5>
-                                    AIRCRAFT MANAGEMENT
-                                </h5>
-                                <p>
-                                    We realize that keeping an aircraft is a massive investment that requires utmost
-                                    care. When you choose us for your aircraft management, you unlock a variety of
-                                    services focused on savings, service, and safety.
-                                </p>
-                                <!-- <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.webp" alt=""></a> -->
+                        <a href="aog.php">
+                            <div class="single-blog">
+                                <img src="img/service-2.webp" class="img-fluid" alt="">
+                                <div class="blog-text">
+                                    <!-- <span>Tyler Cauble | December 2021 | Betting</span> -->
+                                    <h5>
+                                        AIRCRAFT MANAGEMENT
+                                    </h5>
+                                    <p>
+                                        We realize that keeping an aircraft is a massive investment that requires utmost
+                                        care. When you choose us for your aircraft management, you unlock a variety of
+                                        services focused on savings, service, and safety.
+                                    </p>
+                                    <!-- <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.webp" alt=""></a> -->
+                                </div>
                             </div>
-                        </div>
+                        </a>
                     </div>
                     <div class="col-md-4 mt-5">
-                        <div class="single-blog">
-                            <img src="img/service-3.webp" class="img-fluid" alt="">
-                            <div class="blog-text">
-                                <!-- <span>Tyler Cauble | December 2021 | Betting</span> -->
-                                <h5>
-                                    AIRCRAFT BROKERAGE
-                                </h5>
-                                <p>
-                                    Our experienced brokerage team works in the interests of the clients to help them
-                                    secure a good deal and resolve any financial, customs, and legal objectives that may
-                                    come in the way.
-                                </p>
-                                <!-- <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.webp" alt=""></a> -->
+                        <a href="aog.php">
+                            <div class="single-blog">
+                                <img src="img/service-3.webp" class="img-fluid" alt="">
+                                <div class="blog-text">
+                                    <!-- <span>Tyler Cauble | December 2021 | Betting</span> -->
+                                    <h5>
+                                        AIRCRAFT BROKERAGE
+                                    </h5>
+                                    <p>
+                                        Our experienced brokerage team works in the interests of the clients to help
+                                        them
+                                        secure a good deal and resolve any financial, customs, and legal objectives that
+                                        may
+                                        come in the way.
+                                    </p>
+                                    <!-- <a href="">Read More &nbsp;&nbsp; <img src="img/right-arrow.webp" alt=""></a> -->
+                                </div>
                             </div>
-                        </div>
+                        </a>
                     </div>
                 </div>
             </div>

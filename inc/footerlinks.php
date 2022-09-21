@@ -32,11 +32,8 @@ $(document).ready(function() {
         $("#preloader").fadeOut(1000);
     });
     // loader css ends here
-    $('.nav-toggle-wrapper button').click(() => {
-        $('.off-canvas-header-wrapper').addClass('open');
-    })
-    $('.off-canvas-header-wrapper button svg').click(function() {
-        $('.off-canvas-header-wrapper').removeClass('open')
+    $('.spinner-spin4').click(() => {
+        $('.off-canvas-header-wrapper').toggleClass('open');
     })
 
     $('.navbar-item-wrapper.drop-item').hide();

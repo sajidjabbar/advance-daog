@@ -1,5 +1,15 @@
 // All Scripts
-
+$(".dropdownOpen").mouseenter(function () {
+	$("#OnhoverShow").css({
+		display: "block",
+		transition: " 0.5s",
+	});
+	$(".dropdownOpen").addClass("active");
+});
+$("body").click(function () {
+	$("#OnhoverShow").css("display", "none");
+	$(".dropdownOpen").removeClass("active");
+});
 // Milestone Js
 
 function asd() {

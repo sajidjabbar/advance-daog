@@ -17,7 +17,7 @@
 /* services */
 .services {
 	padding-top: 84px;
-	padding-bottom: 65px;
+	padding-bottom: 15px;
 }
 .for-top-text p {
 	width: 830px;
@@ -51,12 +51,18 @@
 	line-height: 26px;
 	margin-top: 23px;
 }
-
+.more-blogs a {
+	text-decoration: none;
+}
 .blog-text p {
 	color: #131313;
 	font-family: "Aileron-Light";
 	font-size: 18px;
-	height: 160px;
+	height: 1600%;
+	display: -webkit-box !important;
+	-webkit-box-orient: vertical;
+	overflow: hidden !important;
+	-webkit-line-clamp: 3;
 }
 @media screen and (max-width: 991px) {
 	.blogs-top-text {

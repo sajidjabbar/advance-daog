@@ -71,8 +71,8 @@
                             <li><a href="MX@AdvancedAOG.com"> <i><img src="img/email.webp" alt="" class="mr-2"></i>
                                     &nbsp; MX@AdvancedAOG.com</a> <a class="support-email"
                                     href="Support@AdvancedAOG.com">Support@AdvancedAOG.com</a></li>
-                            <li><a href="tel:+01234456890"> <i class=""><img src="img/phone-2.webp" alt=""
-                                            class="mr-2"></i> &nbsp;&nbsp; Call Us: +0 1234 456 890</a></li>
+                            <li class="line-li"><a href="tel:+01234456890"> <i class=""><img src="img/phone-2.webp"
+                                            alt="" class="mr-2"></i> &nbsp;&nbsp; Call Us: +0 1234 456 890</a></li>
                         </ul>
                         <!-- <button class="btn">Contact Now</button> -->
                     </div>

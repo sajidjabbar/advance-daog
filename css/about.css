@@ -163,7 +163,7 @@ section.team-behind-start {
 }
 .member-detail a {
 	color: #ffffff;
-	font-size: 14px;
+	font-size: 13px;
 	font-family: "Aileron-Regular";
 	text-decoration: underline;
 }
@@ -186,6 +186,43 @@ section.team-behind-start {
 	text-align: justify;
 	line-height: 1.7;
 }
+.slider-imf-wrapper button.slick-next.slick-arrow {
+	right: 8%;
+	position: absolute;
+	bottom: 0px;
+	top: 82%;
+}
+
+.slider-imf-wrapper button.slick-prev.slick-arrow {
+	right: 17%;
+	position: absolute;
+	bottom: 0px;
+	top: 82%;
+	left: unset;
+	z-index: 1;
+}
+
+.slider-imf-wrapper .slick-next:before {
+	content: url(../img/long-right-arrow.svg) !important;
+	background: #136efa;
+	opacity: 1;
+	font-size: 6px;
+	padding: 14px 17px;
+	border-radius: 0px 23px 23px 0px;
+}
+.slider-imf-wrapper button.slick-arrow {
+	margin-top: 116px;
+	margin-right: -47px;
+}
+.slider-imf-wrapper .slick-prev:before {
+	content: url(../img/long-left-arrow.svg) !important;
+	background: #136efa;
+	opacity: 1;
+	font-size: 6px;
+	padding: 14px 17px;
+	border-radius: 23px 0px 0px 23px;
+}
+
 /* responsive start */
 @media (max-width: 820px) {
 	.heading-img {
