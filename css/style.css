@@ -146,7 +146,7 @@ button.btn.transparent {
 	bottom: 0;
 	z-index: 9999;
 	overflow: hidden;
-	background: #136efa;
+	background: #fff;
 }
 
 #preloader:before {

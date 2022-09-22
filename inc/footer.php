@@ -50,13 +50,12 @@
                             <li>
                                 <h4 class="head-office"> Our Head Office:</h4>
                                 <a class="d-flex align-items-baseline" href="#"><i class="fa fa-map-marker mr-3"></i>
-                                    Our Head Office:
 
-                                    500 Briscoe Blvd.
+                                    500 Briscoe Blvd. <br>
 
-                                    Lawrenceville, GA 30346
+                                    Lawrenceville, GA 30346 <br>
 
-                                    KLZU Gwinnett County Airport
+                                    KLZU Gwinnett County Airport <br>
                                 </a>
                             </li>
                         </ul>

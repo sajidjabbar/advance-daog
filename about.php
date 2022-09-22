@@ -255,20 +255,7 @@
                 <h1>Team Behind Advanced AOG</h1>
             </div>
             <div class="row slider-imf-wrapper">
-                <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12  mt-5">
-                    <div class="single-person">
-                        <div class="for-img">
-                            <figure>
-                                <img src="img/person-2.webp" class="img-fluid" alt="">
-                            </figure>
-                        </div>
-                        <div class="member-detail">
-                            <h4>Jonathan Zorger</h4>
-                            <p>Chief Financial Officer</p>
-                            <a href="mailto:Jonathan@AdvancedAOG.com"> Jonathan@AdvancedAOG.com</a>
-                        </div>
-                    </div>
-                </div>
+
                 <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12  mt-5">
                     <div class="single-person">
                         <div class="for-img">
@@ -302,20 +289,6 @@
                     <div class="single-person">
                         <div class="for-img">
                             <figure>
-                                <img src="img/person-1.webp" class="img-fluid" alt="">
-                            </figure>
-                        </div>
-                        <div class="member-detail">
-                            <h4>Josh Millard</h4>
-                            <p> Chief Executive Officer</p>
-                            <a href="mailto:Josh.Millard@AdvancedAOG.com"> Josh.Millard@AdvancedAOG.com</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12  mt-5">
-                    <div class="single-person">
-                        <div class="for-img">
-                            <figure>
                                 <img src="img/person-4.webp" class="img-fluid" alt="">
                             </figure>
                         </div>
@@ -326,7 +299,49 @@
                         </div>
                     </div>
                 </div>
+                <!-- <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12  mt-5">
+                    <div class="single-person">
+                        <div class="for-img">
+                            <figure>
+                                <img src="img/person-2.webp" class="img-fluid" alt="">
+                            </figure>
+                        </div>
+                        <div class="member-detail">
+                            <h4>Jonathan Zorger</h4>
+                            <p>Chief Financial Officer</p>
+                            <a href="mailto:Jonathan@AdvancedAOG.com"> Jonathan@AdvancedAOG.com</a>
+                        </div>
+                    </div>
+                </div> -->
+                <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12  mt-5">
+                    <div class="single-person">
+                        <div class="for-img">
+                            <figure>
+                                <img src="img/person-1.webp" class="img-fluid" alt="">
+                            </figure>
+                        </div>
+                        <div class="member-detail">
+                            <h4>Josh Millard</h4>
+                            <p> Chief Executive Officer</p>
+                            <a href="mailto:Josh.Millard@AdvancedAOG.com"> Josh.Millard@AdvancedAOG.com</a>
+                        </div>
+                    </div>
+                </div>
 
+                <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12  mt-5">
+                    <div class="single-person">
+                        <div class="for-img">
+                            <figure>
+                                <img src="img/person-2.webp" class="img-fluid" alt="">
+                            </figure>
+                        </div>
+                        <div class="member-detail">
+                            <h4>Jonathan Zorger</h4>
+                            <p>Chief Financial Officer</p>
+                            <a href="mailto:Jonathan@AdvancedAOG.com"> Jonathan@AdvancedAOG.com</a>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
