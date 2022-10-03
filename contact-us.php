@@ -11,7 +11,7 @@
         <div class="row">
             <div class="col-lg-7">
                 <div class="content-wrapper">
-                    <h1>Contact Us</h1>
+                    <h1 data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="2000">Contact Us</h1>
                 </div>
             </div>
         </div>

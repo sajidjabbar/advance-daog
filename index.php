@@ -54,42 +54,46 @@
                         <figure>
                             <img src="img/more-blog1.webp " class="img-fluid advantage1" alt="">
                         </figure>
+                        <div class="box-content-wrapper">
+                            <h3>Aircraft Maintenance</h3>
+                        </div>
                     </div>
-                    <div class="box-content-wrapper">
-                        <h3>Aircraft Maintenance</h3>
-                    </div>
+                    <div class="overlay left-overlay"></div>
                 </div>
                 <div class="box-wrapper">
                     <div class="box-img-wrapper">
                         <figure>
                             <img src="img/plan2.webp " class="img-fluid advantage1" alt="">
                         </figure>
+                        <div class="box-content-wrapper">
+                            <h3> Avionics</h3>
+                        </div>
                     </div>
-                    <div class="box-content-wrapper">
-                        <h3> Avionics</h3>
-                    </div>
+                    <div class="overlay left-overlay"></div>
                 </div>
             </div>
             <div class="col-lg-6">
                 <div class="box-wrapper">
                     <div class="box-img-wrapper">
                         <figure>
-                            <img src="img/advantage2.webp" class="img-fluid aero" alt="">
+                            <img src="img/engine12.png" class="img-fluid advantage1" alt="">
                         </figure>
+                        <div class="box-content-wrapper">
+                            <h3>Aircraft Management </h3>
+                        </div>
                     </div>
-                    <div class="box-content-wrapper">
-                        <h3>Aircraft Management </h3>
-                    </div>
+                    <div class="overlay left-overlay"></div>
                 </div>
                 <div class="box-wrapper">
                     <div class="box-img-wrapper">
                         <figure>
-                            <img src="img/advantage3.webp" class="img-fluid" alt="">
+                            <img src="img/engine11.png" class="img-fluid advantage1" alt="">
                         </figure>
+                        <div class="box-content-wrapper">
+                            <h3> Engineering </h3>
+                        </div>
                     </div>
-                    <div class="box-content-wrapper">
-                        <h3> Engineering </h3>
-                    </div>
+                    <div class="overlay left-overlay"></div>
                 </div>
             </div>
         </div>

@@ -240,6 +240,7 @@ ul.social-links.d-flex {
 	text-decoration: none;
 	text-transform: capitalize;
 }
+
 li.dropdownOpen.active a.dropdown i:before {
 	content: "\f105 ";
 }
@@ -283,12 +284,13 @@ li.dropdownOpen.active a.dropdown i:before {
 
 .banner {
 	background-image: url(../img/mainback.webp);
-	background-size: 100% 100%;
+	background-size: cover;
 	padding-top: 250px;
 	padding-bottom: 300px;
 	background-repeat: no-repeat;
 	margin-top: -122px;
 	color: #fff;
+	background-position: bottom;
 }
 
 .banner h2 span {
@@ -327,8 +329,10 @@ li.dropdownOpen.active a.dropdown i:before {
 
 .advantage .box-wrapper {
 	position: relative;
+	overflow: hidden;
+	height: 208px;
+	margin-bottom: 20px;
 }
-
 .tabs-wrapper .nav-tabs {
 	border-bottom: 1px solid #002154;
 }
@@ -364,9 +368,15 @@ li.dropdownOpen.active a.dropdown i:before {
 .advantage .box-wrapper .box-content-wrapper {
 	position: absolute;
 	bottom: 15%;
-	left: 45px;
+	/* left: 45px; */
+	text-align: center;
+	width: 100%;
+	z-index: 111111;
 }
-
+.slider-man img:hover {
+	filter: brightness(0.5);
+	transition: 0.5s;
+}
 .advantage .box-wrapper .box-content-wrapper h3 {
 	color: #ffffff;
 	font-size: 24px;
@@ -377,7 +387,23 @@ li.dropdownOpen.active a.dropdown i:before {
 	object-fit: cover;
 	border-radius: 10px;
 	width: 1000px;
-	filter: brightness(0.7);
+	/* filter: brightness(0.7); */
+}
+.overlay {
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 208px;
+	bottom: 0;
+	background-color: #00215457;
+	overflow: hidden;
+	width: 100%;
+	height: 100%;
+	transition: 0.5s ease;
+	border-radius: 10px;
+}
+.advantage .box-wrapper:hover .left-overlay {
+	top: 0;
 }
 .content-wrapper ul {
 	/* list-style: none; */
@@ -512,6 +538,7 @@ li.dropdownOpen.active a.dropdown i:before {
 .only_img_slider .slider-man.slick-initialized.slick-slider button.slick-arrow {
 	margin-top: 75px;
 	margin-right: -60px;
+	display: none !important;
 }
 section.testimonials .content-wrapper h2 {
 	text-transform: unset !important;
@@ -612,6 +639,7 @@ section.testimonials .content-wrapper h2 {
 	position: absolute;
 	bottom: 0px;
 	top: 82%;
+	display: none !important;
 }
 
 .testimonials button.slick-prev.slick-arrow {
@@ -621,6 +649,7 @@ section.testimonials .content-wrapper h2 {
 	top: 82%;
 	left: unset;
 	z-index: 1;
+	display: none !important ;
 }
 
 .testimonials .slick-next:before {
@@ -647,10 +676,11 @@ section.testimonials .content-wrapper h2 {
 
 .newsletter {
 	background: url(../img/interior.webp);
-	background-size: 100% 100%;
+	background-size: cover;
 	background-repeat: no-repeat;
-	padding: 150px 0px;
+	padding: 151px 0px;
 	margin-bottom: -35px;
+	background-position: center;
 }
 .newsletter-content-wrapper.text-white h2 {
 	font-family: "Aileron-SemiBold";

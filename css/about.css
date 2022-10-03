@@ -13,23 +13,32 @@
 	position: absolute;
 	top: 150px;
 }
-
+.text-wraper h3 {
+	font-family: "Aileron";
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 1.2;
+}
 /* We are Best Start Here */
 section.why-we-are-best {
-	padding: 120px 0px 50px 0px;
+	padding: 80px 0px 50px 0px;
 }
 .text-on-right-side {
-	padding-top: 35px;
+	padding-top: 0px;
 	padding-left: 35px;
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+	align-items: center;
+	justify-content: center;
+	margin-top: 40px;
 }
-
 .heading-img h1 {
 	color: #002154;
-	font-size: 45px;
+	font-size: 41px;
 	font-family: "Aileron-SemiBold";
 	margin-bottom: 50px;
 }
-
 .normal-para p {
 	color: #000000;
 	font-size: 18px;
@@ -52,12 +61,15 @@ section.why-we-are-best {
 	font-family: "Aileron-Light";
 }
 
-.list-items li::before {
+.text-wraper .list-items ul li::before {
 	content: "";
 	padding-left: 13px;
 }
-
-.list-items li::marker {
+.text-wraper .list-items ul li {
+	list-style: disc;
+	margin-left: 20px;
+}
+.text-wraper .list-items ul li::marker {
 	font-size: 21px;
 	margin-left: 12px;
 	color: #136efa;
@@ -169,6 +181,8 @@ section.team-behind-start {
 }
 .for-img img {
 	border-radius: 19px;
+	height: 304px;
+	object-fit: cover;
 }
 .heading-img {
 	margin-top: 30px;
@@ -213,6 +227,7 @@ section.team-behind-start {
 .slider-imf-wrapper button.slick-arrow {
 	margin-top: 116px;
 	margin-right: -47px;
+	display: none !important;
 }
 .slider-imf-wrapper .slick-prev:before {
 	content: url(../img/long-left-arrow.svg) !important;

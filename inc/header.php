@@ -44,11 +44,11 @@
                     <div class="navbar-item-wrapper" id="OnhoverShow" style="display: none;">
                         <ul>
                             <li><a href="aog.php">AOG Maintenance</a></li>
-                            <li><a href="aog.php">Base Maintenance</a></li>
-                            <li><a href="aog.php">Avionics</a></li>
-                            <li><a href="aog.php">Design Engineering</a></li>
-                            <li><a href="aog.php">Aircraft Management</a></li>
-                            <li><a href="aog.php">Aircraft Brokerage</a></li>
+                            <li><a href="aog1.php">Base Maintenance</a></li>
+                            <li><a href="aog2.php">Avionics</a></li>
+                            <li><a href="aog3.php">Design Engineering</a></li>
+                            <li><a href="aog4.php">Aircraft Management</a></li>
+                            <li><a href="aog5.php">Aircraft Brokerage</a></li>
                         </ul>
                     </div>
                 </div>

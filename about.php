@@ -11,7 +11,7 @@
         <div class="row">
             <div class="col-lg-7">
                 <div class="content-wrapper1">
-                    <h1>About Us</h1>
+                    <h1 data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="2000">About Us</h1>
                 </div>
             </div>
         </div>
@@ -48,19 +48,6 @@
                             <p>RANGE: 4.5 Hours w/ IFR Fuel Reserves (est. 850nm)</p>
                             <p>SPEED: 190kts Cruise</p>
                             <p>Payload: 700lbs w/ Full Fuel & Single Pilot</p>
-                        </div>
-                        <h3>We provide the following services:</h3>
-                        <div class="list-items">
-                            <ul>
-                                <li>24/7 AOG Support available at KBCT, KLZU, KPDK, KPBI, & KVNY</li>
-                                <li>AOG Maintenance</li>
-                                <li>Avionics</li>
-                                <li>Design Engineering</li>
-                                <li> Aircraft Management</li>
-                                <li> Aircraft Brokerage</li>
-                                <li> Factory Trained Technicians
-                                </li>
-                            </ul>
                         </div>
                         <!-- <div class="link-to-services mt-3">
                             <a href="blogs-detail.php">Our Services &nbsp;&nbsp; <img src="img/right-arrow.webp"
@@ -225,6 +212,19 @@
                                 <li>-Mobile Aircraft Accident Specialists with Decades of Experience Recovering Aircraft
                                     with Quick Response and Minimal Further Damage to Aircraft.</li>
                             </ul>
+                            <h3>24/7 AOG Support available at KBCT, KLZU, KPDK, KPBI, & KVNY </h3>
+                            <p>We provide the following services:</p>
+                            <div class="list-items">
+                                <ul>
+                                    <li>AOG Maintenance</li>
+                                    <li>Avionics</li>
+                                    <li>Design Engineering</li>
+                                    <li> Aircraft Management</li>
+                                    <li> Aircraft Brokerage</li>
+                                    <li> Factory Trained Technicians
+                                    </li>
+                                </ul>
+                            </div>
                             <!-- <div class="link-to-services mt-3">
                                 <a href="blogs-detail.php">Read More &nbsp;&nbsp; <img src="img/right-arrow.webp"
                                         alt=""></a>
@@ -260,7 +260,7 @@
                     <div class="single-person">
                         <div class="for-img">
                             <figure>
-                                <img src="img/person-3.webp" class="img-fluid" alt="">
+                                <img src="img/David Zorger.jpg" class="img-fluid" alt="">
                             </figure>
                         </div>
                         <div class="member-detail">
@@ -275,7 +275,7 @@
                     <div class="single-person">
                         <div class="for-img">
                             <figure>
-                                <img src="img/person-4.webp" class="img-fluid" alt="">
+                                <img src="img/KEITH_CHAPMAN_PHOTO.jpg" class="img-fluid" alt="">
                             </figure>
                         </div>
                         <div class="member-detail">
@@ -289,7 +289,7 @@
                     <div class="single-person">
                         <div class="for-img">
                             <figure>
-                                <img src="img/person-4.webp" class="img-fluid" alt="">
+                                <img src="img/NESTOR CADENA PHOTO.jpg" class="img-fluid" alt="">
                             </figure>
                         </div>
                         <div class="member-detail">
@@ -317,7 +317,7 @@
                     <div class="single-person">
                         <div class="for-img">
                             <figure>
-                                <img src="img/person-1.webp" class="img-fluid" alt="">
+                                <img src="img/Josh Millard.jpg" class="img-fluid" alt="">
                             </figure>
                         </div>
                         <div class="member-detail">
@@ -332,7 +332,8 @@
                     <div class="single-person">
                         <div class="for-img">
                             <figure>
-                                <img src="img/person-2.webp" class="img-fluid" alt="">
+                                <!-- <img src="img/person-2.webp" class="img-fluid" alt=""> -->
+                                <img src="img/Jonathan Zorger.jpg" class="img-fluid" alt="">
                             </figure>
                         </div>
                         <div class="member-detail">
@@ -350,7 +351,7 @@
 
 
 <!-- news letter section starts here -->
-<?php include 'inc/newsletter.php';?>
+<?php include 'inc/newsletter.php'; ?>
 <!-- <section class="newsletter">
     <div class="container">
         <div class="row">

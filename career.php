@@ -11,7 +11,7 @@
         <div class="row">
             <div class="col-lg-7">
                 <div class="content-wrapper">
-                    <h1>Careers</h1>
+                    <h1 data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="2000">Careers</h1>
                 </div>
             </div>
         </div>

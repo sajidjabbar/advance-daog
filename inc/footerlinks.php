@@ -1,29 +1,43 @@
 <!-- Bootstrap Js -->
 <script src="js/bootstrap.min.js"></script>
 <!-- Bootstrap Js -->
-<!-- Popper JS -->
+
+<!-- jquiry js -->
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
     integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous">
 </script>
+<!-- jquiry js -->
+
+<!-- Popper JS -->
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js"
     integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous">
 </script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js"
     integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous">
 </script>
+<!-- Popper JS -->
+
 <!-- Jquery JS-->
 <script src="https://code.jquery.com/jquery-3.6.0.min.js" type="text/javascript"></script>
 <!-- Jquery JS -->
-<!-- Popper JS -->
+
 <!-- slick slider js -->
 <script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
 <!-- slick slider js -->
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
 <!-- <script src="https://raw.githubusercontent.com/stevenwanderski/conditional-field/master/dist/conditional-field.min.js"></script> -->
+
+<!-- aos script -->
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<!-- aos script -->
 
 <!-- Main Js -->
 <script src="js/main.js"></script>
 <!-- Main Js -->
+<script>
+AOS.init();
+</script>
 
 <script>
 $(document).ready(function() {
@@ -50,6 +64,8 @@ $(document).ready(function() {
     // testimonials-carousel
     $('.testimonials-carousel').slick({
         dots: false,
+        autoplay: true,
+        autoplaySpeed: 2000,
     });
     // testimonials-carousel
     // $('.testimonials-carousel-not-home').slick({
@@ -60,6 +76,8 @@ $(document).ready(function() {
     $('.slider-man').slick({
         centerMode: true,
         centerPadding: '0px',
+        autoplay: true,
+        autoplaySpeed: 2000,
         slidesToShow: 3,
         responsive: [{
                 breakpoint: 768,
@@ -108,6 +126,8 @@ $(document).ready(function() {
     $('.slider-imf-wrapper').slick({
         centerMode: true,
         centerPadding: '0px',
+        autoplay: true,
+        autoplaySpeed: 2000,
         slidesToShow: 4,
         responsive: [{
                 breakpoint: 768,

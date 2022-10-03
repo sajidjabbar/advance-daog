@@ -12,7 +12,8 @@
                 <div class="col-xl-5 col-lg-5 col-md-6 ">
                     <div class="login-start">
                         <div class="main-heading">
-                            <h2>Register</h2>
+                            <h2 data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="2000">Register
+                            </h2>
                         </div>
                         <div class="text-box mt-5">
                             <h4 class="mb-0"><span>Welcome Back to</span> Advanced AOG</h4>

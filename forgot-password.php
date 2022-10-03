@@ -10,7 +10,8 @@
             <div class="forgot-password">
                 <div class="login-start">
                     <div class="main-heading text-center">
-                        <h2>Enter Email</h2>
+                        <h2 data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="2000">Enter Email
+                        </h2>
                     </div>
                     <div class="text-box mt-4 text-center">
                         <h5 class="for-normal-heading">Please Enter Your Email Below</h5>
@@ -19,7 +20,8 @@
                     <div class="form-start">
                         <form method="POST">
                             <div class="form-row">
-                                <input type="text" class="form-control mt-4 all-inputs" name="" placeholder="Enter Email" id="">
+                                <input type="text" class="form-control mt-4 all-inputs" name=""
+                                    placeholder="Enter Email" id="">
                             </div>
                             <div class="form-row">
                                 <button type="submit" class="form-control mt-4 form-submit-btn">Submit</button>
@@ -27,7 +29,8 @@
                         </form>
                     </div>
                     <div class="agree-terms-and-conditions">
-                        <p>By Creating Account you are agree to our <a href="terms-condition.php"> Terms & conditions</a></p>
+                        <p>By Creating Account you are agree to our <a href="terms-condition.php"> Terms &
+                                conditions</a></p>
                     </div>
                 </div>
 

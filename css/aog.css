@@ -33,9 +33,9 @@
 
 /* aog maintenenance start here */
 .single-maintenance {
-	margin-top: 80px;
+	margin-top: 20px;
+	margin-bottom: 80px;
 }
-
 .side-text-1 {
 	padding-left: 25px;
 }
@@ -43,7 +43,9 @@
 .side-text-2 {
 	padding-right: 25px;
 }
-
+.content-wrapper h1 {
+	font-size: 50px;
+}
 .normal-text h1 {
 	color: #002154;
 	font-size: 47px;

@@ -11,7 +11,7 @@
         <div class="row">
             <div class="col-lg-7">
                 <div class="content-wrapper1">
-                    <h1>Services</h1>
+                    <h1 data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="2000">Services</h1>
                 </div>
             </div>
         </div>
@@ -56,7 +56,7 @@
                         </a>
                     </div>
                     <div class="col-md-4 mt-5">
-                        <a href="aog.php">
+                        <a href="aog1.php">
                             <div class="single-blog">
                                 <img id="aircraft" src="img/service4.png" class="img-fluid" alt="">
                                 <div class="blog-text">
@@ -75,7 +75,7 @@
                         </a>
                     </div>
                     <div class="col-md-4 mt-5">
-                        <a href="aog.php">
+                        <a href="aog2.php">
                             <div class="single-blog">
                                 <img id="aircraft" src="img/service3.png" class="img-fluid" alt="">
                                 <div class="blog-text">
@@ -96,7 +96,7 @@
                         </a>
                     </div>
                     <div class="col-md-4 mt-5">
-                        <a href="aog.php">
+                        <a href="aog3.php">
                             <div class="single-blog">
                                 <img id="aircraft" src="img/service-1.webp" class="img-fluid" alt="">
                                 <div class="blog-text">
@@ -114,7 +114,7 @@
                         </a>
                     </div>
                     <div class="col-md-4 mt-5">
-                        <a href="aog.php">
+                        <a href="aog4.php">
                             <div class="single-blog">
                                 <img src="img/service-2.webp" class="img-fluid" alt="">
                                 <div class="blog-text">
@@ -133,7 +133,7 @@
                         </a>
                     </div>
                     <div class="col-md-4 mt-5">
-                        <a href="aog.php">
+                        <a href="aog5.php">
                             <div class="single-blog">
                                 <img src="img/service-3.webp" class="img-fluid" alt="">
                                 <div class="blog-text">

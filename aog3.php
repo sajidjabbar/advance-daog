@@ -11,8 +11,8 @@
         <div class="row">
             <div class="col-lg-7">
                 <div class="content-wrapper">
-                    <h1 data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="2000"> AOG MAINTENANCE
-                    </h1>
+                    <h1 data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="2000"> DESIGN
+                        ENGINEERING</h1>
                 </div>
             </div>
         </div>
@@ -23,7 +23,7 @@
 <section class="aog-top-text-section">
     <div class="container">
         <div class="text-start-here">
-            <h1>We Offer Wide range of Aog Maintenance </h1>
+            <h1>We Offer Wide range of Design Engineering </h1>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
                 dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p>
         </div>
