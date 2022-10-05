@@ -53,7 +53,7 @@
 
                                     500 Briscoe Blvd. <br>
 
-                                    Lawrenceville, GA 30346 <br>
+                                    Lawrenceville, GA 30046 <br>
 
                                     KLZU Gwinnett County Airport <br>
                                 </a>
@@ -70,8 +70,10 @@
                             <li><a href="MX@AdvancedAOG.com"> <i><img src="img/email.webp" alt="" class="mr-2"></i>
                                     &nbsp; MX@AdvancedAOG.com</a> <a class="support-email"
                                     href="Support@AdvancedAOG.com">Support@AdvancedAOG.com</a></li>
-                            <li class="line-li"><a href="tel:+01234456890"> <i class=""><img src="img/phone-2.webp"
-                                            alt="" class="mr-2"></i> &nbsp;&nbsp; Call Us: +0 1234 456 890</a></li>
+                            <li class="line-li"><a href="tel:+1 (855) 264-2424"> <i class=""><img src="img/phone-2.webp"
+                                            alt="" class="mr-2"></i> &nbsp;&nbsp; Call Us: +1
+                                    (855) AOG-2424 <br> <span>+1 (855) 264-2424
+                                    </span></a></li>
                         </ul>
                         <!-- <button class="btn">Contact Now</button> -->
                     </div>

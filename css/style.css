@@ -241,17 +241,17 @@ ul.social-links.d-flex {
 	text-transform: capitalize;
 }
 
-li.dropdownOpen.active a.dropdown i:before {
+/* li.dropdownOpen.active a.dropdown i:before {
 	content: "\f105 ";
-}
-.off-canvas-header-wrapper a.dropdown i::before {
+} */
+/* .off-canvas-header-wrapper a.dropdown i::before {
 	transition: all 0.3s ease-in-out;
 }
 
 .off-canvas-header-wrapper a.dropdown:hover i::before {
 	content: "\f105 ";
 	font-family: "FontAwesome";
-}
+} */
 
 .off-canvas-header-wrapper ul {
 	list-style: none;
@@ -1744,4 +1744,7 @@ a.d-flex.align-items-baseline {
 	transform: rotate(135deg);
 	-webkit-transform: rotate(134deg);
 	margin-top: -13px;
+}
+.footer-links-wrapper li span {
+	margin-left: 82px;
 }

@@ -33,7 +33,7 @@
                             <li><a href="index.php">Home</a></li>
                             <li><a href="about.php">About us</a></li>
                             <li class="dropdownOpen"><a href="services.php" class="dropdown">services <i
-                                        class="fa fa-angle-down"></i></a></li>
+                                        class="fa fa-angle-downsada"></i></a></li>
                             <li><a href="career.php">Careers</a></li>
                             <!-- <li><a href="blogs.php">Blogs</a></li> -->
                             <li><a href="contact-us.php">Contact Us</a></li>
@@ -41,7 +41,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4">
-                    <div class="navbar-item-wrapper" id="OnhoverShow" style="display: none;">
+                    <!-- <div class="navbar-item-wrapper" id="OnhoverShow" style="display: none;">
                         <ul>
                             <li><a href="aog.php">AOG Maintenance</a></li>
                             <li><a href="aog1.php">Base Maintenance</a></li>
@@ -50,7 +50,7 @@
                             <li><a href="aog4.php">Aircraft Management</a></li>
                             <li><a href="aog5.php">Aircraft Brokerage</a></li>
                         </ul>
-                    </div>
+                    </div> -->
                 </div>
                 <div class="col-lg-4"></div>
             </div>

@@ -119,7 +119,10 @@
                     </div>
 
                     <div class="info-annchor">
-                        <a href="tel:012-3456-7890">012-3456-7890</a>
+                        <a href="tel:+1 (855) 264-2424">+1 (855) AOG-2424
+                            <br>
+                        </a>
+                        <a href="tel:+1 (855) 264-2424">+1 (855) 264-2424</a>
                     </div>
 
                 </div>
@@ -136,7 +139,7 @@
                         <p>
                             500 Briscoe Blvd. <br>
 
-                            Lawrenceville, GA 30346 <br>
+                            Lawrenceville, GA 30046 <br>
 
                             KLZU Gwinnett County Airport
                         </p>
