@@ -36,7 +36,7 @@
                 </div>
                 <div class="col-md-6">
                     <div class="text-on-right-side">
-                        <div class="normal-para">
+                        <!-- <div class="normal-para">
                             <p>
                                 We own and operate a Part 91 Cessna 310Q based at LZU to provide AOG support all across
                                 the Eastern US and Northern Caribbean. Privately transporting our technicians and parts
@@ -48,7 +48,7 @@
                             <p>RANGE: 4.5 Hours w/ IFR Fuel Reserves (est. 850nm)</p>
                             <p>SPEED: 190kts Cruise</p>
                             <p>Payload: 700lbs w/ Full Fuel & Single Pilot</p>
-                        </div>
+                        </div> -->
                         <!-- <div class="link-to-services mt-3">
                             <a href="blogs-detail.php">Our Services &nbsp;&nbsp; <img src="img/right-arrow.webp"
                                     alt=""></a>
@@ -188,7 +188,7 @@
                         <div class="text-wraper">
                             <!-- <h1>Who we Actually are</h1> -->
                             <p>
-                                Maintenanc Service Center (MRO)
+                                Maintenance Service Center (MRO)
                             </p>
                             <p>
                                 Based: Gwinnett County Airport KLZU

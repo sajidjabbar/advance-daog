@@ -306,6 +306,11 @@ section.team-behind-start {
 	section.why-we-are-best {
 		padding: 0px 0px 0px 0px;
 	}
+	.for-img img {
+		border-radius: 19px;
+		height: 410px;
+		object-fit: fill;
+	}
 }
 @media (max-width: 414px) {
 	.banner {
